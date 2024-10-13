@@ -5,6 +5,11 @@ from matplotlib import pyplot as plt
 
 from market import Market, Stock
 
+transaction_cost = 1
+
+
+# transaction_cost = 0
+
 
 class AlgorithmStrategy:
 	def __init__(self, market: Market, alg_name: str = "base_alg", start_capital: float = 10000):
@@ -32,7 +37,7 @@ class AlgorithmStrategy:
 				capital_changed = True
 				if to_buy > 0:
 					self.portfolio[stock.name] += to_buy
-					self.capital -= stock.price() * to_buy
+					self.capital -= (stock.price() * to_buy) + transaction_cost
 					self.log(f"buy {to_buy} {stock.name}")
 
 				if self.portfolio[stock.name] < to_buy:
@@ -40,7 +45,7 @@ class AlgorithmStrategy:
 
 				if to_sell > 0:
 					self.portfolio[stock.name] -= to_sell
-					self.capital += stock.price() * to_sell
+					self.capital += (stock.price() * to_sell) - transaction_cost
 					self.log(f"sell {to_sell} {stock.name}")
 
 				self.capital = round(self.capital, 2)
@@ -75,18 +80,23 @@ class AlgorithmStrategy:
 	def clean_log(self) -> None:
 		open(f"./logs/{self.name}.log", "w").close()
 
+	def tot_stock_value(self) -> float:
+		return round(sum([self.market.stock_by_name(name).price() * n for name, n in self.portfolio.items()]), 2)
+
 	def tot_capital(self) -> float:
-		return round(self.capital + sum([self.market.stock_by_name(name).price() * n for name, n in self.portfolio.items()]), 2)
+		return round(self.capital + self.tot_stock_value(), 2)
 
 	def stats(self) -> dict:
 		return {
 			'name': self.name,
 			'n transactions': self.n_tran,
-			'revenue': self.capital,
+			'liquid': self.capital,
 			'max capital': max(self.capital_history[1]),
 			'min capital': min(self.capital_history[1]),
 			'final portfolio': self.portfolio,
-			'tot capital': self.tot_capital()
+			'tot stock value': self.tot_stock_value(),
+			'tot capital': self.tot_capital(),
+			'profit %': round((self.tot_capital() / (-self.capital if self.capital < 0 else 1)), 2)
 		}
 
 	def print_stats(self) -> None:
@@ -113,7 +123,7 @@ class AlgorithmStrategy:
 		axs[1].grid()
 		axs[1].set_xlim(axs[0].get_xlim())
 		fig.legend(loc="center right")
-		fig.set_figwidth(13)
+		fig.set_size_inches(13.5, 8.5)
 
 
 class Simple(AlgorithmStrategy):
@@ -163,8 +173,10 @@ class AllInAllOut(AlgorithmStrategy):
 		self.time_comp = int(params[3])
 
 	def buy_sell(self, stock: Stock) -> tuple:
-		if self.portfolio[stock.name] == 0 and stock.price() < stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc):
+		if self.portfolio[stock.name] == 0 and stock.price() + (transaction_cost / self.n_stock_mov) < stock.historical_average(from_time=self.time_comp) * (
+				1 + self.buy_perc):
 			return self.n_stock_mov, 0
-		if self.portfolio[stock.name] > 0 and stock.price() > stock.historical_average(from_time=self.time_comp) * (1 + self.sell_perc):
+		if self.portfolio[stock.name] > 0 and stock.price() - (transaction_cost / self.n_stock_mov) > stock.historical_average(from_time=self.time_comp) * (
+				1 + self.sell_perc):
 			return 0, self.n_stock_mov
 		return 0, 0

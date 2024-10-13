@@ -1,1602 +1,210 @@
-2024/10/13_14:18:54.562988 tick27	buyed 1 msft
-2024/10/13_14:18:54.563992 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick27		capital: -369.85
-2024/10/13_14:18:54.563992 tick28	selled 1 msft
-2024/10/13_14:18:54.563992 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick28		capital: 7.59
-2024/10/13_14:18:54.563992 tick29	buyed 1 csco
-2024/10/13_14:18:54.563992 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick29		capital: -40.21
-2024/10/13_14:18:54.563992 tick30	buyed 1 aapl
-2024/10/13_14:18:54.563992 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick30		capital: -231.52
-2024/10/13_14:18:54.563992 tick30	buyed 1 csco
-2024/10/13_14:18:54.563992 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick30		capital: -279.6
-2024/10/13_14:18:54.563992 tick32	buyed 1 csco
-2024/10/13_14:18:54.563992 tick32		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick32		capital: -327.53
-2024/10/13_14:18:54.563992 tick34	buyed 1 nvda
-2024/10/13_14:18:54.563992 tick34		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick34		capital: -375.35
-2024/10/13_14:18:54.563992 tick35	buyed 1 nvda
-2024/10/13_14:18:54.563992 tick35		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick35		capital: -423.49
-2024/10/13_14:18:54.563992 tick39	buyed 1 csco
-2024/10/13_14:18:54.563992 tick39		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick39		capital: -471.19
-2024/10/13_14:18:54.563992 tick40	buyed 1 nvda
-2024/10/13_14:18:54.563992 tick40		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick40		capital: -516.69
-2024/10/13_14:18:54.563992 tick41	selled 1 aapl
-2024/10/13_14:18:54.563992 tick41		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick41		capital: -320.98
-2024/10/13_14:18:54.563992 tick42	selled 4 csco
-2024/10/13_14:18:54.563992 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick42		capital: -123.42
-2024/10/13_14:18:54.563992 tick46	selled 3 nvda
-2024/10/13_14:18:54.563992 tick46		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick46		capital: 21.63
-2024/10/13_14:18:54.563992 tick54	buyed 1 amzn
-2024/10/13_14:18:54.563992 tick54		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick54		capital: -131.71
-2024/10/13_14:18:54.563992 tick55	buyed 1 amzn
-2024/10/13_14:18:54.563992 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick55		capital: -285.09
-2024/10/13_14:18:54.563992 tick55	buyed 1 csco
-2024/10/13_14:18:54.563992 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick55		capital: -335.61
-2024/10/13_14:18:54.563992 tick56	buyed 1 csco
-2024/10/13_14:18:54.563992 tick56		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick56		capital: -386.12
-2024/10/13_14:18:54.563992 tick57	buyed 1 csco
-2024/10/13_14:18:54.563992 tick57		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick57		capital: -436.63
-2024/10/13_14:18:54.563992 tick59	buyed 1 nvda
-2024/10/13_14:18:54.563992 tick59		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick59		capital: -484.63
-2024/10/13_14:18:54.563992 tick60	selled 1 nvda
-2024/10/13_14:18:54.563992 tick60		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick60		capital: -435.53
-2024/10/13_14:18:54.563992 tick61	buyed 1 csco
-2024/10/13_14:18:54.563992 tick61		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick61		capital: -485.44
-2024/10/13_14:18:54.563992 tick62	buyed 1 csco
-2024/10/13_14:18:54.563992 tick62		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick62		capital: -535.68
-2024/10/13_14:18:54.563992 tick64	buyed 1 csco
-2024/10/13_14:18:54.563992 tick64		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick64		capital: -586.02
-2024/10/13_14:18:54.563992 tick66	buyed 1 csco
-2024/10/13_14:18:54.563992 tick66		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick66		capital: -636.32
-2024/10/13_14:18:54.563992 tick69	selled 7 csco
-2024/10/13_14:18:54.563992 tick69		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.563992 tick69		capital: -275.33
-2024/10/13_14:18:54.564996 tick72	selled 2 amzn
-2024/10/13_14:18:54.564996 tick72		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick72		capital: 38.41
-2024/10/13_14:18:54.564996 tick78	buyed 1 csco
-2024/10/13_14:18:54.564996 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick78		capital: -11.77
-2024/10/13_14:18:54.564996 tick79	buyed 1 csco
-2024/10/13_14:18:54.564996 tick79		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick79		capital: -61.28
-2024/10/13_14:18:54.564996 tick80	buyed 1 csco
-2024/10/13_14:18:54.564996 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick80		capital: -111.26
-2024/10/13_14:18:54.564996 tick82	buyed 1 csco
-2024/10/13_14:18:54.564996 tick82		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick82		capital: -161.21
-2024/10/13_14:18:54.564996 tick84	buyed 1 csco
-2024/10/13_14:18:54.564996 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick84		capital: -211.2
-2024/10/13_14:18:54.564996 tick88	buyed 1 csco
-2024/10/13_14:18:54.564996 tick88		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick88		capital: -259.64
-2024/10/13_14:18:54.564996 tick90	buyed 1 aapl
-2024/10/13_14:18:54.564996 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick90		capital: -441.96
-2024/10/13_14:18:54.564996 tick90	buyed 1 csco
-2024/10/13_14:18:54.564996 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick90		capital: -490.44
-2024/10/13_14:18:54.564996 tick93	buyed 1 csco
-2024/10/13_14:18:54.564996 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick93		capital: -538.84
-2024/10/13_14:18:54.564996 tick96	buyed 1 csco
-2024/10/13_14:18:54.564996 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick96		capital: -587.21
-2024/10/13_14:18:54.564996 tick115	buyed 1 csco
-2024/10/13_14:18:54.564996 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick115		capital: -636.98
-2024/10/13_14:18:54.564996 tick116	buyed 1 csco
-2024/10/13_14:18:54.564996 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick116		capital: -686.89
-2024/10/13_14:18:54.564996 tick117	buyed 1 csco
-2024/10/13_14:18:54.564996 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 12, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick117		capital: -736.93
-2024/10/13_14:18:54.564996 tick118	buyed 1 csco
-2024/10/13_14:18:54.564996 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick118		capital: -786.29
-2024/10/13_14:18:54.564996 tick120	buyed 1 aapl
-2024/10/13_14:18:54.564996 tick120		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick120		capital: -955.11
-2024/10/13_14:18:54.564996 tick121	buyed 1 aapl
-2024/10/13_14:18:54.564996 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick121		capital: -1124.69
-2024/10/13_14:18:54.564996 tick121	buyed 1 csco
-2024/10/13_14:18:54.564996 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.564996 tick121		capital: -1173.24
-2024/10/13_14:18:54.565996 tick123	buyed 1 aapl
-2024/10/13_14:18:54.565996 tick123		portfolio: {'aapl': 4, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick123		capital: -1342.91
-2024/10/13_14:18:54.565996 tick126	selled 4 aapl
-2024/10/13_14:18:54.565996 tick126		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick126		capital: -636.71
-2024/10/13_14:18:54.565996 tick129	buyed 1 csco
-2024/10/13_14:18:54.565996 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick129		capital: -684.5
-2024/10/13_14:18:54.565996 tick129	buyed 1 msft
-2024/10/13_14:18:54.565996 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick129		capital: -1096.34
-2024/10/13_14:18:54.565996 tick130	buyed 1 csco
-2024/10/13_14:18:54.565996 tick130		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 16, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick130		capital: -1144.45
-2024/10/13_14:18:54.565996 tick132	buyed 1 csco
-2024/10/13_14:18:54.565996 tick132		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 17, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick132		capital: -1192.59
-2024/10/13_14:18:54.565996 tick135	buyed 1 csco
-2024/10/13_14:18:54.565996 tick135		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 18, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick135		capital: -1240.69
-2024/10/13_14:18:54.565996 tick140	buyed 1 csco
-2024/10/13_14:18:54.565996 tick140		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick140		capital: -1287.48
-2024/10/13_14:18:54.565996 tick149	selled 1 msft
-2024/10/13_14:18:54.565996 tick149		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick149		capital: -864.4
-2024/10/13_14:18:54.565996 tick150	buyed 1 csco
-2024/10/13_14:18:54.565996 tick150		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick150		capital: -912.74
-2024/10/13_14:18:54.565996 tick153	buyed 1 amzn
-2024/10/13_14:18:54.565996 tick153		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick153		capital: -1096.28
-2024/10/13_14:18:54.565996 tick154	buyed 1 aapl
-2024/10/13_14:18:54.565996 tick154		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick154		capital: -1287.18
-2024/10/13_14:18:54.565996 tick159	buyed 1 csco
-2024/10/13_14:18:54.565996 tick159		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick159		capital: -1333.3
-2024/10/13_14:18:54.565996 tick163	selled 1 aapl
-2024/10/13_14:18:54.565996 tick163		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick163		capital: -1137.43
-2024/10/13_14:18:54.565996 tick165	buyed 1 csco
-2024/10/13_14:18:54.565996 tick165		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 22, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick165		capital: -1183.27
-2024/10/13_14:18:54.565996 tick167	buyed 1 csco
-2024/10/13_14:18:54.565996 tick167		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick167		capital: -1229.04
-2024/10/13_14:18:54.565996 tick168	selled 1 amzn
-2024/10/13_14:18:54.565996 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick168		capital: -1041.81
-2024/10/13_14:18:54.565996 tick168	buyed 1 nvda
-2024/10/13_14:18:54.565996 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.565996 tick168		capital: -1162.72
-2024/10/13_14:18:54.567068 tick169	selled 1 nvda
-2024/10/13_14:18:54.567068 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick169		capital: -1037.52
-2024/10/13_14:18:54.567068 tick170	buyed 1 csco
-2024/10/13_14:18:54.567068 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick170		capital: -1083.2
-2024/10/13_14:18:54.567068 tick174	buyed 1 nvda
-2024/10/13_14:18:54.567068 tick174		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick174		capital: -1213.98
-2024/10/13_14:18:54.567068 tick177	buyed 1 csco
-2024/10/13_14:18:54.567068 tick177		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 25, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick177		capital: -1260.84
-2024/10/13_14:18:54.567068 tick181	buyed 1 csco
-2024/10/13_14:18:54.567068 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 26, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick181		capital: -1308.12
-2024/10/13_14:18:54.567068 tick183	buyed 1 csco
-2024/10/13_14:18:54.567068 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 27, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick183		capital: -1354.77
-2024/10/13_14:18:54.567068 tick185	buyed 1 csco
-2024/10/13_14:18:54.567068 tick185		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick185		capital: -1400.57
-2024/10/13_14:18:54.567068 tick187	selled 1 nvda
-2024/10/13_14:18:54.567068 tick187		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick187		capital: -1265.66
-2024/10/13_14:18:54.567068 tick194	buyed 1 csco
-2024/10/13_14:18:54.567068 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick194		capital: -1312.48
-2024/10/13_14:18:54.567068 tick194	buyed 1 nvda
-2024/10/13_14:18:54.567068 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick194		capital: -1430.41
-2024/10/13_14:18:54.567068 tick195	selled 1 nvda
-2024/10/13_14:18:54.567068 tick195		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick195		capital: -1306.87
-2024/10/13_14:18:54.567068 tick202	buyed 1 csco
-2024/10/13_14:18:54.567068 tick202		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 30, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567068 tick202		capital: -1354.26
-2024/10/13_14:18:54.567998 tick213	selled 30 csco
-2024/10/13_14:18:54.567998 tick213		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick213		capital: 129.54
-2024/10/13_14:18:54.567998 tick220	buyed 1 csco
-2024/10/13_14:18:54.567998 tick220		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick220		capital: 78.83
-2024/10/13_14:18:54.567998 tick225	buyed 1 csco
-2024/10/13_14:18:54.567998 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick225		capital: 29.13
-2024/10/13_14:18:54.567998 tick226	buyed 1 csco
-2024/10/13_14:18:54.567998 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick226		capital: -20.0
-2024/10/13_14:18:54.567998 tick227	buyed 1 aapl
-2024/10/13_14:18:54.567998 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick227		capital: -240.82
-2024/10/13_14:18:54.567998 tick227	buyed 1 csco
-2024/10/13_14:18:54.567998 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick227		capital: -289.32
-2024/10/13_14:18:54.567998 tick228	buyed 1 csco
-2024/10/13_14:18:54.567998 tick228		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick228		capital: -338.02
-2024/10/13_14:18:54.567998 tick233	selled 5 csco
-2024/10/13_14:18:54.567998 tick233		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick233		capital: -82.87
-2024/10/13_14:18:54.567998 tick236	selled 1 aapl
-2024/10/13_14:18:54.567998 tick236		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick236		capital: 146.0
-2024/10/13_14:18:54.567998 tick240	buyed 1 aapl
-2024/10/13_14:18:54.567998 tick240		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick240		capital: -80.37
-2024/10/13_14:18:54.567998 tick241	buyed 1 msft
-2024/10/13_14:18:54.567998 tick241		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick241		capital: -511.68
-2024/10/13_14:18:54.567998 tick243	selled 1 aapl
-2024/10/13_14:18:54.567998 tick243		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick243		capital: -278.68
-2024/10/13_14:18:54.567998 tick247	buyed 1 aapl
-2024/10/13_14:18:54.567998 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick247		capital: -505.48
-2024/10/13_14:18:54.567998 tick247	buyed 1 csco
-2024/10/13_14:18:54.567998 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick247		capital: -558.23
-2024/10/13_14:18:54.567998 tick248	buyed 1 csco
-2024/10/13_14:18:54.567998 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick248		capital: -610.74
-2024/10/13_14:18:54.567998 tick249	buyed 1 csco
-2024/10/13_14:18:54.567998 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:18:54.567998 tick249		capital: -663.47
-2024/10/13_14:58:40.916976 tick27	buyed 1 msft
-2024/10/13_14:58:40.916976 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.916976 tick27		capital: -369.85
-2024/10/13_14:58:40.916976 tick28	selled 1 msft
-2024/10/13_14:58:40.916976 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.916976 tick28		capital: 7.59
-2024/10/13_14:58:40.916976 tick29	buyed 1 csco
-2024/10/13_14:58:40.916976 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.916976 tick29		capital: -40.21
-2024/10/13_14:58:40.916976 tick30	buyed 1 aapl
-2024/10/13_14:58:40.916976 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.916976 tick30		capital: -231.52
-2024/10/13_14:58:40.916976 tick30	buyed 1 csco
-2024/10/13_14:58:40.916976 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.916976 tick30		capital: -279.6
-2024/10/13_14:58:40.917976 tick32	buyed 1 csco
-2024/10/13_14:58:40.917976 tick32		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick32		capital: -327.53
-2024/10/13_14:58:40.917976 tick34	buyed 1 nvda
-2024/10/13_14:58:40.917976 tick34		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick34		capital: -375.35
-2024/10/13_14:58:40.917976 tick35	buyed 1 nvda
-2024/10/13_14:58:40.917976 tick35		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick35		capital: -423.49
-2024/10/13_14:58:40.917976 tick39	buyed 1 csco
-2024/10/13_14:58:40.917976 tick39		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick39		capital: -471.19
-2024/10/13_14:58:40.917976 tick40	buyed 1 nvda
-2024/10/13_14:58:40.917976 tick40		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick40		capital: -516.69
-2024/10/13_14:58:40.917976 tick41	selled 1 aapl
-2024/10/13_14:58:40.917976 tick41		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick41		capital: -320.98
-2024/10/13_14:58:40.917976 tick42	selled 4 csco
-2024/10/13_14:58:40.917976 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_14:58:40.917976 tick42		capital: -123.42
-2024/10/13_14:58:40.918978 tick46	selled 3 nvda
-2024/10/13_14:58:40.918978 tick46		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.918978 tick46		capital: 21.63
-2024/10/13_14:58:40.918978 tick54	buyed 1 amzn
-2024/10/13_14:58:40.918978 tick54		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.918978 tick54		capital: -131.71
-2024/10/13_14:58:40.918978 tick55	buyed 1 amzn
-2024/10/13_14:58:40.918978 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.918978 tick55		capital: -285.09
-2024/10/13_14:58:40.918978 tick55	buyed 1 csco
-2024/10/13_14:58:40.918978 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.918978 tick55		capital: -335.61
-2024/10/13_14:58:40.919482 tick56	buyed 1 csco
-2024/10/13_14:58:40.919482 tick56		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919482 tick56		capital: -386.12
-2024/10/13_14:58:40.919482 tick57	buyed 1 csco
-2024/10/13_14:58:40.919482 tick57		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919482 tick57		capital: -436.63
-2024/10/13_14:58:40.919482 tick59	buyed 1 nvda
-2024/10/13_14:58:40.919482 tick59		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.919482 tick59		capital: -484.63
-2024/10/13_14:58:40.919482 tick60	selled 1 nvda
-2024/10/13_14:58:40.919482 tick60		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919482 tick60		capital: -435.53
-2024/10/13_14:58:40.919985 tick61	buyed 1 csco
-2024/10/13_14:58:40.919985 tick61		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919985 tick61		capital: -485.44
-2024/10/13_14:58:40.919985 tick62	buyed 1 csco
-2024/10/13_14:58:40.919985 tick62		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919985 tick62		capital: -535.68
-2024/10/13_14:58:40.919985 tick64	buyed 1 csco
-2024/10/13_14:58:40.919985 tick64		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919985 tick64		capital: -586.02
-2024/10/13_14:58:40.919985 tick66	buyed 1 csco
-2024/10/13_14:58:40.919985 tick66		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919985 tick66		capital: -636.32
-2024/10/13_14:58:40.919985 tick69	selled 7 csco
-2024/10/13_14:58:40.919985 tick69		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.919985 tick69		capital: -275.33
-2024/10/13_14:58:40.920988 tick72	selled 2 amzn
-2024/10/13_14:58:40.920988 tick72		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick72		capital: 38.41
-2024/10/13_14:58:40.920988 tick78	buyed 1 csco
-2024/10/13_14:58:40.920988 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick78		capital: -11.77
-2024/10/13_14:58:40.920988 tick79	buyed 1 csco
-2024/10/13_14:58:40.920988 tick79		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick79		capital: -61.28
-2024/10/13_14:58:40.920988 tick80	buyed 1 csco
-2024/10/13_14:58:40.920988 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick80		capital: -111.26
-2024/10/13_14:58:40.920988 tick82	buyed 1 csco
-2024/10/13_14:58:40.920988 tick82		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick82		capital: -161.21
-2024/10/13_14:58:40.920988 tick84	buyed 1 csco
-2024/10/13_14:58:40.920988 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick84		capital: -211.2
-2024/10/13_14:58:40.920988 tick88	buyed 1 csco
-2024/10/13_14:58:40.920988 tick88		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick88		capital: -259.64
-2024/10/13_14:58:40.920988 tick90	buyed 1 aapl
-2024/10/13_14:58:40.920988 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick90		capital: -441.96
-2024/10/13_14:58:40.920988 tick90	buyed 1 csco
-2024/10/13_14:58:40.920988 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.920988 tick90		capital: -490.44
-2024/10/13_14:58:40.921988 tick93	buyed 1 csco
-2024/10/13_14:58:40.921988 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.921988 tick93		capital: -538.84
-2024/10/13_14:58:40.921988 tick96	buyed 1 csco
-2024/10/13_14:58:40.921988 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.921988 tick96		capital: -587.21
-2024/10/13_14:58:40.922989 tick115	buyed 1 csco
-2024/10/13_14:58:40.922989 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick115		capital: -636.98
-2024/10/13_14:58:40.922989 tick116	buyed 1 csco
-2024/10/13_14:58:40.922989 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick116		capital: -686.89
-2024/10/13_14:58:40.922989 tick117	buyed 1 csco
-2024/10/13_14:58:40.922989 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 12, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick117		capital: -736.93
-2024/10/13_14:58:40.922989 tick118	buyed 1 csco
-2024/10/13_14:58:40.922989 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick118		capital: -786.29
-2024/10/13_14:58:40.922989 tick120	buyed 1 aapl
-2024/10/13_14:58:40.922989 tick120		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick120		capital: -955.11
-2024/10/13_14:58:40.922989 tick121	buyed 1 aapl
-2024/10/13_14:58:40.922989 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick121		capital: -1124.69
-2024/10/13_14:58:40.922989 tick121	buyed 1 csco
-2024/10/13_14:58:40.922989 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick121		capital: -1173.24
-2024/10/13_14:58:40.922989 tick123	buyed 1 aapl
-2024/10/13_14:58:40.922989 tick123		portfolio: {'aapl': 4, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.922989 tick123		capital: -1342.91
-2024/10/13_14:58:40.923988 tick126	selled 4 aapl
-2024/10/13_14:58:40.923988 tick126		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick126		capital: -636.71
-2024/10/13_14:58:40.923988 tick129	buyed 1 csco
-2024/10/13_14:58:40.923988 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick129		capital: -684.5
-2024/10/13_14:58:40.923988 tick129	buyed 1 msft
-2024/10/13_14:58:40.923988 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick129		capital: -1096.34
-2024/10/13_14:58:40.923988 tick130	buyed 1 csco
-2024/10/13_14:58:40.923988 tick130		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 16, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick130		capital: -1144.45
-2024/10/13_14:58:40.923988 tick132	buyed 1 csco
-2024/10/13_14:58:40.923988 tick132		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 17, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick132		capital: -1192.59
-2024/10/13_14:58:40.923988 tick135	buyed 1 csco
-2024/10/13_14:58:40.923988 tick135		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 18, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick135		capital: -1240.69
-2024/10/13_14:58:40.923988 tick140	buyed 1 csco
-2024/10/13_14:58:40.923988 tick140		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.923988 tick140		capital: -1287.48
-2024/10/13_14:58:40.924988 tick149	selled 1 msft
-2024/10/13_14:58:40.924988 tick149		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick149		capital: -864.4
-2024/10/13_14:58:40.924988 tick150	buyed 1 csco
-2024/10/13_14:58:40.924988 tick150		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick150		capital: -912.74
-2024/10/13_14:58:40.924988 tick153	buyed 1 amzn
-2024/10/13_14:58:40.924988 tick153		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick153		capital: -1096.28
-2024/10/13_14:58:40.924988 tick154	buyed 1 aapl
-2024/10/13_14:58:40.924988 tick154		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick154		capital: -1287.18
-2024/10/13_14:58:40.924988 tick159	buyed 1 csco
-2024/10/13_14:58:40.924988 tick159		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick159		capital: -1333.3
-2024/10/13_14:58:40.924988 tick163	selled 1 aapl
-2024/10/13_14:58:40.924988 tick163		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick163		capital: -1137.43
-2024/10/13_14:58:40.924988 tick165	buyed 1 csco
-2024/10/13_14:58:40.924988 tick165		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 22, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick165		capital: -1183.27
-2024/10/13_14:58:40.924988 tick167	buyed 1 csco
-2024/10/13_14:58:40.924988 tick167		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick167		capital: -1229.04
-2024/10/13_14:58:40.924988 tick168	selled 1 amzn
-2024/10/13_14:58:40.924988 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick168		capital: -1041.81
-2024/10/13_14:58:40.924988 tick168	buyed 1 nvda
-2024/10/13_14:58:40.924988 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick168		capital: -1162.72
-2024/10/13_14:58:40.924988 tick169	selled 1 nvda
-2024/10/13_14:58:40.924988 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick169		capital: -1037.52
-2024/10/13_14:58:40.924988 tick170	buyed 1 csco
-2024/10/13_14:58:40.924988 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick170		capital: -1083.2
-2024/10/13_14:58:40.924988 tick174	buyed 1 nvda
-2024/10/13_14:58:40.924988 tick174		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick174		capital: -1213.98
-2024/10/13_14:58:40.924988 tick177	buyed 1 csco
-2024/10/13_14:58:40.924988 tick177		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 25, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.924988 tick177		capital: -1260.84
-2024/10/13_14:58:40.926490 tick181	buyed 1 csco
-2024/10/13_14:58:40.926490 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 26, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.926490 tick181		capital: -1308.12
-2024/10/13_14:58:40.926490 tick183	buyed 1 csco
-2024/10/13_14:58:40.926490 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 27, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.926490 tick183		capital: -1354.77
-2024/10/13_14:58:40.926490 tick185	buyed 1 csco
-2024/10/13_14:58:40.926490 tick185		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.926490 tick185		capital: -1400.57
-2024/10/13_14:58:40.926490 tick187	selled 1 nvda
-2024/10/13_14:58:40.926490 tick187		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.926490 tick187		capital: -1265.66
-2024/10/13_14:58:40.927000 tick194	buyed 1 csco
-2024/10/13_14:58:40.927000 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.927000 tick194		capital: -1312.48
-2024/10/13_14:58:40.927000 tick194	buyed 1 nvda
-2024/10/13_14:58:40.927000 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_14:58:40.927000 tick194		capital: -1430.41
-2024/10/13_14:58:40.927000 tick195	selled 1 nvda
-2024/10/13_14:58:40.927000 tick195		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.927000 tick195		capital: -1306.87
-2024/10/13_14:58:40.927000 tick202	buyed 1 csco
-2024/10/13_14:58:40.927000 tick202		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 30, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.927000 tick202		capital: -1354.26
-2024/10/13_14:58:40.928003 tick213	selled 30 csco
-2024/10/13_14:58:40.928003 tick213		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick213		capital: 129.54
-2024/10/13_14:58:40.928003 tick220	buyed 1 csco
-2024/10/13_14:58:40.928003 tick220		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick220		capital: 78.83
-2024/10/13_14:58:40.928003 tick225	buyed 1 csco
-2024/10/13_14:58:40.928003 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick225		capital: 29.13
-2024/10/13_14:58:40.928003 tick226	buyed 1 csco
-2024/10/13_14:58:40.928003 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick226		capital: -20.0
-2024/10/13_14:58:40.928003 tick227	buyed 1 aapl
-2024/10/13_14:58:40.928003 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick227		capital: -240.82
-2024/10/13_14:58:40.928003 tick227	buyed 1 csco
-2024/10/13_14:58:40.928003 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick227		capital: -289.32
-2024/10/13_14:58:40.928003 tick228	buyed 1 csco
-2024/10/13_14:58:40.928003 tick228		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.928003 tick228		capital: -338.02
-2024/10/13_14:58:40.929004 tick233	selled 5 csco
-2024/10/13_14:58:40.929004 tick233		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929004 tick233		capital: -82.87
-2024/10/13_14:58:40.929004 tick236	selled 1 aapl
-2024/10/13_14:58:40.929004 tick236		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929004 tick236		capital: 146.0
-2024/10/13_14:58:40.929004 tick240	buyed 1 aapl
-2024/10/13_14:58:40.929004 tick240		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929004 tick240		capital: -80.37
-2024/10/13_14:58:40.929004 tick241	buyed 1 msft
-2024/10/13_14:58:40.929004 tick241		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929507 tick241		capital: -511.68
-2024/10/13_14:58:40.929507 tick243	selled 1 aapl
-2024/10/13_14:58:40.929507 tick243		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929507 tick243		capital: -278.68
-2024/10/13_14:58:40.929507 tick247	buyed 1 aapl
-2024/10/13_14:58:40.929507 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929507 tick247		capital: -505.48
-2024/10/13_14:58:40.929507 tick247	buyed 1 csco
-2024/10/13_14:58:40.929507 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929507 tick247		capital: -558.23
-2024/10/13_14:58:40.929507 tick248	buyed 1 csco
-2024/10/13_14:58:40.929507 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929507 tick248		capital: -610.74
-2024/10/13_14:58:40.929507 tick249	buyed 1 csco
-2024/10/13_14:58:40.929507 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_14:58:40.929507 tick249		capital: -663.47
-2024/10/13_15:01:01.913755 tick27	buyed 1 msft
-2024/10/13_15:01:01.913755 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.913755 tick27		capital: -369.85
-2024/10/13_15:01:01.913755 tick28	selled 1 msft
-2024/10/13_15:01:01.913755 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.913755 tick28		capital: 7.59
-2024/10/13_15:01:01.913755 tick29	buyed 1 csco
-2024/10/13_15:01:01.913755 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.913755 tick29		capital: -40.21
-2024/10/13_15:01:01.913755 tick30	buyed 1 aapl
-2024/10/13_15:01:01.913755 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.913755 tick30		capital: -231.52
-2024/10/13_15:01:01.913755 tick30	buyed 1 csco
-2024/10/13_15:01:01.913755 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.913755 tick30		capital: -279.6
-2024/10/13_15:01:01.913755 tick32	buyed 1 csco
-2024/10/13_15:01:01.913755 tick32		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.913755 tick32		capital: -327.53
-2024/10/13_15:01:01.914755 tick34	buyed 1 nvda
-2024/10/13_15:01:01.914755 tick34		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick34		capital: -375.35
-2024/10/13_15:01:01.914755 tick35	buyed 1 nvda
-2024/10/13_15:01:01.914755 tick35		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick35		capital: -423.49
-2024/10/13_15:01:01.914755 tick39	buyed 1 csco
-2024/10/13_15:01:01.914755 tick39		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick39		capital: -471.19
-2024/10/13_15:01:01.914755 tick40	buyed 1 nvda
-2024/10/13_15:01:01.914755 tick40		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick40		capital: -516.69
-2024/10/13_15:01:01.914755 tick41	selled 1 aapl
-2024/10/13_15:01:01.914755 tick41		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick41		capital: -320.98
-2024/10/13_15:01:01.914755 tick42	selled 4 csco
-2024/10/13_15:01:01.914755 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick42		capital: -123.42
-2024/10/13_15:01:01.914755 tick46	selled 3 nvda
-2024/10/13_15:01:01.914755 tick46		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.914755 tick46		capital: 21.63
-2024/10/13_15:01:01.915754 tick54	buyed 1 amzn
-2024/10/13_15:01:01.915754 tick54		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick54		capital: -131.71
-2024/10/13_15:01:01.915754 tick55	buyed 1 amzn
-2024/10/13_15:01:01.915754 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick55		capital: -285.09
-2024/10/13_15:01:01.915754 tick55	buyed 1 csco
-2024/10/13_15:01:01.915754 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick55		capital: -335.61
-2024/10/13_15:01:01.915754 tick56	buyed 1 csco
-2024/10/13_15:01:01.915754 tick56		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick56		capital: -386.12
-2024/10/13_15:01:01.915754 tick57	buyed 1 csco
-2024/10/13_15:01:01.915754 tick57		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick57		capital: -436.63
-2024/10/13_15:01:01.915754 tick59	buyed 1 nvda
-2024/10/13_15:01:01.915754 tick59		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick59		capital: -484.63
-2024/10/13_15:01:01.915754 tick60	selled 1 nvda
-2024/10/13_15:01:01.915754 tick60		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick60		capital: -435.53
-2024/10/13_15:01:01.915754 tick61	buyed 1 csco
-2024/10/13_15:01:01.915754 tick61		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick61		capital: -485.44
-2024/10/13_15:01:01.915754 tick62	buyed 1 csco
-2024/10/13_15:01:01.915754 tick62		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick62		capital: -535.68
-2024/10/13_15:01:01.915754 tick64	buyed 1 csco
-2024/10/13_15:01:01.915754 tick64		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick64		capital: -586.02
-2024/10/13_15:01:01.915754 tick66	buyed 1 csco
-2024/10/13_15:01:01.915754 tick66		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.915754 tick66		capital: -636.32
-2024/10/13_15:01:01.916754 tick69	selled 7 csco
-2024/10/13_15:01:01.916754 tick69		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick69		capital: -275.33
-2024/10/13_15:01:01.916754 tick72	selled 2 amzn
-2024/10/13_15:01:01.916754 tick72		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick72		capital: 38.41
-2024/10/13_15:01:01.916754 tick78	buyed 1 csco
-2024/10/13_15:01:01.916754 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick78		capital: -11.77
-2024/10/13_15:01:01.916754 tick79	buyed 1 csco
-2024/10/13_15:01:01.916754 tick79		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick79		capital: -61.28
-2024/10/13_15:01:01.916754 tick80	buyed 1 csco
-2024/10/13_15:01:01.916754 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick80		capital: -111.26
-2024/10/13_15:01:01.916754 tick82	buyed 1 csco
-2024/10/13_15:01:01.916754 tick82		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick82		capital: -161.21
-2024/10/13_15:01:01.916754 tick84	buyed 1 csco
-2024/10/13_15:01:01.916754 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.916754 tick84		capital: -211.2
-2024/10/13_15:01:01.916754 tick88	buyed 1 csco
-2024/10/13_15:01:01.916754 tick88		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.917754 tick88		capital: -259.64
-2024/10/13_15:01:01.917754 tick90	buyed 1 aapl
-2024/10/13_15:01:01.917754 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.917754 tick90		capital: -441.96
-2024/10/13_15:01:01.917754 tick90	buyed 1 csco
-2024/10/13_15:01:01.917754 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.917754 tick90		capital: -490.44
-2024/10/13_15:01:01.917754 tick93	buyed 1 csco
-2024/10/13_15:01:01.917754 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.917754 tick93		capital: -538.84
-2024/10/13_15:01:01.917754 tick96	buyed 1 csco
-2024/10/13_15:01:01.917754 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.917754 tick96		capital: -587.21
-2024/10/13_15:01:01.918754 tick115	buyed 1 csco
-2024/10/13_15:01:01.918754 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.918754 tick115		capital: -636.98
-2024/10/13_15:01:01.919259 tick116	buyed 1 csco
-2024/10/13_15:01:01.919259 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick116		capital: -686.89
-2024/10/13_15:01:01.919259 tick117	buyed 1 csco
-2024/10/13_15:01:01.919259 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 12, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick117		capital: -736.93
-2024/10/13_15:01:01.919259 tick118	buyed 1 csco
-2024/10/13_15:01:01.919259 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick118		capital: -786.29
-2024/10/13_15:01:01.919259 tick120	buyed 1 aapl
-2024/10/13_15:01:01.919259 tick120		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick120		capital: -955.11
-2024/10/13_15:01:01.919259 tick121	buyed 1 aapl
-2024/10/13_15:01:01.919259 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick121		capital: -1124.69
-2024/10/13_15:01:01.919259 tick121	buyed 1 csco
-2024/10/13_15:01:01.919259 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick121		capital: -1173.24
-2024/10/13_15:01:01.919259 tick123	buyed 1 aapl
-2024/10/13_15:01:01.919259 tick123		portfolio: {'aapl': 4, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919259 tick123		capital: -1342.91
-2024/10/13_15:01:01.919762 tick126	selled 4 aapl
-2024/10/13_15:01:01.919762 tick126		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick126		capital: -636.71
-2024/10/13_15:01:01.919762 tick129	buyed 1 csco
-2024/10/13_15:01:01.919762 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick129		capital: -684.5
-2024/10/13_15:01:01.919762 tick129	buyed 1 msft
-2024/10/13_15:01:01.919762 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick129		capital: -1096.34
-2024/10/13_15:01:01.919762 tick130	buyed 1 csco
-2024/10/13_15:01:01.919762 tick130		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 16, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick130		capital: -1144.45
-2024/10/13_15:01:01.919762 tick132	buyed 1 csco
-2024/10/13_15:01:01.919762 tick132		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 17, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick132		capital: -1192.59
-2024/10/13_15:01:01.919762 tick135	buyed 1 csco
-2024/10/13_15:01:01.919762 tick135		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 18, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick135		capital: -1240.69
-2024/10/13_15:01:01.919762 tick140	buyed 1 csco
-2024/10/13_15:01:01.919762 tick140		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.919762 tick140		capital: -1287.48
-2024/10/13_15:01:01.920765 tick149	selled 1 msft
-2024/10/13_15:01:01.920765 tick149		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick149		capital: -864.4
-2024/10/13_15:01:01.920765 tick150	buyed 1 csco
-2024/10/13_15:01:01.920765 tick150		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick150		capital: -912.74
-2024/10/13_15:01:01.920765 tick153	buyed 1 amzn
-2024/10/13_15:01:01.920765 tick153		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick153		capital: -1096.28
-2024/10/13_15:01:01.920765 tick154	buyed 1 aapl
-2024/10/13_15:01:01.920765 tick154		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick154		capital: -1287.18
-2024/10/13_15:01:01.920765 tick159	buyed 1 csco
-2024/10/13_15:01:01.920765 tick159		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick159		capital: -1333.3
-2024/10/13_15:01:01.920765 tick163	selled 1 aapl
-2024/10/13_15:01:01.920765 tick163		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick163		capital: -1137.43
-2024/10/13_15:01:01.920765 tick165	buyed 1 csco
-2024/10/13_15:01:01.920765 tick165		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 22, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.920765 tick165		capital: -1183.27
-2024/10/13_15:01:01.921768 tick167	buyed 1 csco
-2024/10/13_15:01:01.921768 tick167		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick167		capital: -1229.04
-2024/10/13_15:01:01.921768 tick168	selled 1 amzn
-2024/10/13_15:01:01.921768 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick168		capital: -1041.81
-2024/10/13_15:01:01.921768 tick168	buyed 1 nvda
-2024/10/13_15:01:01.921768 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick168		capital: -1162.72
-2024/10/13_15:01:01.921768 tick169	selled 1 nvda
-2024/10/13_15:01:01.921768 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick169		capital: -1037.52
-2024/10/13_15:01:01.921768 tick170	buyed 1 csco
-2024/10/13_15:01:01.921768 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick170		capital: -1083.2
-2024/10/13_15:01:01.921768 tick174	buyed 1 nvda
-2024/10/13_15:01:01.921768 tick174		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick174		capital: -1213.98
-2024/10/13_15:01:01.921768 tick177	buyed 1 csco
-2024/10/13_15:01:01.921768 tick177		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 25, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick177		capital: -1260.84
-2024/10/13_15:01:01.921768 tick181	buyed 1 csco
-2024/10/13_15:01:01.921768 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 26, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick181		capital: -1308.12
-2024/10/13_15:01:01.921768 tick183	buyed 1 csco
-2024/10/13_15:01:01.921768 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 27, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick183		capital: -1354.77
-2024/10/13_15:01:01.921768 tick185	buyed 1 csco
-2024/10/13_15:01:01.921768 tick185		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.921768 tick185		capital: -1400.57
-2024/10/13_15:01:01.921768 tick187	selled 1 nvda
-2024/10/13_15:01:01.922767 tick187		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.922767 tick187		capital: -1265.66
-2024/10/13_15:01:01.922767 tick194	buyed 1 csco
-2024/10/13_15:01:01.922767 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.922767 tick194		capital: -1312.48
-2024/10/13_15:01:01.922767 tick194	buyed 1 nvda
-2024/10/13_15:01:01.922767 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:01.922767 tick194		capital: -1430.41
-2024/10/13_15:01:01.922767 tick195	selled 1 nvda
-2024/10/13_15:01:01.922767 tick195		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.922767 tick195		capital: -1306.87
-2024/10/13_15:01:01.922767 tick202	buyed 1 csco
-2024/10/13_15:01:01.922767 tick202		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 30, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.922767 tick202		capital: -1354.26
-2024/10/13_15:01:01.923767 tick213	selled 30 csco
-2024/10/13_15:01:01.923767 tick213		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick213		capital: 129.54
-2024/10/13_15:01:01.923767 tick220	buyed 1 csco
-2024/10/13_15:01:01.923767 tick220		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick220		capital: 78.83
-2024/10/13_15:01:01.923767 tick225	buyed 1 csco
-2024/10/13_15:01:01.923767 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick225		capital: 29.13
-2024/10/13_15:01:01.923767 tick226	buyed 1 csco
-2024/10/13_15:01:01.923767 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick226		capital: -20.0
-2024/10/13_15:01:01.923767 tick227	buyed 1 aapl
-2024/10/13_15:01:01.923767 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick227		capital: -240.82
-2024/10/13_15:01:01.923767 tick227	buyed 1 csco
-2024/10/13_15:01:01.923767 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick227		capital: -289.32
-2024/10/13_15:01:01.923767 tick228	buyed 1 csco
-2024/10/13_15:01:01.923767 tick228		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.923767 tick228		capital: -338.02
-2024/10/13_15:01:01.924767 tick233	selled 5 csco
-2024/10/13_15:01:01.924767 tick233		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick233		capital: -82.87
-2024/10/13_15:01:01.924767 tick236	selled 1 aapl
-2024/10/13_15:01:01.924767 tick236		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick236		capital: 146.0
-2024/10/13_15:01:01.924767 tick240	buyed 1 aapl
-2024/10/13_15:01:01.924767 tick240		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick240		capital: -80.37
-2024/10/13_15:01:01.924767 tick241	buyed 1 msft
-2024/10/13_15:01:01.924767 tick241		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick241		capital: -511.68
-2024/10/13_15:01:01.924767 tick243	selled 1 aapl
-2024/10/13_15:01:01.924767 tick243		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick243		capital: -278.68
-2024/10/13_15:01:01.924767 tick247	buyed 1 aapl
-2024/10/13_15:01:01.924767 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick247		capital: -505.48
-2024/10/13_15:01:01.924767 tick247	buyed 1 csco
-2024/10/13_15:01:01.924767 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick247		capital: -558.23
-2024/10/13_15:01:01.924767 tick248	buyed 1 csco
-2024/10/13_15:01:01.924767 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick248		capital: -610.74
-2024/10/13_15:01:01.924767 tick249	buyed 1 csco
-2024/10/13_15:01:01.924767 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:01.924767 tick249		capital: -663.47
-2024/10/13_15:01:18.119965 tick27	buyed 1 msft
-2024/10/13_15:01:18.119965 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick27		capital: -369.85
-2024/10/13_15:01:18.119965 tick28	selled 1 msft
-2024/10/13_15:01:18.119965 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick28		capital: 7.59
-2024/10/13_15:01:18.119965 tick29	buyed 1 csco
-2024/10/13_15:01:18.119965 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick29		capital: -40.21
-2024/10/13_15:01:18.119965 tick30	buyed 1 aapl
-2024/10/13_15:01:18.119965 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick30		capital: -231.52
-2024/10/13_15:01:18.119965 tick30	buyed 1 csco
-2024/10/13_15:01:18.119965 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick30		capital: -279.6
-2024/10/13_15:01:18.119965 tick32	buyed 1 csco
-2024/10/13_15:01:18.119965 tick32		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick32		capital: -327.53
-2024/10/13_15:01:18.119965 tick34	buyed 1 nvda
-2024/10/13_15:01:18.119965 tick34		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.119965 tick34		capital: -375.35
-2024/10/13_15:01:18.120919 tick35	buyed 1 nvda
-2024/10/13_15:01:18.120919 tick35		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:01:18.120919 tick35		capital: -423.49
-2024/10/13_15:01:18.120919 tick39	buyed 1 csco
-2024/10/13_15:01:18.120919 tick39		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:01:18.120919 tick39		capital: -471.19
-2024/10/13_15:01:18.120919 tick40	buyed 1 nvda
-2024/10/13_15:01:18.120919 tick40		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:01:18.120919 tick40		capital: -516.69
-2024/10/13_15:01:18.120919 tick41	selled 1 aapl
-2024/10/13_15:01:18.120919 tick41		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:01:18.120919 tick41		capital: -320.98
-2024/10/13_15:01:18.120919 tick42	selled 4 csco
-2024/10/13_15:01:18.120919 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:01:18.120919 tick42		capital: -123.42
-2024/10/13_15:01:18.121423 tick46	selled 3 nvda
-2024/10/13_15:01:18.121423 tick46		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick46		capital: 21.63
-2024/10/13_15:01:18.121423 tick54	buyed 1 amzn
-2024/10/13_15:01:18.121423 tick54		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick54		capital: -131.71
-2024/10/13_15:01:18.121423 tick55	buyed 1 amzn
-2024/10/13_15:01:18.121423 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick55		capital: -285.09
-2024/10/13_15:01:18.121423 tick55	buyed 1 csco
-2024/10/13_15:01:18.121423 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick55		capital: -335.61
-2024/10/13_15:01:18.121423 tick56	buyed 1 csco
-2024/10/13_15:01:18.121423 tick56		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick56		capital: -386.12
-2024/10/13_15:01:18.121423 tick57	buyed 1 csco
-2024/10/13_15:01:18.121423 tick57		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick57		capital: -436.63
-2024/10/13_15:01:18.121423 tick59	buyed 1 nvda
-2024/10/13_15:01:18.121423 tick59		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick59		capital: -484.63
-2024/10/13_15:01:18.121423 tick60	selled 1 nvda
-2024/10/13_15:01:18.121423 tick60		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick60		capital: -435.53
-2024/10/13_15:01:18.121423 tick61	buyed 1 csco
-2024/10/13_15:01:18.121423 tick61		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick61		capital: -485.44
-2024/10/13_15:01:18.121423 tick62	buyed 1 csco
-2024/10/13_15:01:18.121423 tick62		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.121423 tick62		capital: -535.68
-2024/10/13_15:01:18.122426 tick64	buyed 1 csco
-2024/10/13_15:01:18.122426 tick64		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick64		capital: -586.02
-2024/10/13_15:01:18.122426 tick66	buyed 1 csco
-2024/10/13_15:01:18.122426 tick66		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick66		capital: -636.32
-2024/10/13_15:01:18.122426 tick69	selled 7 csco
-2024/10/13_15:01:18.122426 tick69		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick69		capital: -275.33
-2024/10/13_15:01:18.122426 tick72	selled 2 amzn
-2024/10/13_15:01:18.122426 tick72		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick72		capital: 38.41
-2024/10/13_15:01:18.122426 tick78	buyed 1 csco
-2024/10/13_15:01:18.122426 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick78		capital: -11.77
-2024/10/13_15:01:18.122426 tick79	buyed 1 csco
-2024/10/13_15:01:18.122426 tick79		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick79		capital: -61.28
-2024/10/13_15:01:18.122426 tick80	buyed 1 csco
-2024/10/13_15:01:18.122426 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick80		capital: -111.26
-2024/10/13_15:01:18.122426 tick82	buyed 1 csco
-2024/10/13_15:01:18.122426 tick82		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick82		capital: -161.21
-2024/10/13_15:01:18.122426 tick84	buyed 1 csco
-2024/10/13_15:01:18.122426 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.122426 tick84		capital: -211.2
-2024/10/13_15:01:18.123425 tick88	buyed 1 csco
-2024/10/13_15:01:18.123425 tick88		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.123425 tick88		capital: -259.64
-2024/10/13_15:01:18.123425 tick90	buyed 1 aapl
-2024/10/13_15:01:18.123425 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.123425 tick90		capital: -441.96
-2024/10/13_15:01:18.123425 tick90	buyed 1 csco
-2024/10/13_15:01:18.123425 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.123425 tick90		capital: -490.44
-2024/10/13_15:01:18.123425 tick93	buyed 1 csco
-2024/10/13_15:01:18.123425 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.123425 tick93		capital: -538.84
-2024/10/13_15:01:18.123425 tick96	buyed 1 csco
-2024/10/13_15:01:18.123425 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.123425 tick96		capital: -587.21
-2024/10/13_15:01:18.124425 tick115	buyed 1 csco
-2024/10/13_15:01:18.124425 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick115		capital: -636.98
-2024/10/13_15:01:18.124425 tick116	buyed 1 csco
-2024/10/13_15:01:18.124425 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick116		capital: -686.89
-2024/10/13_15:01:18.124425 tick117	buyed 1 csco
-2024/10/13_15:01:18.124425 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 12, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick117		capital: -736.93
-2024/10/13_15:01:18.124425 tick118	buyed 1 csco
-2024/10/13_15:01:18.124425 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick118		capital: -786.29
-2024/10/13_15:01:18.124425 tick120	buyed 1 aapl
-2024/10/13_15:01:18.124425 tick120		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick120		capital: -955.11
-2024/10/13_15:01:18.124425 tick121	buyed 1 aapl
-2024/10/13_15:01:18.124425 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick121		capital: -1124.69
-2024/10/13_15:01:18.124425 tick121	buyed 1 csco
-2024/10/13_15:01:18.124425 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick121		capital: -1173.24
-2024/10/13_15:01:18.124425 tick123	buyed 1 aapl
-2024/10/13_15:01:18.124425 tick123		portfolio: {'aapl': 4, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.124425 tick123		capital: -1342.91
-2024/10/13_15:01:18.125425 tick126	selled 4 aapl
-2024/10/13_15:01:18.125425 tick126		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick126		capital: -636.71
-2024/10/13_15:01:18.125425 tick129	buyed 1 csco
-2024/10/13_15:01:18.125425 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick129		capital: -684.5
-2024/10/13_15:01:18.125425 tick129	buyed 1 msft
-2024/10/13_15:01:18.125425 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick129		capital: -1096.34
-2024/10/13_15:01:18.125425 tick130	buyed 1 csco
-2024/10/13_15:01:18.125425 tick130		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 16, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick130		capital: -1144.45
-2024/10/13_15:01:18.125425 tick132	buyed 1 csco
-2024/10/13_15:01:18.125425 tick132		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 17, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick132		capital: -1192.59
-2024/10/13_15:01:18.125425 tick135	buyed 1 csco
-2024/10/13_15:01:18.125425 tick135		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 18, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick135		capital: -1240.69
-2024/10/13_15:01:18.125425 tick140	buyed 1 csco
-2024/10/13_15:01:18.125425 tick140		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.125425 tick140		capital: -1287.48
-2024/10/13_15:01:18.126425 tick149	selled 1 msft
-2024/10/13_15:01:18.126425 tick149		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick149		capital: -864.4
-2024/10/13_15:01:18.126425 tick150	buyed 1 csco
-2024/10/13_15:01:18.126425 tick150		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick150		capital: -912.74
-2024/10/13_15:01:18.126425 tick153	buyed 1 amzn
-2024/10/13_15:01:18.126425 tick153		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick153		capital: -1096.28
-2024/10/13_15:01:18.126425 tick154	buyed 1 aapl
-2024/10/13_15:01:18.126425 tick154		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick154		capital: -1287.18
-2024/10/13_15:01:18.126425 tick159	buyed 1 csco
-2024/10/13_15:01:18.126425 tick159		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick159		capital: -1333.3
-2024/10/13_15:01:18.126425 tick163	selled 1 aapl
-2024/10/13_15:01:18.126425 tick163		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick163		capital: -1137.43
-2024/10/13_15:01:18.126425 tick165	buyed 1 csco
-2024/10/13_15:01:18.126425 tick165		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 22, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick165		capital: -1183.27
-2024/10/13_15:01:18.126425 tick167	buyed 1 csco
-2024/10/13_15:01:18.126425 tick167		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.126425 tick167		capital: -1229.04
-2024/10/13_15:01:18.127425 tick168	selled 1 amzn
-2024/10/13_15:01:18.127425 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick168		capital: -1041.81
-2024/10/13_15:01:18.127425 tick168	buyed 1 nvda
-2024/10/13_15:01:18.127425 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick168		capital: -1162.72
-2024/10/13_15:01:18.127425 tick169	selled 1 nvda
-2024/10/13_15:01:18.127425 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick169		capital: -1037.52
-2024/10/13_15:01:18.127425 tick170	buyed 1 csco
-2024/10/13_15:01:18.127425 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick170		capital: -1083.2
-2024/10/13_15:01:18.127425 tick174	buyed 1 nvda
-2024/10/13_15:01:18.127425 tick174		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick174		capital: -1213.98
-2024/10/13_15:01:18.127425 tick177	buyed 1 csco
-2024/10/13_15:01:18.127425 tick177		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 25, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick177		capital: -1260.84
-2024/10/13_15:01:18.127425 tick181	buyed 1 csco
-2024/10/13_15:01:18.127425 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 26, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick181		capital: -1308.12
-2024/10/13_15:01:18.127425 tick183	buyed 1 csco
-2024/10/13_15:01:18.127425 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 27, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick183		capital: -1354.77
-2024/10/13_15:01:18.127425 tick185	buyed 1 csco
-2024/10/13_15:01:18.127425 tick185		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick185		capital: -1400.57
-2024/10/13_15:01:18.127425 tick187	selled 1 nvda
-2024/10/13_15:01:18.127425 tick187		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick187		capital: -1265.66
-2024/10/13_15:01:18.127425 tick194	buyed 1 csco
-2024/10/13_15:01:18.127425 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick194		capital: -1312.48
-2024/10/13_15:01:18.127425 tick194	buyed 1 nvda
-2024/10/13_15:01:18.127425 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick194		capital: -1430.41
-2024/10/13_15:01:18.127425 tick195	selled 1 nvda
-2024/10/13_15:01:18.127425 tick195		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.127425 tick195		capital: -1306.87
-2024/10/13_15:01:18.128928 tick202	buyed 1 csco
-2024/10/13_15:01:18.128928 tick202		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 30, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.128928 tick202		capital: -1354.26
-2024/10/13_15:01:18.128928 tick213	selled 30 csco
-2024/10/13_15:01:18.128928 tick213		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.128928 tick213		capital: 129.54
-2024/10/13_15:01:18.128928 tick220	buyed 1 csco
-2024/10/13_15:01:18.128928 tick220		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.128928 tick220		capital: 78.83
-2024/10/13_15:01:18.129930 tick225	buyed 1 csco
-2024/10/13_15:01:18.129930 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick225		capital: 29.13
-2024/10/13_15:01:18.129930 tick226	buyed 1 csco
-2024/10/13_15:01:18.129930 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick226		capital: -20.0
-2024/10/13_15:01:18.129930 tick227	buyed 1 aapl
-2024/10/13_15:01:18.129930 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick227		capital: -240.82
-2024/10/13_15:01:18.129930 tick227	buyed 1 csco
-2024/10/13_15:01:18.129930 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick227		capital: -289.32
-2024/10/13_15:01:18.129930 tick228	buyed 1 csco
-2024/10/13_15:01:18.129930 tick228		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick228		capital: -338.02
-2024/10/13_15:01:18.129930 tick233	selled 5 csco
-2024/10/13_15:01:18.129930 tick233		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick233		capital: -82.87
-2024/10/13_15:01:18.129930 tick236	selled 1 aapl
-2024/10/13_15:01:18.129930 tick236		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick236		capital: 146.0
-2024/10/13_15:01:18.129930 tick240	buyed 1 aapl
-2024/10/13_15:01:18.129930 tick240		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick240		capital: -80.37
-2024/10/13_15:01:18.129930 tick241	buyed 1 msft
-2024/10/13_15:01:18.129930 tick241		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick241		capital: -511.68
-2024/10/13_15:01:18.129930 tick243	selled 1 aapl
-2024/10/13_15:01:18.129930 tick243		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.129930 tick243		capital: -278.68
-2024/10/13_15:01:18.130997 tick247	buyed 1 aapl
-2024/10/13_15:01:18.130997 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.130997 tick247		capital: -505.48
-2024/10/13_15:01:18.130997 tick247	buyed 1 csco
-2024/10/13_15:01:18.130997 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.130997 tick247		capital: -558.23
-2024/10/13_15:01:18.130997 tick248	buyed 1 csco
-2024/10/13_15:01:18.130997 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.130997 tick248		capital: -610.74
-2024/10/13_15:01:18.130997 tick249	buyed 1 csco
-2024/10/13_15:01:18.130997 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:01:18.130997 tick249		capital: -663.47
-2024/10/13_15:04:42.879993 tick27	buyed 1 msft
-2024/10/13_15:04:42.879993 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.879993 tick27		capital: -369.85
-2024/10/13_15:04:42.879993 tick28	selled 1 msft
-2024/10/13_15:04:42.879993 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.879993 tick28		capital: 7.59
-2024/10/13_15:04:42.879993 tick29	buyed 1 csco
-2024/10/13_15:04:42.879993 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.879993 tick29		capital: -40.21
-2024/10/13_15:04:42.879993 tick30	buyed 1 aapl
-2024/10/13_15:04:42.879993 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.879993 tick30		capital: -231.52
-2024/10/13_15:04:42.879993 tick30	buyed 1 csco
-2024/10/13_15:04:42.879993 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.879993 tick30		capital: -279.6
-2024/10/13_15:04:42.879993 tick32	buyed 1 csco
-2024/10/13_15:04:42.879993 tick32		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.879993 tick32		capital: -327.53
-2024/10/13_15:04:42.881189 tick34	buyed 1 nvda
-2024/10/13_15:04:42.881189 tick34		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick34		capital: -375.35
-2024/10/13_15:04:42.881189 tick35	buyed 1 nvda
-2024/10/13_15:04:42.881189 tick35		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick35		capital: -423.49
-2024/10/13_15:04:42.881189 tick39	buyed 1 csco
-2024/10/13_15:04:42.881189 tick39		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick39		capital: -471.19
-2024/10/13_15:04:42.881189 tick40	buyed 1 nvda
-2024/10/13_15:04:42.881189 tick40		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick40		capital: -516.69
-2024/10/13_15:04:42.881189 tick41	selled 1 aapl
-2024/10/13_15:04:42.881189 tick41		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick41		capital: -320.98
-2024/10/13_15:04:42.881189 tick42	selled 4 csco
-2024/10/13_15:04:42.881189 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick42		capital: -123.42
-2024/10/13_15:04:42.881189 tick46	selled 3 nvda
-2024/10/13_15:04:42.881189 tick46		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.881189 tick46		capital: 21.63
-2024/10/13_15:04:42.882188 tick54	buyed 1 amzn
-2024/10/13_15:04:42.882188 tick54		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick54		capital: -131.71
-2024/10/13_15:04:42.882188 tick55	buyed 1 amzn
-2024/10/13_15:04:42.882188 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick55		capital: -285.09
-2024/10/13_15:04:42.882188 tick55	buyed 1 csco
-2024/10/13_15:04:42.882188 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick55		capital: -335.61
-2024/10/13_15:04:42.882188 tick56	buyed 1 csco
-2024/10/13_15:04:42.882188 tick56		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick56		capital: -386.12
-2024/10/13_15:04:42.882188 tick57	buyed 1 csco
-2024/10/13_15:04:42.882188 tick57		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick57		capital: -436.63
-2024/10/13_15:04:42.882188 tick59	buyed 1 nvda
-2024/10/13_15:04:42.882188 tick59		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick59		capital: -484.63
-2024/10/13_15:04:42.882188 tick60	selled 1 nvda
-2024/10/13_15:04:42.882188 tick60		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick60		capital: -435.53
-2024/10/13_15:04:42.882188 tick61	buyed 1 csco
-2024/10/13_15:04:42.882188 tick61		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick61		capital: -485.44
-2024/10/13_15:04:42.882188 tick62	buyed 1 csco
-2024/10/13_15:04:42.882188 tick62		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick62		capital: -535.68
-2024/10/13_15:04:42.882188 tick64	buyed 1 csco
-2024/10/13_15:04:42.882188 tick64		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick64		capital: -586.02
-2024/10/13_15:04:42.882188 tick66	buyed 1 csco
-2024/10/13_15:04:42.882188 tick66		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick66		capital: -636.32
-2024/10/13_15:04:42.882188 tick69	selled 7 csco
-2024/10/13_15:04:42.882188 tick69		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.882188 tick69		capital: -275.33
-2024/10/13_15:04:42.883188 tick72	selled 2 amzn
-2024/10/13_15:04:42.883188 tick72		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick72		capital: 38.41
-2024/10/13_15:04:42.883188 tick78	buyed 1 csco
-2024/10/13_15:04:42.883188 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick78		capital: -11.77
-2024/10/13_15:04:42.883188 tick79	buyed 1 csco
-2024/10/13_15:04:42.883188 tick79		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick79		capital: -61.28
-2024/10/13_15:04:42.883188 tick80	buyed 1 csco
-2024/10/13_15:04:42.883188 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick80		capital: -111.26
-2024/10/13_15:04:42.883188 tick82	buyed 1 csco
-2024/10/13_15:04:42.883188 tick82		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick82		capital: -161.21
-2024/10/13_15:04:42.883188 tick84	buyed 1 csco
-2024/10/13_15:04:42.883188 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick84		capital: -211.2
-2024/10/13_15:04:42.883188 tick88	buyed 1 csco
-2024/10/13_15:04:42.883188 tick88		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick88		capital: -259.64
-2024/10/13_15:04:42.883188 tick90	buyed 1 aapl
-2024/10/13_15:04:42.883188 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick90		capital: -441.96
-2024/10/13_15:04:42.883188 tick90	buyed 1 csco
-2024/10/13_15:04:42.883188 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick90		capital: -490.44
-2024/10/13_15:04:42.883188 tick93	buyed 1 csco
-2024/10/13_15:04:42.883188 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.883188 tick93		capital: -538.84
-2024/10/13_15:04:42.884188 tick96	buyed 1 csco
-2024/10/13_15:04:42.884188 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.884188 tick96		capital: -587.21
-2024/10/13_15:04:42.885188 tick115	buyed 1 csco
-2024/10/13_15:04:42.885188 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick115		capital: -636.98
-2024/10/13_15:04:42.885188 tick116	buyed 1 csco
-2024/10/13_15:04:42.885188 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick116		capital: -686.89
-2024/10/13_15:04:42.885188 tick117	buyed 1 csco
-2024/10/13_15:04:42.885188 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 12, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick117		capital: -736.93
-2024/10/13_15:04:42.885188 tick118	buyed 1 csco
-2024/10/13_15:04:42.885188 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick118		capital: -786.29
-2024/10/13_15:04:42.885188 tick120	buyed 1 aapl
-2024/10/13_15:04:42.885188 tick120		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick120		capital: -955.11
-2024/10/13_15:04:42.885188 tick121	buyed 1 aapl
-2024/10/13_15:04:42.885188 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick121		capital: -1124.69
-2024/10/13_15:04:42.885188 tick121	buyed 1 csco
-2024/10/13_15:04:42.885188 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick121		capital: -1173.24
-2024/10/13_15:04:42.885188 tick123	buyed 1 aapl
-2024/10/13_15:04:42.885188 tick123		portfolio: {'aapl': 4, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick123		capital: -1342.91
-2024/10/13_15:04:42.885188 tick126	selled 4 aapl
-2024/10/13_15:04:42.885188 tick126		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick126		capital: -636.71
-2024/10/13_15:04:42.885188 tick129	buyed 1 csco
-2024/10/13_15:04:42.885188 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.885188 tick129		capital: -684.5
-2024/10/13_15:04:42.886188 tick129	buyed 1 msft
-2024/10/13_15:04:42.886188 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick129		capital: -1096.34
-2024/10/13_15:04:42.886188 tick130	buyed 1 csco
-2024/10/13_15:04:42.886188 tick130		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 16, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick130		capital: -1144.45
-2024/10/13_15:04:42.886188 tick132	buyed 1 csco
-2024/10/13_15:04:42.886188 tick132		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 17, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick132		capital: -1192.59
-2024/10/13_15:04:42.886188 tick135	buyed 1 csco
-2024/10/13_15:04:42.886188 tick135		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 18, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick135		capital: -1240.69
-2024/10/13_15:04:42.886188 tick140	buyed 1 csco
-2024/10/13_15:04:42.886188 tick140		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick140		capital: -1287.48
-2024/10/13_15:04:42.886188 tick149	selled 1 msft
-2024/10/13_15:04:42.886188 tick149		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick149		capital: -864.4
-2024/10/13_15:04:42.886188 tick150	buyed 1 csco
-2024/10/13_15:04:42.886188 tick150		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.886188 tick150		capital: -912.74
-2024/10/13_15:04:42.887189 tick153	buyed 1 amzn
-2024/10/13_15:04:42.887189 tick153		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick153		capital: -1096.28
-2024/10/13_15:04:42.887189 tick154	buyed 1 aapl
-2024/10/13_15:04:42.887189 tick154		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick154		capital: -1287.18
-2024/10/13_15:04:42.887189 tick159	buyed 1 csco
-2024/10/13_15:04:42.887189 tick159		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick159		capital: -1333.3
-2024/10/13_15:04:42.887189 tick163	selled 1 aapl
-2024/10/13_15:04:42.887189 tick163		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick163		capital: -1137.43
-2024/10/13_15:04:42.887189 tick165	buyed 1 csco
-2024/10/13_15:04:42.887189 tick165		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 22, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick165		capital: -1183.27
-2024/10/13_15:04:42.887189 tick167	buyed 1 csco
-2024/10/13_15:04:42.887189 tick167		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick167		capital: -1229.04
-2024/10/13_15:04:42.887189 tick168	selled 1 amzn
-2024/10/13_15:04:42.887189 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick168		capital: -1041.81
-2024/10/13_15:04:42.887189 tick168	buyed 1 nvda
-2024/10/13_15:04:42.887189 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick168		capital: -1162.72
-2024/10/13_15:04:42.887189 tick169	selled 1 nvda
-2024/10/13_15:04:42.887189 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick169		capital: -1037.52
-2024/10/13_15:04:42.887189 tick170	buyed 1 csco
-2024/10/13_15:04:42.887189 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick170		capital: -1083.2
-2024/10/13_15:04:42.887189 tick174	buyed 1 nvda
-2024/10/13_15:04:42.887189 tick174		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick174		capital: -1213.98
-2024/10/13_15:04:42.887189 tick177	buyed 1 csco
-2024/10/13_15:04:42.887189 tick177		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 25, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick177		capital: -1260.84
-2024/10/13_15:04:42.887189 tick181	buyed 1 csco
-2024/10/13_15:04:42.887189 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 26, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.887189 tick181		capital: -1308.12
-2024/10/13_15:04:42.888692 tick183	buyed 1 csco
-2024/10/13_15:04:42.888692 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 27, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.888692 tick183		capital: -1354.77
-2024/10/13_15:04:42.888692 tick185	buyed 1 csco
-2024/10/13_15:04:42.888692 tick185		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.888692 tick185		capital: -1400.57
-2024/10/13_15:04:42.888692 tick187	selled 1 nvda
-2024/10/13_15:04:42.888692 tick187		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.888692 tick187		capital: -1265.66
-2024/10/13_15:04:42.889200 tick194	buyed 1 csco
-2024/10/13_15:04:42.889200 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889200 tick194		capital: -1312.48
-2024/10/13_15:04:42.889200 tick194	buyed 1 nvda
-2024/10/13_15:04:42.889200 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:04:42.889200 tick194		capital: -1430.41
-2024/10/13_15:04:42.889200 tick195	selled 1 nvda
-2024/10/13_15:04:42.889200 tick195		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889200 tick195		capital: -1306.87
-2024/10/13_15:04:42.889200 tick202	buyed 1 csco
-2024/10/13_15:04:42.889200 tick202		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 30, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889200 tick202		capital: -1354.26
-2024/10/13_15:04:42.889707 tick213	selled 30 csco
-2024/10/13_15:04:42.889707 tick213		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889707 tick213		capital: 129.54
-2024/10/13_15:04:42.889707 tick220	buyed 1 csco
-2024/10/13_15:04:42.889707 tick220		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889707 tick220		capital: 78.83
-2024/10/13_15:04:42.889707 tick225	buyed 1 csco
-2024/10/13_15:04:42.889707 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889707 tick225		capital: 29.13
-2024/10/13_15:04:42.889707 tick226	buyed 1 csco
-2024/10/13_15:04:42.889707 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889707 tick226		capital: -20.0
-2024/10/13_15:04:42.889707 tick227	buyed 1 aapl
-2024/10/13_15:04:42.889707 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.889707 tick227		capital: -240.82
-2024/10/13_15:04:42.890710 tick227	buyed 1 csco
-2024/10/13_15:04:42.890710 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick227		capital: -289.32
-2024/10/13_15:04:42.890710 tick228	buyed 1 csco
-2024/10/13_15:04:42.890710 tick228		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick228		capital: -338.02
-2024/10/13_15:04:42.890710 tick233	selled 5 csco
-2024/10/13_15:04:42.890710 tick233		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick233		capital: -82.87
-2024/10/13_15:04:42.890710 tick236	selled 1 aapl
-2024/10/13_15:04:42.890710 tick236		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick236		capital: 146.0
-2024/10/13_15:04:42.890710 tick240	buyed 1 aapl
-2024/10/13_15:04:42.890710 tick240		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick240		capital: -80.37
-2024/10/13_15:04:42.890710 tick241	buyed 1 msft
-2024/10/13_15:04:42.890710 tick241		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick241		capital: -511.68
-2024/10/13_15:04:42.890710 tick243	selled 1 aapl
-2024/10/13_15:04:42.890710 tick243		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick243		capital: -278.68
-2024/10/13_15:04:42.890710 tick247	buyed 1 aapl
-2024/10/13_15:04:42.890710 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick247		capital: -505.48
-2024/10/13_15:04:42.890710 tick247	buyed 1 csco
-2024/10/13_15:04:42.890710 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick247		capital: -558.23
-2024/10/13_15:04:42.890710 tick248	buyed 1 csco
-2024/10/13_15:04:42.890710 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.890710 tick248		capital: -610.74
-2024/10/13_15:04:42.891710 tick249	buyed 1 csco
-2024/10/13_15:04:42.891710 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:04:42.891710 tick249		capital: -663.47
-2024/10/13_15:07:13.962261 tick27	buyed 1 msft
-2024/10/13_15:07:13.962261 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick27		capital: -369.85
-2024/10/13_15:07:13.962261 tick28	selled 1 msft
-2024/10/13_15:07:13.962261 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick28		capital: 7.59
-2024/10/13_15:07:13.962261 tick29	buyed 1 csco
-2024/10/13_15:07:13.962261 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick29		capital: -40.21
-2024/10/13_15:07:13.962261 tick30	buyed 1 aapl
-2024/10/13_15:07:13.962261 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick30		capital: -231.52
-2024/10/13_15:07:13.962261 tick30	buyed 1 csco
-2024/10/13_15:07:13.962261 tick30		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick30		capital: -279.6
-2024/10/13_15:07:13.962261 tick32	buyed 1 csco
-2024/10/13_15:07:13.962261 tick32		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick32		capital: -327.53
-2024/10/13_15:07:13.962261 tick34	buyed 1 nvda
-2024/10/13_15:07:13.962261 tick34		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick34		capital: -375.35
-2024/10/13_15:07:13.962261 tick35	buyed 1 nvda
-2024/10/13_15:07:13.962261 tick35		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick35		capital: -423.49
-2024/10/13_15:07:13.962261 tick39	buyed 1 csco
-2024/10/13_15:07:13.962261 tick39		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick39		capital: -471.19
-2024/10/13_15:07:13.962261 tick40	buyed 1 nvda
-2024/10/13_15:07:13.962261 tick40		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:07:13.962261 tick40		capital: -516.69
-2024/10/13_15:07:13.963262 tick41	selled 1 aapl
-2024/10/13_15:07:13.963262 tick41		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick41		capital: -320.98
-2024/10/13_15:07:13.963262 tick42	selled 4 csco
-2024/10/13_15:07:13.963262 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 3, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick42		capital: -123.42
-2024/10/13_15:07:13.963262 tick46	selled 3 nvda
-2024/10/13_15:07:13.963262 tick46		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick46		capital: 21.63
-2024/10/13_15:07:13.963262 tick54	buyed 1 amzn
-2024/10/13_15:07:13.963262 tick54		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick54		capital: -131.71
-2024/10/13_15:07:13.963262 tick55	buyed 1 amzn
-2024/10/13_15:07:13.963262 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick55		capital: -285.09
-2024/10/13_15:07:13.963262 tick55	buyed 1 csco
-2024/10/13_15:07:13.963262 tick55		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick55		capital: -335.61
-2024/10/13_15:07:13.963262 tick56	buyed 1 csco
-2024/10/13_15:07:13.963262 tick56		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick56		capital: -386.12
-2024/10/13_15:07:13.963262 tick57	buyed 1 csco
-2024/10/13_15:07:13.963262 tick57		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick57		capital: -436.63
-2024/10/13_15:07:13.963262 tick59	buyed 1 nvda
-2024/10/13_15:07:13.963262 tick59		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick59		capital: -484.63
-2024/10/13_15:07:13.963262 tick60	selled 1 nvda
-2024/10/13_15:07:13.963262 tick60		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.963262 tick60		capital: -435.53
-2024/10/13_15:07:13.964262 tick61	buyed 1 csco
-2024/10/13_15:07:13.964262 tick61		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick61		capital: -485.44
-2024/10/13_15:07:13.964262 tick62	buyed 1 csco
-2024/10/13_15:07:13.964262 tick62		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick62		capital: -535.68
-2024/10/13_15:07:13.964262 tick64	buyed 1 csco
-2024/10/13_15:07:13.964262 tick64		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick64		capital: -586.02
-2024/10/13_15:07:13.964262 tick66	buyed 1 csco
-2024/10/13_15:07:13.964262 tick66		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick66		capital: -636.32
-2024/10/13_15:07:13.964262 tick69	selled 7 csco
-2024/10/13_15:07:13.964262 tick69		portfolio: {'aapl': 0, 'amzn': 2, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick69		capital: -275.33
-2024/10/13_15:07:13.964262 tick72	selled 2 amzn
-2024/10/13_15:07:13.964262 tick72		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick72		capital: 38.41
-2024/10/13_15:07:13.964262 tick78	buyed 1 csco
-2024/10/13_15:07:13.964262 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick78		capital: -11.77
-2024/10/13_15:07:13.964262 tick79	buyed 1 csco
-2024/10/13_15:07:13.964262 tick79		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick79		capital: -61.28
-2024/10/13_15:07:13.964262 tick80	buyed 1 csco
-2024/10/13_15:07:13.964262 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick80		capital: -111.26
-2024/10/13_15:07:13.964262 tick82	buyed 1 csco
-2024/10/13_15:07:13.964262 tick82		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.964262 tick82		capital: -161.21
-2024/10/13_15:07:13.965261 tick84	buyed 1 csco
-2024/10/13_15:07:13.965261 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.965261 tick84		capital: -211.2
-2024/10/13_15:07:13.965261 tick88	buyed 1 csco
-2024/10/13_15:07:13.965261 tick88		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.965261 tick88		capital: -259.64
-2024/10/13_15:07:13.965261 tick90	buyed 1 aapl
-2024/10/13_15:07:13.965261 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.965261 tick90		capital: -441.96
-2024/10/13_15:07:13.965261 tick90	buyed 1 csco
-2024/10/13_15:07:13.965261 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.965261 tick90		capital: -490.44
-2024/10/13_15:07:13.965261 tick93	buyed 1 csco
-2024/10/13_15:07:13.965261 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.965261 tick93		capital: -538.84
-2024/10/13_15:07:13.965261 tick96	buyed 1 csco
-2024/10/13_15:07:13.965261 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.965261 tick96		capital: -587.21
-2024/10/13_15:07:13.966262 tick115	buyed 1 csco
-2024/10/13_15:07:13.966262 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick115		capital: -636.98
-2024/10/13_15:07:13.966262 tick116	buyed 1 csco
-2024/10/13_15:07:13.966262 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick116		capital: -686.89
-2024/10/13_15:07:13.966262 tick117	buyed 1 csco
-2024/10/13_15:07:13.966262 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 12, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick117		capital: -736.93
-2024/10/13_15:07:13.966262 tick118	buyed 1 csco
-2024/10/13_15:07:13.966262 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick118		capital: -786.29
-2024/10/13_15:07:13.966262 tick120	buyed 1 aapl
-2024/10/13_15:07:13.966262 tick120		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick120		capital: -955.11
-2024/10/13_15:07:13.966262 tick121	buyed 1 aapl
-2024/10/13_15:07:13.966262 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 13, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick121		capital: -1124.69
-2024/10/13_15:07:13.966262 tick121	buyed 1 csco
-2024/10/13_15:07:13.966262 tick121		portfolio: {'aapl': 3, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick121		capital: -1173.24
-2024/10/13_15:07:13.966262 tick123	buyed 1 aapl
-2024/10/13_15:07:13.966262 tick123		portfolio: {'aapl': 4, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick123		capital: -1342.91
-2024/10/13_15:07:13.966262 tick126	selled 4 aapl
-2024/10/13_15:07:13.966262 tick126		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 14, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.966262 tick126		capital: -636.71
-2024/10/13_15:07:13.967764 tick129	buyed 1 csco
-2024/10/13_15:07:13.967764 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick129		capital: -684.5
-2024/10/13_15:07:13.967764 tick129	buyed 1 msft
-2024/10/13_15:07:13.967764 tick129		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 15, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick129		capital: -1096.34
-2024/10/13_15:07:13.967764 tick130	buyed 1 csco
-2024/10/13_15:07:13.967764 tick130		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 16, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick130		capital: -1144.45
-2024/10/13_15:07:13.967764 tick132	buyed 1 csco
-2024/10/13_15:07:13.967764 tick132		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 17, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick132		capital: -1192.59
-2024/10/13_15:07:13.967764 tick135	buyed 1 csco
-2024/10/13_15:07:13.967764 tick135		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 18, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick135		capital: -1240.69
-2024/10/13_15:07:13.967764 tick140	buyed 1 csco
-2024/10/13_15:07:13.967764 tick140		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick140		capital: -1287.48
-2024/10/13_15:07:13.967764 tick149	selled 1 msft
-2024/10/13_15:07:13.967764 tick149		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 19, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick149		capital: -864.4
-2024/10/13_15:07:13.967764 tick150	buyed 1 csco
-2024/10/13_15:07:13.967764 tick150		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick150		capital: -912.74
-2024/10/13_15:07:13.967764 tick153	buyed 1 amzn
-2024/10/13_15:07:13.967764 tick153		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.967764 tick153		capital: -1096.28
-2024/10/13_15:07:13.968766 tick154	buyed 1 aapl
-2024/10/13_15:07:13.968766 tick154		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 20, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.968766 tick154		capital: -1287.18
-2024/10/13_15:07:13.968766 tick159	buyed 1 csco
-2024/10/13_15:07:13.968766 tick159		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.968766 tick159		capital: -1333.3
-2024/10/13_15:07:13.968766 tick163	selled 1 aapl
-2024/10/13_15:07:13.968766 tick163		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 21, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.968766 tick163		capital: -1137.43
-2024/10/13_15:07:13.969268 tick165	buyed 1 csco
-2024/10/13_15:07:13.969268 tick165		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 22, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.969268 tick165		capital: -1183.27
-2024/10/13_15:07:13.969268 tick167	buyed 1 csco
-2024/10/13_15:07:13.969268 tick167		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.969268 tick167		capital: -1229.04
-2024/10/13_15:07:13.969268 tick168	selled 1 amzn
-2024/10/13_15:07:13.969268 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.969268 tick168		capital: -1041.81
-2024/10/13_15:07:13.969268 tick168	buyed 1 nvda
-2024/10/13_15:07:13.969268 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.969268 tick168		capital: -1162.72
-2024/10/13_15:07:13.969268 tick169	selled 1 nvda
-2024/10/13_15:07:13.969268 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 23, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.969268 tick169		capital: -1037.52
-2024/10/13_15:07:13.969268 tick170	buyed 1 csco
-2024/10/13_15:07:13.969268 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.969268 tick170		capital: -1083.2
-2024/10/13_15:07:13.969771 tick174	buyed 1 nvda
-2024/10/13_15:07:13.969771 tick174		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 24, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.969771 tick174		capital: -1213.98
-2024/10/13_15:07:13.969771 tick177	buyed 1 csco
-2024/10/13_15:07:13.969771 tick177		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 25, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.969771 tick177		capital: -1260.84
-2024/10/13_15:07:13.969771 tick181	buyed 1 csco
-2024/10/13_15:07:13.969771 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 26, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.969771 tick181		capital: -1308.12
-2024/10/13_15:07:13.970277 tick183	buyed 1 csco
-2024/10/13_15:07:13.970277 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 27, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick183		capital: -1354.77
-2024/10/13_15:07:13.970277 tick185	buyed 1 csco
-2024/10/13_15:07:13.970277 tick185		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick185		capital: -1400.57
-2024/10/13_15:07:13.970277 tick187	selled 1 nvda
-2024/10/13_15:07:13.970277 tick187		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 28, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick187		capital: -1265.66
-2024/10/13_15:07:13.970277 tick194	buyed 1 csco
-2024/10/13_15:07:13.970277 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick194		capital: -1312.48
-2024/10/13_15:07:13.970277 tick194	buyed 1 nvda
-2024/10/13_15:07:13.970277 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick194		capital: -1430.41
-2024/10/13_15:07:13.970277 tick195	selled 1 nvda
-2024/10/13_15:07:13.970277 tick195		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 29, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick195		capital: -1306.87
-2024/10/13_15:07:13.970277 tick202	buyed 1 csco
-2024/10/13_15:07:13.970277 tick202		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 30, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.970277 tick202		capital: -1354.26
-2024/10/13_15:07:13.971280 tick213	selled 30 csco
-2024/10/13_15:07:13.971280 tick213		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.971280 tick213		capital: 129.54
-2024/10/13_15:07:13.971280 tick220	buyed 1 csco
-2024/10/13_15:07:13.971280 tick220		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.971280 tick220		capital: 78.83
-2024/10/13_15:07:13.971280 tick225	buyed 1 csco
-2024/10/13_15:07:13.971280 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.971280 tick225		capital: 29.13
-2024/10/13_15:07:13.971280 tick226	buyed 1 csco
-2024/10/13_15:07:13.971280 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.971280 tick226		capital: -20.0
-2024/10/13_15:07:13.971280 tick227	buyed 1 aapl
-2024/10/13_15:07:13.971280 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.971280 tick227		capital: -240.82
-2024/10/13_15:07:13.971280 tick227	buyed 1 csco
-2024/10/13_15:07:13.972281 tick227		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick227		capital: -289.32
-2024/10/13_15:07:13.972281 tick228	buyed 1 csco
-2024/10/13_15:07:13.972281 tick228		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick228		capital: -338.02
-2024/10/13_15:07:13.972281 tick233	selled 5 csco
-2024/10/13_15:07:13.972281 tick233		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick233		capital: -82.87
-2024/10/13_15:07:13.972281 tick236	selled 1 aapl
-2024/10/13_15:07:13.972281 tick236		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick236		capital: 146.0
-2024/10/13_15:07:13.972281 tick240	buyed 1 aapl
-2024/10/13_15:07:13.972281 tick240		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick240		capital: -80.37
-2024/10/13_15:07:13.972281 tick241	buyed 1 msft
-2024/10/13_15:07:13.972281 tick241		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick241		capital: -511.68
-2024/10/13_15:07:13.972281 tick243	selled 1 aapl
-2024/10/13_15:07:13.972281 tick243		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick243		capital: -278.68
-2024/10/13_15:07:13.972281 tick247	buyed 1 aapl
-2024/10/13_15:07:13.972281 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick247		capital: -505.48
-2024/10/13_15:07:13.972281 tick247	buyed 1 csco
-2024/10/13_15:07:13.972281 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.972281 tick247		capital: -558.23
-2024/10/13_15:07:13.973280 tick248	buyed 1 csco
-2024/10/13_15:07:13.973280 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.973280 tick248		capital: -610.74
-2024/10/13_15:07:13.973280 tick249	buyed 1 csco
-2024/10/13_15:07:13.973280 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0}
-2024/10/13_15:07:13.973280 tick249		capital: -663.47
+2024/10/13_22:17:46.410769 tick27	buy 1 msft
+2024/10/13_22:17:46.410769 tick27		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick27		capital: -370.85
+2024/10/13_22:17:46.410769 tick28	sell 1 msft
+2024/10/13_22:17:46.410769 tick28		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick28		capital: 5.59
+2024/10/13_22:17:46.410769 tick29	buy 1 csco
+2024/10/13_22:17:46.410769 tick29		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick29		capital: -43.21
+2024/10/13_22:17:46.410769 tick30	buy 1 dis
+2024/10/13_22:17:46.410769 tick30		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick30		capital: -139.28
+2024/10/13_22:17:46.410769 tick34	buy 1 nvda
+2024/10/13_22:17:46.410769 tick34		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick34		capital: -188.1
+2024/10/13_22:17:46.410769 tick36	buy 1 dis
+2024/10/13_22:17:46.410769 tick36		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick36		capital: -281.68
+2024/10/13_22:17:46.410769 tick40	buy 1 nvda
+2024/10/13_22:17:46.410769 tick40		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick40		capital: -328.18
+2024/10/13_22:17:46.410769 tick42	sell 1 csco
+2024/10/13_22:17:46.410769 tick42		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 2, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick42		capital: -279.79
+2024/10/13_22:17:46.410769 tick44	sell 2 nvda
+2024/10/13_22:17:46.410769 tick44		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick44		capital: -185.48
+2024/10/13_22:17:46.410769 tick55	buy 1 csco
+2024/10/13_22:17:46.410769 tick55		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick55		capital: -237.0
+2024/10/13_22:17:46.410769 tick56	buy 1 csco
+2024/10/13_22:17:46.410769 tick56		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick56		capital: -288.51
+2024/10/13_22:17:46.410769 tick62	buy 1 csco
+2024/10/13_22:17:46.410769 tick62		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick62		capital: -339.75
+2024/10/13_22:17:46.410769 tick64	buy 1 csco
+2024/10/13_22:17:46.410769 tick64		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.410769 tick64		capital: -391.09
+2024/10/13_22:17:46.411769 tick69	sell 4 csco
+2024/10/13_22:17:46.411769 tick69		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick69		capital: -185.81
+2024/10/13_22:17:46.411769 tick74	sell 2 dis
+2024/10/13_22:17:46.411769 tick74		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick74		capital: 8.17
+2024/10/13_22:17:46.411769 tick78	buy 1 csco
+2024/10/13_22:17:46.411769 tick78		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick78		capital: -43.01
+2024/10/13_22:17:46.411769 tick80	buy 1 csco
+2024/10/13_22:17:46.411769 tick80		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick80		capital: -93.99
+2024/10/13_22:17:46.411769 tick84	buy 1 csco
+2024/10/13_22:17:46.411769 tick84		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick84		capital: -144.98
+2024/10/13_22:17:46.411769 tick90	buy 1 aapl
+2024/10/13_22:17:46.411769 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick90		capital: -328.3
+2024/10/13_22:17:46.411769 tick90	buy 1 csco
+2024/10/13_22:17:46.411769 tick90		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick90		capital: -377.78
+2024/10/13_22:17:46.411769 tick92	buy 1 dis
+2024/10/13_22:17:46.411769 tick92		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick92		capital: -486.52
+2024/10/13_22:17:46.411769 tick93	buy 1 dis
+2024/10/13_22:17:46.411769 tick93		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick93		capital: -595.2
+2024/10/13_22:17:46.411769 tick95	sell 2 dis
+2024/10/13_22:17:46.411769 tick95		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 4, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick95		capital: -374.6
+2024/10/13_22:17:46.411769 tick96	buy 1 csco
+2024/10/13_22:17:46.411769 tick96		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.411769 tick96		capital: -423.97
+2024/10/13_22:17:46.411769 tick102	buy 1 uber
+2024/10/13_22:17:46.411769 tick102		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 5, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.411769 tick102		capital: -503.67
+2024/10/13_22:17:46.411769 tick115	buy 1 csco
+2024/10/13_22:17:46.411769 tick115		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 6, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.411769 tick115		capital: -554.44
+2024/10/13_22:17:46.412769 tick116	buy 1 csco
+2024/10/13_22:17:46.412769 tick116		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 7, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.412769 tick116		capital: -605.35
+2024/10/13_22:17:46.412769 tick117	buy 1 csco
+2024/10/13_22:17:46.412769 tick117		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 8, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.412769 tick117		capital: -656.39
+2024/10/13_22:17:46.412769 tick118	buy 1 csco
+2024/10/13_22:17:46.412769 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.412769 tick118		capital: -706.75
+2024/10/13_22:17:46.412769 tick118	buy 1 uber
+2024/10/13_22:17:46.412769 tick118		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 9, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick118		capital: -784.73
+2024/10/13_22:17:46.412769 tick123	buy 1 aapl
+2024/10/13_22:17:46.412769 tick123		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 9, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick123		capital: -955.4
+2024/10/13_22:17:46.412769 tick129	buy 1 dis
+2024/10/13_22:17:46.412769 tick129		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 9, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick129		capital: -1069.34
+2024/10/13_22:17:46.412769 tick132	buy 1 csco
+2024/10/13_22:17:46.412769 tick132		portfolio: {'aapl': 2, 'amzn': 0, 'csco': 10, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick132		capital: -1118.48
+2024/10/13_22:17:46.412769 tick141	sell 2 aapl
+2024/10/13_22:17:46.412769 tick141		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 10, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick141		capital: -752.72
+2024/10/13_22:17:46.412769 tick142	sell 1 dis
+2024/10/13_22:17:46.412769 tick142		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 10, 'dis': 0, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick142		capital: -637.25
+2024/10/13_22:17:46.412769 tick147	buy 1 dis
+2024/10/13_22:17:46.412769 tick147		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 10, 'dis': 1, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.412769 tick147		capital: -744.08
+2024/10/13_22:17:46.413768 tick165	buy 1 dis
+2024/10/13_22:17:46.413768 tick165		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 10, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick165		capital: -846.62
+2024/10/13_22:17:46.413768 tick168	buy 1 nvda
+2024/10/13_22:17:46.413768 tick168		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 10, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 1, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick168		capital: -968.53
+2024/10/13_22:17:46.413768 tick169	sell 1 nvda
+2024/10/13_22:17:46.413768 tick169		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 10, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick169		capital: -844.33
+2024/10/13_22:17:46.413768 tick170	buy 1 csco
+2024/10/13_22:17:46.413768 tick170		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 11, 'dis': 2, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick170		capital: -891.01
+2024/10/13_22:17:46.413768 tick179	buy 1 dis
+2024/10/13_22:17:46.413768 tick179		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 11, 'dis': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick179		capital: -991.3
+2024/10/13_22:17:46.413768 tick181	buy 1 csco
+2024/10/13_22:17:46.413768 tick181		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 12, 'dis': 3, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick181		capital: -1039.58
+2024/10/13_22:17:46.413768 tick183	buy 1 dis
+2024/10/13_22:17:46.413768 tick183		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 12, 'dis': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.413768 tick183		capital: -1138.57
+2024/10/13_22:17:46.413768 tick184	buy 1 uber
+2024/10/13_22:17:46.413768 tick184		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 12, 'dis': 4, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 3}
+2024/10/13_22:17:46.413768 tick184		capital: -1210.82
+2024/10/13_22:17:46.413768 tick188	buy 1 dis
+2024/10/13_22:17:46.413768 tick188		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 12, 'dis': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 3}
+2024/10/13_22:17:46.413768 tick188		capital: -1308.95
+2024/10/13_22:17:46.413768 tick194	buy 1 csco
+2024/10/13_22:17:46.413768 tick194		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 13, 'dis': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 3}
+2024/10/13_22:17:46.413768 tick194		capital: -1356.77
+2024/10/13_22:17:46.414768 tick199	buy 1 uber
+2024/10/13_22:17:46.414768 tick199		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 13, 'dis': 5, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 4}
+2024/10/13_22:17:46.414768 tick199		capital: -1421.53
+2024/10/13_22:17:46.414768 tick209	buy 1 dis
+2024/10/13_22:17:46.414768 tick209		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 13, 'dis': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 4}
+2024/10/13_22:17:46.414768 tick209		capital: -1508.48
+2024/10/13_22:17:46.414768 tick214	sell 13 csco
+2024/10/13_22:17:46.414768 tick214		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 4}
+2024/10/13_22:17:46.414768 tick214		capital: -859.74
+2024/10/13_22:17:46.414768 tick214	sell 4 uber
+2024/10/13_22:17:46.414768 tick214		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 6, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick214		capital: -564.02
+2024/10/13_22:17:46.414768 tick218	buy 1 dis
+2024/10/13_22:17:46.414768 tick218		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 7, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick218		capital: -655.58
+2024/10/13_22:17:46.414768 tick222	buy 1 dis
+2024/10/13_22:17:46.414768 tick222		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 8, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick222		capital: -746.39
+2024/10/13_22:17:46.414768 tick223	buy 1 dis
+2024/10/13_22:17:46.414768 tick223		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick223		capital: -837.77
+2024/10/13_22:17:46.414768 tick225	buy 1 csco
+2024/10/13_22:17:46.414768 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 9, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick225		capital: -888.47
+2024/10/13_22:17:46.414768 tick225	buy 1 dis
+2024/10/13_22:17:46.414768 tick225		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 1, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick225		capital: -978.72
+2024/10/13_22:17:46.414768 tick226	buy 1 csco
+2024/10/13_22:17:46.414768 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.414768 tick226		capital: -1028.85
+2024/10/13_22:17:46.414768 tick226	buy 1 uber
+2024/10/13_22:17:46.414768 tick226		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 2, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.414768 tick226		capital: -1101.1
+2024/10/13_22:17:46.414768 tick227	buy 1 csco
+2024/10/13_22:17:46.414768 tick227		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 3, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.414768 tick227		capital: -1150.6
+2024/10/13_22:17:46.414768 tick228	buy 1 csco
+2024/10/13_22:17:46.414768 tick228		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 1}
+2024/10/13_22:17:46.414768 tick228		capital: -1200.3
+2024/10/13_22:17:46.414768 tick229	buy 1 uber
+2024/10/13_22:17:46.414768 tick229		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 2}
+2024/10/13_22:17:46.414768 tick229		capital: -1270.29
+2024/10/13_22:17:46.414768 tick231	buy 1 uber
+2024/10/13_22:17:46.414768 tick231		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 3}
+2024/10/13_22:17:46.414768 tick231		capital: -1339.38
+2024/10/13_22:17:46.414768 tick232	sell 3 uber
+2024/10/13_22:17:46.415769 tick232		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 4, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick232		capital: -1122.94
+2024/10/13_22:17:46.415769 tick233	sell 4 csco
+2024/10/13_22:17:46.415769 tick233		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 10, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick233		capital: -919.82
+2024/10/13_22:17:46.415769 tick239	buy 1 dis
+2024/10/13_22:17:46.415769 tick239		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 11, 'meta': 0, 'msft': 0, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick239		capital: -1014.51
+2024/10/13_22:17:46.415769 tick241	buy 1 msft
+2024/10/13_22:17:46.415769 tick241		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 11, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick241		capital: -1446.82
+2024/10/13_22:17:46.415769 tick245	buy 1 dis
+2024/10/13_22:17:46.415769 tick245		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 12, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick245		capital: -1541.97
+2024/10/13_22:17:46.415769 tick247	buy 1 aapl
+2024/10/13_22:17:46.415769 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 0, 'dis': 12, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick247		capital: -1769.77
+2024/10/13_22:17:46.415769 tick247	buy 1 csco
+2024/10/13_22:17:46.415769 tick247		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 1, 'dis': 12, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick247		capital: -1823.52
+2024/10/13_22:17:46.415769 tick248	buy 1 csco
+2024/10/13_22:17:46.415769 tick248		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 2, 'dis': 12, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick248		capital: -1877.03
+2024/10/13_22:17:46.415769 tick249	buy 1 csco
+2024/10/13_22:17:46.415769 tick249		portfolio: {'aapl': 1, 'amzn': 0, 'csco': 3, 'dis': 12, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/13_22:17:46.415769 tick249		capital: -1930.76

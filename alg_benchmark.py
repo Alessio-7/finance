@@ -12,7 +12,11 @@ class MarketBenchmark(Market):
 		super(MarketBenchmark, self).__init__()
 		self.stocks_full_history: dict = {}
 
-		stock_dir = "./clean"
+		stock_dir = "./scenarios/current"
+		#stock_dir = "./scenarios/worst_scenario"
+		#stock_dir = "./scenarios/worst_worst_scenario"
+		#stock_dir = "./scenarios/all_time"
+
 		if len(test_stocks) == 0:
 			test_stocks = os.listdir(stock_dir)
 		for file in os.listdir(stock_dir):
@@ -66,14 +70,14 @@ class MarketBenchmark(Market):
 
 if __name__ == '__main__':
 	alg_class = alg.AllInAllOut
-	params = (4, 0.1, 0.1, -10)
+	params = (4, 0.05, 0.05, -10)
 	"""
 	for test_stocks in [['uber', 'dis'], ['amzn', 'meta']]:
 		m = MarketBenchmark(test_stocks=test_stocks)
 		stats = m.stats_single_benchmark(alg_class=alg_class, params=params)
 		print(test_stocks, ":", stats['tot capital'], stats['n transactions'])
 	"""
-	test_stocks = ['meta', 'nflx', 'msft']
+	test_stocks = ['msft', 'nflx', 'nvda', 'aapl']
 	m = MarketBenchmark(test_stocks=test_stocks)
 	m.start_bench_mark(alg_classes=[alg_class], params=params)
 	plt.show()
