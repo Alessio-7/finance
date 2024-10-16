@@ -1,0 +1,1998 @@
+2024/10/16_22:07:16.013368 tick21	buy 1 msft
+2024/10/16_22:07:16.013368 tick21		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 0, 'meta': 0, 'msft': 1, 'nflx': 0, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/16_22:07:16.013368 tick21		capital: -361.69
+2024/10/16_22:07:16.013368 tick21	buy 1 nflx
+2024/10/16_22:07:16.013368 tick21		portfolio: {'aapl': 0, 'amzn': 0, 'csco': 0, 'dis': 0, 'meta': 0, 'msft': 1, 'nflx': 1, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/16_22:07:16.013368 tick21		capital: -797.84
+2024/10/16_22:07:16.013368 tick22	buy 1 amzn
+2024/10/16_22:07:16.013368 tick22		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'dis': 0, 'meta': 0, 'msft': 1, 'nflx': 1, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/16_22:07:16.013368 tick22		capital: -939.44
+2024/10/16_22:07:16.013368 tick22	buy 1 dis
+2024/10/16_22:07:16.013368 tick22		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'dis': 1, 'meta': 0, 'msft': 1, 'nflx': 1, 'nvda': 0, 'tsla': 0, 'uber': 0}
+2024/10/16_22:07:16.013368 tick22		capital: -1028.71
+2024/10/16_22:07:16.013368 tick22	buy 1 tsla
+2024/10/16_22:07:16.013368 tick22		portfolio: {'aapl': 0, 'amzn': 1, 'csco': 0, 'dis': 1, 'meta': 0, 'msft': 1, 'nflx': 1, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick22		capital: -1239.69
+2024/10/16_22:07:16.013368 tick23	buy 1 aapl
+2024/10/16_22:07:16.013368 tick23		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 0, 'dis': 1, 'meta': 0, 'msft': 1, 'nflx': 1, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick23		capital: -1425.49
+2024/10/16_22:07:16.013368 tick23	buy 1 msft
+2024/10/16_22:07:16.013368 tick23		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 0, 'dis': 1, 'meta': 0, 'msft': 2, 'nflx': 1, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick23		capital: -1793.17
+2024/10/16_22:07:16.013368 tick23	buy 1 nflx
+2024/10/16_22:07:16.013368 tick23		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 0, 'dis': 1, 'meta': 0, 'msft': 2, 'nflx': 2, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick23		capital: -2238.79
+2024/10/16_22:07:16.013368 tick25	buy 1 meta
+2024/10/16_22:07:16.013368 tick25		portfolio: {'aapl': 1, 'amzn': 1, 'csco': 0, 'dis': 1, 'meta': 1, 'msft': 2, 'nflx': 2, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick25		capital: -2572.5
+2024/10/16_22:07:16.013368 tick26	buy 1 amzn
+2024/10/16_22:07:16.013368 tick26		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 0, 'dis': 1, 'meta': 1, 'msft': 2, 'nflx': 2, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick26		capital: -2716.7
+2024/10/16_22:07:16.013368 tick26	buy 1 csco
+2024/10/16_22:07:16.013368 tick26		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 1, 'dis': 1, 'meta': 1, 'msft': 2, 'nflx': 2, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick26		capital: -2765.74
+2024/10/16_22:07:16.013368 tick27	buy 1 msft
+2024/10/16_22:07:16.013368 tick27		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 1, 'dis': 1, 'meta': 1, 'msft': 3, 'nflx': 2, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick27		capital: -3136.59
+2024/10/16_22:07:16.013368 tick27	buy 1 nflx
+2024/10/16_22:07:16.013368 tick27		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 1, 'dis': 1, 'meta': 1, 'msft': 3, 'nflx': 3, 'nvda': 0, 'tsla': 1, 'uber': 0}
+2024/10/16_22:07:16.013368 tick27		capital: -3603.5
+2024/10/16_22:07:16.013368 tick27	buy 1 tsla
+2024/10/16_22:07:16.013368 tick27		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 1, 'dis': 1, 'meta': 1, 'msft': 3, 'nflx': 3, 'nvda': 0, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick27		capital: -3838.09
+2024/10/16_22:07:16.013368 tick29	buy 1 meta
+2024/10/16_22:07:16.013368 tick29		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 1, 'dis': 1, 'meta': 2, 'msft': 3, 'nflx': 3, 'nvda': 0, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick29		capital: -4176.07
+2024/10/16_22:07:16.013368 tick29	buy 1 msft
+2024/10/16_22:07:16.013368 tick29		portfolio: {'aapl': 1, 'amzn': 2, 'csco': 1, 'dis': 1, 'meta': 2, 'msft': 4, 'nflx': 3, 'nvda': 0, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick29		capital: -4550.14
+2024/10/16_22:07:16.013368 tick30	buy 1 amzn
+2024/10/16_22:07:16.013368 tick30		portfolio: {'aapl': 1, 'amzn': 3, 'csco': 1, 'dis': 1, 'meta': 2, 'msft': 4, 'nflx': 3, 'nvda': 0, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick30		capital: -4695.04
+2024/10/16_22:07:16.013368 tick31	buy 1 aapl
+2024/10/16_22:07:16.013368 tick31		portfolio: {'aapl': 2, 'amzn': 3, 'csco': 1, 'dis': 1, 'meta': 2, 'msft': 4, 'nflx': 3, 'nvda': 0, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick31		capital: -4886.01
+2024/10/16_22:07:16.013368 tick31	buy 1 meta
+2024/10/16_22:07:16.013368 tick31		portfolio: {'aapl': 2, 'amzn': 3, 'csco': 1, 'dis': 1, 'meta': 3, 'msft': 4, 'nflx': 3, 'nvda': 0, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick31		capital: -5225.24
+2024/10/16_22:07:16.013368 tick31	buy 1 nvda
+2024/10/16_22:07:16.013368 tick31		portfolio: {'aapl': 2, 'amzn': 3, 'csco': 1, 'dis': 1, 'meta': 3, 'msft': 4, 'nflx': 3, 'nvda': 1, 'tsla': 2, 'uber': 0}
+2024/10/16_22:07:16.013368 tick31		capital: -5274.96
+2024/10/16_22:07:16.013368 tick31	buy 1 tsla
+2024/10/16_22:07:16.013368 tick31		portfolio: {'aapl': 2, 'amzn': 3, 'csco': 1, 'dis': 1, 'meta': 3, 'msft': 4, 'nflx': 3, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.013368 tick31		capital: -5510.17
+2024/10/16_22:07:16.013368 tick32	buy 1 meta
+2024/10/16_22:07:16.013368 tick32		portfolio: {'aapl': 2, 'amzn': 3, 'csco': 1, 'dis': 1, 'meta': 4, 'msft': 4, 'nflx': 3, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.013368 tick32		capital: -5845.87
+2024/10/16_22:07:16.014367 tick33	buy 1 dis
+2024/10/16_22:07:16.014367 tick33		portfolio: {'aapl': 2, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 4, 'msft': 4, 'nflx': 3, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick33		capital: -5939.37
+2024/10/16_22:07:16.014367 tick34	buy 1 aapl
+2024/10/16_22:07:16.014367 tick34		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 4, 'msft': 4, 'nflx': 3, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick34		capital: -6129.74
+2024/10/16_22:07:16.014367 tick34	buy 1 meta
+2024/10/16_22:07:16.014367 tick34		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 5, 'msft': 4, 'nflx': 3, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick34		capital: -6462.94
+2024/10/16_22:07:16.014367 tick34	buy 1 msft
+2024/10/16_22:07:16.014367 tick34		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 5, 'msft': 5, 'nflx': 3, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick34		capital: -6842.79
+2024/10/16_22:07:16.014367 tick34	buy 1 nflx
+2024/10/16_22:07:16.014367 tick34		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 5, 'msft': 5, 'nflx': 4, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick34		capital: -7320.98
+2024/10/16_22:07:16.014367 tick35	buy 1 meta
+2024/10/16_22:07:16.014367 tick35		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 6, 'msft': 5, 'nflx': 4, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick35		capital: -7649.13
+2024/10/16_22:07:16.014367 tick35	buy 1 nflx
+2024/10/16_22:07:16.014367 tick35		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 6, 'msft': 5, 'nflx': 5, 'nvda': 1, 'tsla': 3, 'uber': 0}
+2024/10/16_22:07:16.014367 tick35		capital: -8124.1
+2024/10/16_22:07:16.014367 tick35	buy 1 tsla
+2024/10/16_22:07:16.014367 tick35		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 6, 'msft': 5, 'nflx': 5, 'nvda': 1, 'tsla': 4, 'uber': 0}
+2024/10/16_22:07:16.014367 tick35		capital: -8369.24
+2024/10/16_22:07:16.014367 tick36	buy 1 meta
+2024/10/16_22:07:16.014367 tick36		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 7, 'msft': 5, 'nflx': 5, 'nvda': 1, 'tsla': 4, 'uber': 0}
+2024/10/16_22:07:16.014367 tick36		capital: -8695.06
+2024/10/16_22:07:16.014367 tick36	buy 1 msft
+2024/10/16_22:07:16.014367 tick36		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 7, 'msft': 6, 'nflx': 5, 'nvda': 1, 'tsla': 4, 'uber': 0}
+2024/10/16_22:07:16.014367 tick36		capital: -9070.57
+2024/10/16_22:07:16.014367 tick36	buy 1 nflx
+2024/10/16_22:07:16.014367 tick36		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 7, 'msft': 6, 'nflx': 6, 'nvda': 1, 'tsla': 4, 'uber': 0}
+2024/10/16_22:07:16.014367 tick36		capital: -9537.31
+2024/10/16_22:07:16.014367 tick36	buy 1 nvda
+2024/10/16_22:07:16.014367 tick36		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 7, 'msft': 6, 'nflx': 6, 'nvda': 2, 'tsla': 4, 'uber': 0}
+2024/10/16_22:07:16.014367 tick36		capital: -9585.08
+2024/10/16_22:07:16.014367 tick36	buy 1 tsla
+2024/10/16_22:07:16.014367 tick36		portfolio: {'aapl': 3, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 7, 'msft': 6, 'nflx': 6, 'nvda': 2, 'tsla': 5, 'uber': 0}
+2024/10/16_22:07:16.014367 tick36		capital: -9826.16
+2024/10/16_22:07:16.014367 tick37	buy 1 aapl
+2024/10/16_22:07:16.014367 tick37		portfolio: {'aapl': 4, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 7, 'msft': 6, 'nflx': 6, 'nvda': 2, 'tsla': 5, 'uber': 0}
+2024/10/16_22:07:16.014367 tick37		capital: -10016.59
+2024/10/16_22:07:16.014367 tick37	buy 1 meta
+2024/10/16_22:07:16.014367 tick37		portfolio: {'aapl': 4, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 8, 'msft': 6, 'nflx': 6, 'nvda': 2, 'tsla': 5, 'uber': 0}
+2024/10/16_22:07:16.014367 tick37		capital: -10337.61
+2024/10/16_22:07:16.014367 tick37	buy 1 msft
+2024/10/16_22:07:16.014367 tick37		portfolio: {'aapl': 4, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 8, 'msft': 7, 'nflx': 6, 'nvda': 2, 'tsla': 5, 'uber': 0}
+2024/10/16_22:07:16.014367 tick37		capital: -10707.75
+2024/10/16_22:07:16.014367 tick37	buy 1 nflx
+2024/10/16_22:07:16.014367 tick37		portfolio: {'aapl': 4, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 8, 'msft': 7, 'nflx': 7, 'nvda': 2, 'tsla': 5, 'uber': 0}
+2024/10/16_22:07:16.014367 tick37		capital: -11162.65
+2024/10/16_22:07:16.014367 tick37	buy 1 tsla
+2024/10/16_22:07:16.014367 tick37		portfolio: {'aapl': 4, 'amzn': 3, 'csco': 1, 'dis': 2, 'meta': 8, 'msft': 7, 'nflx': 7, 'nvda': 2, 'tsla': 6, 'uber': 0}
+2024/10/16_22:07:16.014367 tick37		capital: -11402.48
+2024/10/16_22:07:16.014367 tick38	buy 1 amzn
+2024/10/16_22:07:16.014367 tick38		portfolio: {'aapl': 4, 'amzn': 4, 'csco': 1, 'dis': 2, 'meta': 8, 'msft': 7, 'nflx': 7, 'nvda': 2, 'tsla': 6, 'uber': 0}
+2024/10/16_22:07:16.014367 tick38		capital: -11548.32
+2024/10/16_22:07:16.014367 tick38	buy 1 dis
+2024/10/16_22:07:16.014367 tick38		portfolio: {'aapl': 4, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 8, 'msft': 7, 'nflx': 7, 'nvda': 2, 'tsla': 6, 'uber': 0}
+2024/10/16_22:07:16.014367 tick38		capital: -11640.11
+2024/10/16_22:07:16.014367 tick38	buy 1 meta
+2024/10/16_22:07:16.014367 tick38		portfolio: {'aapl': 4, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 7, 'nflx': 7, 'nvda': 2, 'tsla': 6, 'uber': 0}
+2024/10/16_22:07:16.014367 tick38		capital: -11959.4
+2024/10/16_22:07:16.014367 tick38	buy 1 nvda
+2024/10/16_22:07:16.014367 tick38		portfolio: {'aapl': 4, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 7, 'nflx': 7, 'nvda': 3, 'tsla': 6, 'uber': 0}
+2024/10/16_22:07:16.014367 tick38		capital: -12005.91
+2024/10/16_22:07:16.014367 tick38	buy 1 tsla
+2024/10/16_22:07:16.014367 tick38		portfolio: {'aapl': 4, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 7, 'nflx': 7, 'nvda': 3, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick38		capital: -12242.49
+2024/10/16_22:07:16.014367 tick39	buy 1 aapl
+2024/10/16_22:07:16.014367 tick39		portfolio: {'aapl': 5, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 7, 'nflx': 7, 'nvda': 3, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick39		capital: -12435.81
+2024/10/16_22:07:16.014367 tick39	buy 1 msft
+2024/10/16_22:07:16.014367 tick39		portfolio: {'aapl': 5, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 8, 'nflx': 7, 'nvda': 3, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick39		capital: -12805.61
+2024/10/16_22:07:16.014367 tick39	buy 1 nflx
+2024/10/16_22:07:16.014367 tick39		portfolio: {'aapl': 5, 'amzn': 4, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 8, 'nflx': 8, 'nvda': 3, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick39		capital: -13253.34
+2024/10/16_22:07:16.014367 tick40	buy 1 amzn
+2024/10/16_22:07:16.014367 tick40		portfolio: {'aapl': 5, 'amzn': 5, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 8, 'nflx': 8, 'nvda': 3, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick40		capital: -13398.86
+2024/10/16_22:07:16.014367 tick40	buy 1 nvda
+2024/10/16_22:07:16.014367 tick40		portfolio: {'aapl': 5, 'amzn': 5, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 8, 'nflx': 8, 'nvda': 4, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick40		capital: -13445.36
+2024/10/16_22:07:16.014367 tick42	buy 1 aapl
+2024/10/16_22:07:16.014367 tick42		portfolio: {'aapl': 6, 'amzn': 5, 'csco': 1, 'dis': 3, 'meta': 9, 'msft': 8, 'nflx': 8, 'nvda': 4, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick42		capital: -13639.54
+2024/10/16_22:07:16.014367 tick42	buy 1 meta
+2024/10/16_22:07:16.014367 tick42		portfolio: {'aapl': 6, 'amzn': 5, 'csco': 1, 'dis': 3, 'meta': 10, 'msft': 8, 'nflx': 8, 'nvda': 4, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick42		capital: -13965.82
+2024/10/16_22:07:16.014367 tick42	buy 1 msft
+2024/10/16_22:07:16.014367 tick42		portfolio: {'aapl': 6, 'amzn': 5, 'csco': 1, 'dis': 3, 'meta': 10, 'msft': 9, 'nflx': 8, 'nvda': 4, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick42		capital: -14338.12
+2024/10/16_22:07:16.014367 tick43	buy 1 amzn
+2024/10/16_22:07:16.014367 tick43		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 3, 'meta': 10, 'msft': 9, 'nflx': 8, 'nvda': 4, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick43		capital: -14485.01
+2024/10/16_22:07:16.014367 tick43	buy 1 dis
+2024/10/16_22:07:16.014367 tick43		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 4, 'meta': 10, 'msft': 9, 'nflx': 8, 'nvda': 4, 'tsla': 7, 'uber': 0}
+2024/10/16_22:07:16.014367 tick43		capital: -14577.08
+2024/10/16_22:07:16.014367 tick43	buy 1 tsla
+2024/10/16_22:07:16.014367 tick43		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 4, 'meta': 10, 'msft': 9, 'nflx': 8, 'nvda': 4, 'tsla': 8, 'uber': 0}
+2024/10/16_22:07:16.014367 tick43		capital: -14817.82
+2024/10/16_22:07:16.014367 tick44	buy 1 tsla
+2024/10/16_22:07:16.014367 tick44		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 4, 'meta': 10, 'msft': 9, 'nflx': 8, 'nvda': 4, 'tsla': 9, 'uber': 0}
+2024/10/16_22:07:16.014367 tick44		capital: -15055.83
+2024/10/16_22:07:16.014367 tick45	buy 1 meta
+2024/10/16_22:07:16.014367 tick45		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 9, 'nflx': 8, 'nvda': 4, 'tsla': 9, 'uber': 0}
+2024/10/16_22:07:16.014367 tick45		capital: -15390.0
+2024/10/16_22:07:16.014367 tick45	buy 1 msft
+2024/10/16_22:07:16.014367 tick45		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 10, 'nflx': 8, 'nvda': 4, 'tsla': 9, 'uber': 0}
+2024/10/16_22:07:16.014367 tick45		capital: -15756.93
+2024/10/16_22:07:16.014367 tick45	buy 1 nflx
+2024/10/16_22:07:16.014367 tick45		portfolio: {'aapl': 6, 'amzn': 6, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 9, 'uber': 0}
+2024/10/16_22:07:16.014367 tick45		capital: -16227.76
+2024/10/16_22:07:16.014367 tick46	buy 1 amzn
+2024/10/16_22:07:16.014367 tick46		portfolio: {'aapl': 6, 'amzn': 7, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 9, 'uber': 0}
+2024/10/16_22:07:16.014367 tick46		capital: -16376.18
+2024/10/16_22:07:16.014367 tick47	buy 1 aapl
+2024/10/16_22:07:16.014367 tick47		portfolio: {'aapl': 7, 'amzn': 7, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 9, 'uber': 0}
+2024/10/16_22:07:16.014367 tick47		capital: -16573.07
+2024/10/16_22:07:16.014367 tick48	buy 1 tsla
+2024/10/16_22:07:16.014367 tick48		portfolio: {'aapl': 7, 'amzn': 7, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 10, 'uber': 0}
+2024/10/16_22:07:16.014367 tick48		capital: -16826.15
+2024/10/16_22:07:16.014367 tick49	buy 1 aapl
+2024/10/16_22:07:16.014367 tick49		portfolio: {'aapl': 8, 'amzn': 7, 'csco': 1, 'dis': 4, 'meta': 11, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 10, 'uber': 0}
+2024/10/16_22:07:16.015366 tick49		capital: -17021.98
+2024/10/16_22:07:16.015366 tick49	buy 1 dis
+2024/10/16_22:07:16.015366 tick49		portfolio: {'aapl': 8, 'amzn': 7, 'csco': 1, 'dis': 5, 'meta': 11, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 10, 'uber': 0}
+2024/10/16_22:07:16.015366 tick49		capital: -17114.25
+2024/10/16_22:07:16.015366 tick49	buy 1 meta
+2024/10/16_22:07:16.015366 tick49		portfolio: {'aapl': 8, 'amzn': 7, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 10, 'nflx': 9, 'nvda': 4, 'tsla': 10, 'uber': 0}
+2024/10/16_22:07:16.015366 tick49		capital: -17464.53
+2024/10/16_22:07:16.015366 tick49	buy 1 msft
+2024/10/16_22:07:16.015366 tick49		portfolio: {'aapl': 8, 'amzn': 7, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 9, 'nvda': 4, 'tsla': 10, 'uber': 0}
+2024/10/16_22:07:16.015366 tick49		capital: -17836.15
+2024/10/16_22:07:16.015366 tick49	buy 1 nflx
+2024/10/16_22:07:16.015366 tick49		portfolio: {'aapl': 8, 'amzn': 7, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 10, 'nvda': 4, 'tsla': 10, 'uber': 0}
+2024/10/16_22:07:16.015366 tick49		capital: -18326.42
+2024/10/16_22:07:16.015366 tick49	buy 1 uber
+2024/10/16_22:07:16.015366 tick49		portfolio: {'aapl': 8, 'amzn': 7, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 10, 'nvda': 4, 'tsla': 10, 'uber': 1}
+2024/10/16_22:07:16.015366 tick49		capital: -18388.1
+2024/10/16_22:07:16.015366 tick50	buy 1 amzn
+2024/10/16_22:07:16.015366 tick50		portfolio: {'aapl': 8, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 10, 'nvda': 4, 'tsla': 10, 'uber': 1}
+2024/10/16_22:07:16.015366 tick50		capital: -18541.22
+2024/10/16_22:07:16.015366 tick50	buy 1 nvda
+2024/10/16_22:07:16.015366 tick50		portfolio: {'aapl': 8, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 10, 'nvda': 5, 'tsla': 10, 'uber': 1}
+2024/10/16_22:07:16.015366 tick50		capital: -18590.33
+2024/10/16_22:07:16.015366 tick50	buy 1 tsla
+2024/10/16_22:07:16.015366 tick50		portfolio: {'aapl': 8, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 10, 'nvda': 5, 'tsla': 11, 'uber': 1}
+2024/10/16_22:07:16.015366 tick50		capital: -18838.47
+2024/10/16_22:07:16.015366 tick51	buy 1 aapl
+2024/10/16_22:07:16.015366 tick51		portfolio: {'aapl': 9, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 10, 'nvda': 5, 'tsla': 11, 'uber': 1}
+2024/10/16_22:07:16.015366 tick51		capital: -19033.07
+2024/10/16_22:07:16.015366 tick51	buy 1 nflx
+2024/10/16_22:07:16.015366 tick51		portfolio: {'aapl': 9, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 11, 'nvda': 5, 'tsla': 11, 'uber': 1}
+2024/10/16_22:07:16.015366 tick51		capital: -19520.83
+2024/10/16_22:07:16.015366 tick52	buy 1 tsla
+2024/10/16_22:07:16.015366 tick52		portfolio: {'aapl': 9, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 11, 'nvda': 5, 'tsla': 12, 'uber': 1}
+2024/10/16_22:07:16.015366 tick52		capital: -19774.37
+2024/10/16_22:07:16.015366 tick54	buy 1 nflx
+2024/10/16_22:07:16.015366 tick54		portfolio: {'aapl': 9, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 12, 'nvda': 5, 'tsla': 12, 'uber': 1}
+2024/10/16_22:07:16.015366 tick54		capital: -20265.88
+2024/10/16_22:07:16.015366 tick55	buy 1 aapl
+2024/10/16_22:07:16.015366 tick55		portfolio: {'aapl': 10, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 12, 'msft': 11, 'nflx': 12, 'nvda': 5, 'tsla': 12, 'uber': 1}
+2024/10/16_22:07:16.015366 tick55		capital: -20459.41
+2024/10/16_22:07:16.015366 tick55	buy 1 meta
+2024/10/16_22:07:16.015366 tick55		portfolio: {'aapl': 10, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 13, 'msft': 11, 'nflx': 12, 'nvda': 5, 'tsla': 12, 'uber': 1}
+2024/10/16_22:07:16.015366 tick55		capital: -20814.37
+2024/10/16_22:07:16.015366 tick55	buy 1 nflx
+2024/10/16_22:07:16.015366 tick55		portfolio: {'aapl': 10, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 13, 'msft': 11, 'nflx': 13, 'nvda': 5, 'tsla': 12, 'uber': 1}
+2024/10/16_22:07:16.015366 tick55		capital: -21302.25
+2024/10/16_22:07:16.015366 tick55	buy 1 tsla
+2024/10/16_22:07:16.015366 tick55		portfolio: {'aapl': 10, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 13, 'msft': 11, 'nflx': 13, 'nvda': 5, 'tsla': 13, 'uber': 1}
+2024/10/16_22:07:16.015366 tick55		capital: -21556.43
+2024/10/16_22:07:16.015366 tick55	buy 1 uber
+2024/10/16_22:07:16.015366 tick55		portfolio: {'aapl': 10, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 13, 'msft': 11, 'nflx': 13, 'nvda': 5, 'tsla': 13, 'uber': 2}
+2024/10/16_22:07:16.015366 tick55		capital: -21619.0
+2024/10/16_22:07:16.015366 tick56	buy 1 aapl
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 8, 'csco': 1, 'dis': 5, 'meta': 13, 'msft': 11, 'nflx': 13, 'nvda': 5, 'tsla': 13, 'uber': 2}
+2024/10/16_22:07:16.015366 tick56		capital: -21805.64
+2024/10/16_22:07:16.015366 tick56	buy 1 amzn
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 13, 'msft': 11, 'nflx': 13, 'nvda': 5, 'tsla': 13, 'uber': 2}
+2024/10/16_22:07:16.015366 tick56		capital: -21958.58
+2024/10/16_22:07:16.015366 tick56	buy 1 meta
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 11, 'nflx': 13, 'nvda': 5, 'tsla': 13, 'uber': 2}
+2024/10/16_22:07:16.015366 tick56		capital: -22305.87
+2024/10/16_22:07:16.015366 tick56	buy 1 msft
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 12, 'nflx': 13, 'nvda': 5, 'tsla': 13, 'uber': 2}
+2024/10/16_22:07:16.015366 tick56		capital: -22677.74
+2024/10/16_22:07:16.015366 tick56	buy 1 nflx
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 12, 'nflx': 14, 'nvda': 5, 'tsla': 13, 'uber': 2}
+2024/10/16_22:07:16.015366 tick56		capital: -23147.24
+2024/10/16_22:07:16.015366 tick56	buy 1 tsla
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 12, 'nflx': 14, 'nvda': 5, 'tsla': 14, 'uber': 2}
+2024/10/16_22:07:16.015366 tick56		capital: -23396.72
+2024/10/16_22:07:16.015366 tick56	buy 1 uber
+2024/10/16_22:07:16.015366 tick56		portfolio: {'aapl': 11, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 12, 'nflx': 14, 'nvda': 5, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick56		capital: -23456.1
+2024/10/16_22:07:16.015366 tick57	buy 1 aapl
+2024/10/16_22:07:16.015366 tick57		portfolio: {'aapl': 12, 'amzn': 9, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 12, 'nflx': 14, 'nvda': 5, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick57		capital: -23641.35
+2024/10/16_22:07:16.015366 tick57	buy 1 amzn
+2024/10/16_22:07:16.015366 tick57		portfolio: {'aapl': 12, 'amzn': 10, 'csco': 1, 'dis': 5, 'meta': 14, 'msft': 12, 'nflx': 14, 'nvda': 5, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick57		capital: -23792.28
+2024/10/16_22:07:16.015366 tick57	buy 1 meta
+2024/10/16_22:07:16.015366 tick57		portfolio: {'aapl': 12, 'amzn': 10, 'csco': 1, 'dis': 5, 'meta': 15, 'msft': 12, 'nflx': 14, 'nvda': 5, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick57		capital: -24137.75
+2024/10/16_22:07:16.015366 tick57	buy 1 nvda
+2024/10/16_22:07:16.015366 tick57		portfolio: {'aapl': 12, 'amzn': 10, 'csco': 1, 'dis': 5, 'meta': 15, 'msft': 12, 'nflx': 14, 'nvda': 6, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick57		capital: -24186.92
+2024/10/16_22:07:16.015366 tick58	buy 1 aapl
+2024/10/16_22:07:16.015366 tick58		portfolio: {'aapl': 13, 'amzn': 10, 'csco': 1, 'dis': 5, 'meta': 15, 'msft': 12, 'nflx': 14, 'nvda': 6, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick58		capital: -24369.83
+2024/10/16_22:07:16.015366 tick58	buy 1 amzn
+2024/10/16_22:07:16.015366 tick58		portfolio: {'aapl': 13, 'amzn': 11, 'csco': 1, 'dis': 5, 'meta': 15, 'msft': 12, 'nflx': 14, 'nvda': 6, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick58		capital: -24519.3
+2024/10/16_22:07:16.015366 tick58	buy 1 dis
+2024/10/16_22:07:16.015366 tick58		portfolio: {'aapl': 13, 'amzn': 11, 'csco': 1, 'dis': 6, 'meta': 15, 'msft': 12, 'nflx': 14, 'nvda': 6, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick58		capital: -24610.86
+2024/10/16_22:07:16.015366 tick58	buy 1 msft
+2024/10/16_22:07:16.015366 tick58		portfolio: {'aapl': 13, 'amzn': 11, 'csco': 1, 'dis': 6, 'meta': 15, 'msft': 13, 'nflx': 14, 'nvda': 6, 'tsla': 14, 'uber': 3}
+2024/10/16_22:07:16.015366 tick58		capital: -24979.8
+2024/10/16_22:07:16.015366 tick58	buy 1 tsla
+2024/10/16_22:07:16.015366 tick58		portfolio: {'aapl': 13, 'amzn': 11, 'csco': 1, 'dis': 6, 'meta': 15, 'msft': 13, 'nflx': 14, 'nvda': 6, 'tsla': 15, 'uber': 3}
+2024/10/16_22:07:16.015366 tick58		capital: -25219.25
+2024/10/16_22:07:16.015366 tick59	buy 1 amzn
+2024/10/16_22:07:16.015366 tick59		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 6, 'meta': 15, 'msft': 13, 'nflx': 14, 'nvda': 6, 'tsla': 15, 'uber': 3}
+2024/10/16_22:07:16.015366 tick59		capital: -25364.82
+2024/10/16_22:07:16.015366 tick61	buy 1 dis
+2024/10/16_22:07:16.015366 tick61		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 15, 'msft': 13, 'nflx': 14, 'nvda': 6, 'tsla': 15, 'uber': 3}
+2024/10/16_22:07:16.015366 tick61		capital: -25455.49
+2024/10/16_22:07:16.015366 tick61	buy 1 meta
+2024/10/16_22:07:16.015366 tick61		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 14, 'nvda': 6, 'tsla': 15, 'uber': 3}
+2024/10/16_22:07:16.015366 tick61		capital: -25813.92
+2024/10/16_22:07:16.015366 tick61	buy 1 nflx
+2024/10/16_22:07:16.015366 tick61		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 15, 'nvda': 6, 'tsla': 15, 'uber': 3}
+2024/10/16_22:07:16.015366 tick61		capital: -26297.01
+2024/10/16_22:07:16.015366 tick62	buy 1 nflx
+2024/10/16_22:07:16.015366 tick62		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 16, 'nvda': 6, 'tsla': 15, 'uber': 3}
+2024/10/16_22:07:16.015366 tick62		capital: -26776.34
+2024/10/16_22:07:16.015366 tick62	buy 1 tsla
+2024/10/16_22:07:16.015366 tick62		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 16, 'nvda': 6, 'tsla': 16, 'uber': 3}
+2024/10/16_22:07:16.015366 tick62		capital: -27012.3
+2024/10/16_22:07:16.015366 tick63	buy 1 tsla
+2024/10/16_22:07:16.015366 tick63		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 16, 'nvda': 6, 'tsla': 17, 'uber': 3}
+2024/10/16_22:07:16.015366 tick63		capital: -27247.24
+2024/10/16_22:07:16.015366 tick64	buy 1 tsla
+2024/10/16_22:07:16.015366 tick64		portfolio: {'aapl': 13, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 16, 'nvda': 6, 'tsla': 18, 'uber': 3}
+2024/10/16_22:07:16.015366 tick64		capital: -27475.46
+2024/10/16_22:07:16.015366 tick65	buy 1 aapl
+2024/10/16_22:07:16.016366 tick65		portfolio: {'aapl': 14, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 16, 'msft': 13, 'nflx': 16, 'nvda': 6, 'tsla': 18, 'uber': 3}
+2024/10/16_22:07:16.016366 tick65		capital: -27660.09
+2024/10/16_22:07:16.016366 tick65	buy 1 meta
+2024/10/16_22:07:16.016366 tick65		portfolio: {'aapl': 14, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 17, 'msft': 13, 'nflx': 16, 'nvda': 6, 'tsla': 18, 'uber': 3}
+2024/10/16_22:07:16.016366 tick65		capital: -28028.55
+2024/10/16_22:07:16.016366 tick65	buy 1 nflx
+2024/10/16_22:07:16.016366 tick65		portfolio: {'aapl': 14, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 17, 'msft': 13, 'nflx': 17, 'nvda': 6, 'tsla': 18, 'uber': 3}
+2024/10/16_22:07:16.016366 tick65		capital: -28510.79
+2024/10/16_22:07:16.016366 tick65	buy 1 tsla
+2024/10/16_22:07:16.016366 tick65		portfolio: {'aapl': 14, 'amzn': 12, 'csco': 1, 'dis': 7, 'meta': 17, 'msft': 13, 'nflx': 17, 'nvda': 6, 'tsla': 19, 'uber': 3}
+2024/10/16_22:07:16.016366 tick65		capital: -28730.68
+2024/10/16_22:07:16.016366 tick66	buy 1 amzn
+2024/10/16_22:07:16.016366 tick66		portfolio: {'aapl': 14, 'amzn': 13, 'csco': 1, 'dis': 7, 'meta': 17, 'msft': 13, 'nflx': 17, 'nvda': 6, 'tsla': 19, 'uber': 3}
+2024/10/16_22:07:16.016366 tick66		capital: -28884.84
+2024/10/16_22:07:16.016366 tick66	buy 1 dis
+2024/10/16_22:07:16.016366 tick66		portfolio: {'aapl': 14, 'amzn': 13, 'csco': 1, 'dis': 8, 'meta': 17, 'msft': 13, 'nflx': 17, 'nvda': 6, 'tsla': 19, 'uber': 3}
+2024/10/16_22:07:16.016366 tick66		capital: -28976.18
+2024/10/16_22:07:16.016366 tick67	buy 1 amzn
+2024/10/16_22:07:16.016366 tick67		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 8, 'meta': 17, 'msft': 13, 'nflx': 17, 'nvda': 6, 'tsla': 19, 'uber': 3}
+2024/10/16_22:07:16.016366 tick67		capital: -29128.89
+2024/10/16_22:07:16.016366 tick67	buy 1 tsla
+2024/10/16_22:07:16.016366 tick67		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 8, 'meta': 17, 'msft': 13, 'nflx': 17, 'nvda': 6, 'tsla': 20, 'uber': 3}
+2024/10/16_22:07:16.016366 tick67		capital: -29345.44
+2024/10/16_22:07:16.016366 tick68	buy 1 nflx
+2024/10/16_22:07:16.016366 tick68		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 8, 'meta': 17, 'msft': 13, 'nflx': 18, 'nvda': 6, 'tsla': 20, 'uber': 3}
+2024/10/16_22:07:16.016366 tick68		capital: -29829.39
+2024/10/16_22:07:16.016366 tick68	buy 1 tsla
+2024/10/16_22:07:16.016366 tick68		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 8, 'meta': 17, 'msft': 13, 'nflx': 18, 'nvda': 6, 'tsla': 21, 'uber': 3}
+2024/10/16_22:07:16.016366 tick68		capital: -30042.27
+2024/10/16_22:07:16.016366 tick69	buy 1 meta
+2024/10/16_22:07:16.016366 tick69		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 8, 'meta': 18, 'msft': 13, 'nflx': 18, 'nvda': 6, 'tsla': 21, 'uber': 3}
+2024/10/16_22:07:16.016366 tick69		capital: -30425.05
+2024/10/16_22:07:16.016366 tick69	buy 1 msft
+2024/10/16_22:07:16.016366 tick69		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 8, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 21, 'uber': 3}
+2024/10/16_22:07:16.016366 tick69		capital: -30822.56
+2024/10/16_22:07:16.016366 tick70	buy 1 dis
+2024/10/16_22:07:16.016366 tick70		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 21, 'uber': 3}
+2024/10/16_22:07:16.016366 tick70		capital: -30917.33
+2024/10/16_22:07:16.016366 tick70	buy 1 tsla
+2024/10/16_22:07:16.016366 tick70		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 22, 'uber': 3}
+2024/10/16_22:07:16.016366 tick70		capital: -31127.13
+2024/10/16_22:07:16.016366 tick72	buy 1 tsla
+2024/10/16_22:07:16.016366 tick72		portfolio: {'aapl': 14, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 23, 'uber': 3}
+2024/10/16_22:07:16.016366 tick72		capital: -31335.96
+2024/10/16_22:07:16.016366 tick73	buy 1 aapl
+2024/10/16_22:07:16.016366 tick73		portfolio: {'aapl': 15, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 23, 'uber': 3}
+2024/10/16_22:07:16.016366 tick73		capital: -31529.38
+2024/10/16_22:07:16.016366 tick73	buy 1 tsla
+2024/10/16_22:07:16.016366 tick73		portfolio: {'aapl': 15, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick73		capital: -31713.01
+2024/10/16_22:07:16.016366 tick75	buy 1 aapl
+2024/10/16_22:07:16.016366 tick75		portfolio: {'aapl': 16, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 14, 'nflx': 18, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick75		capital: -31902.05
+2024/10/16_22:07:16.016366 tick75	buy 1 msft
+2024/10/16_22:07:16.016366 tick75		portfolio: {'aapl': 16, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 15, 'nflx': 18, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick75		capital: -32311.64
+2024/10/16_22:07:16.016366 tick75	buy 1 nflx
+2024/10/16_22:07:16.016366 tick75		portfolio: {'aapl': 16, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 15, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick75		capital: -32875.49
+2024/10/16_22:07:16.016366 tick76	buy 1 aapl
+2024/10/16_22:07:16.016366 tick76		portfolio: {'aapl': 17, 'amzn': 14, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 15, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick76		capital: -33060.89
+2024/10/16_22:07:16.016366 tick76	buy 1 amzn
+2024/10/16_22:07:16.016366 tick76		portfolio: {'aapl': 17, 'amzn': 15, 'csco': 1, 'dis': 9, 'meta': 18, 'msft': 15, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick76		capital: -33220.89
+2024/10/16_22:07:16.016366 tick76	buy 1 csco
+2024/10/16_22:07:16.016366 tick76		portfolio: {'aapl': 17, 'amzn': 15, 'csco': 2, 'dis': 9, 'meta': 18, 'msft': 15, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick76		capital: -33272.07
+2024/10/16_22:07:16.016366 tick76	buy 1 meta
+2024/10/16_22:07:16.016366 tick76		portfolio: {'aapl': 17, 'amzn': 15, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 15, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick76		capital: -33663.21
+2024/10/16_22:07:16.016366 tick76	buy 1 msft
+2024/10/16_22:07:16.016366 tick76		portfolio: {'aapl': 17, 'amzn': 15, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 3}
+2024/10/16_22:07:16.016366 tick76		capital: -34061.79
+2024/10/16_22:07:16.016366 tick76	buy 1 uber
+2024/10/16_22:07:16.016366 tick76		portfolio: {'aapl': 17, 'amzn': 15, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 4}
+2024/10/16_22:07:16.016366 tick76		capital: -34128.06
+2024/10/16_22:07:16.016366 tick77	buy 1 amzn
+2024/10/16_22:07:16.016366 tick77		portfolio: {'aapl': 17, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 19, 'nvda': 6, 'tsla': 24, 'uber': 4}
+2024/10/16_22:07:16.016366 tick77		capital: -34284.26
+2024/10/16_22:07:16.016366 tick77	buy 1 nvda
+2024/10/16_22:07:16.016366 tick77		portfolio: {'aapl': 17, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 19, 'nvda': 7, 'tsla': 24, 'uber': 4}
+2024/10/16_22:07:16.016366 tick77		capital: -34346.79
+2024/10/16_22:07:16.016366 tick77	buy 1 tsla
+2024/10/16_22:07:16.016366 tick77		portfolio: {'aapl': 17, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 19, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick77		capital: -34535.08
+2024/10/16_22:07:16.016366 tick78	buy 1 aapl
+2024/10/16_22:07:16.016366 tick78		portfolio: {'aapl': 18, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 19, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick78		capital: -34721.93
+2024/10/16_22:07:16.016366 tick78	buy 1 nflx
+2024/10/16_22:07:16.016366 tick78		portfolio: {'aapl': 18, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 19, 'msft': 16, 'nflx': 20, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick78		capital: -35287.57
+2024/10/16_22:07:16.016366 tick79	buy 1 meta
+2024/10/16_22:07:16.016366 tick79		portfolio: {'aapl': 18, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 20, 'msft': 16, 'nflx': 20, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick79		capital: -35747.98
+2024/10/16_22:07:16.016366 tick79	buy 1 msft
+2024/10/16_22:07:16.016366 tick79		portfolio: {'aapl': 18, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 20, 'msft': 17, 'nflx': 20, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick79		capital: -36154.63
+2024/10/16_22:07:16.016366 tick79	buy 1 nflx
+2024/10/16_22:07:16.016366 tick79		portfolio: {'aapl': 18, 'amzn': 16, 'csco': 2, 'dis': 9, 'meta': 20, 'msft': 17, 'nflx': 21, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick79		capital: -36717.69
+2024/10/16_22:07:16.016366 tick80	buy 1 amzn
+2024/10/16_22:07:16.016366 tick80		portfolio: {'aapl': 18, 'amzn': 17, 'csco': 2, 'dis': 9, 'meta': 20, 'msft': 17, 'nflx': 21, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick80		capital: -36889.0
+2024/10/16_22:07:16.016366 tick80	buy 1 meta
+2024/10/16_22:07:16.016366 tick80		portfolio: {'aapl': 18, 'amzn': 17, 'csco': 2, 'dis': 9, 'meta': 21, 'msft': 17, 'nflx': 21, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick80		capital: -37344.72
+2024/10/16_22:07:16.016366 tick80	buy 1 nflx
+2024/10/16_22:07:16.016366 tick80		portfolio: {'aapl': 18, 'amzn': 17, 'csco': 2, 'dis': 9, 'meta': 21, 'msft': 17, 'nflx': 22, 'nvda': 7, 'tsla': 25, 'uber': 4}
+2024/10/16_22:07:16.016366 tick80		capital: -37901.6
+2024/10/16_22:07:16.016366 tick80	buy 1 tsla
+2024/10/16_22:07:16.016366 tick80		portfolio: {'aapl': 18, 'amzn': 17, 'csco': 2, 'dis': 9, 'meta': 21, 'msft': 17, 'nflx': 22, 'nvda': 7, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.016366 tick80		capital: -38083.66
+2024/10/16_22:07:16.016366 tick81	buy 1 amzn
+2024/10/16_22:07:16.016366 tick81		portfolio: {'aapl': 18, 'amzn': 18, 'csco': 2, 'dis': 9, 'meta': 21, 'msft': 17, 'nflx': 22, 'nvda': 7, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.016366 tick81		capital: -38253.81
+2024/10/16_22:07:16.016366 tick81	buy 1 nvda
+2024/10/16_22:07:16.016366 tick81		portfolio: {'aapl': 18, 'amzn': 18, 'csco': 2, 'dis': 9, 'meta': 21, 'msft': 17, 'nflx': 22, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.016366 tick81		capital: -38323.03
+2024/10/16_22:07:16.016366 tick82	buy 1 aapl
+2024/10/16_22:07:16.016366 tick82		portfolio: {'aapl': 19, 'amzn': 18, 'csco': 2, 'dis': 9, 'meta': 21, 'msft': 17, 'nflx': 22, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.016366 tick82		capital: -38512.35
+2024/10/16_22:07:16.017367 tick83	buy 1 dis
+2024/10/16_22:07:16.017367 tick83		portfolio: {'aapl': 19, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 21, 'msft': 17, 'nflx': 22, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.017367 tick83		capital: -38621.74
+2024/10/16_22:07:16.017367 tick83	buy 1 meta
+2024/10/16_22:07:16.017367 tick83		portfolio: {'aapl': 19, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 17, 'nflx': 22, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.017367 tick83		capital: -39090.85
+2024/10/16_22:07:16.017367 tick84	buy 1 aapl
+2024/10/16_22:07:16.017367 tick84		portfolio: {'aapl': 20, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 17, 'nflx': 22, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.017367 tick84		capital: -39279.0
+2024/10/16_22:07:16.017367 tick84	buy 1 msft
+2024/10/16_22:07:16.017367 tick84		portfolio: {'aapl': 20, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 18, 'nflx': 22, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.017367 tick84		capital: -39695.26
+2024/10/16_22:07:16.017367 tick84	buy 1 nflx
+2024/10/16_22:07:16.017367 tick84		portfolio: {'aapl': 20, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 18, 'nflx': 23, 'nvda': 8, 'tsla': 26, 'uber': 4}
+2024/10/16_22:07:16.017367 tick84		capital: -40254.11
+2024/10/16_22:07:16.017367 tick84	buy 1 uber
+2024/10/16_22:07:16.017367 tick84		portfolio: {'aapl': 20, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 18, 'nflx': 23, 'nvda': 8, 'tsla': 26, 'uber': 5}
+2024/10/16_22:07:16.017367 tick84		capital: -40324.23
+2024/10/16_22:07:16.017367 tick85	buy 1 aapl
+2024/10/16_22:07:16.017367 tick85		portfolio: {'aapl': 21, 'amzn': 18, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 18, 'nflx': 23, 'nvda': 8, 'tsla': 26, 'uber': 5}
+2024/10/16_22:07:16.017367 tick85		capital: -40510.27
+2024/10/16_22:07:16.017367 tick85	buy 1 amzn
+2024/10/16_22:07:16.017367 tick85		portfolio: {'aapl': 21, 'amzn': 19, 'csco': 2, 'dis': 10, 'meta': 22, 'msft': 18, 'nflx': 23, 'nvda': 8, 'tsla': 26, 'uber': 5}
+2024/10/16_22:07:16.017367 tick85		capital: -40683.61
+2024/10/16_22:07:16.017367 tick85	buy 1 meta
+2024/10/16_22:07:16.017367 tick85		portfolio: {'aapl': 21, 'amzn': 19, 'csco': 2, 'dis': 10, 'meta': 23, 'msft': 18, 'nflx': 23, 'nvda': 8, 'tsla': 26, 'uber': 5}
+2024/10/16_22:07:16.017367 tick85		capital: -41144.73
+2024/10/16_22:07:16.017367 tick85	buy 1 msft
+2024/10/16_22:07:16.017367 tick85		portfolio: {'aapl': 21, 'amzn': 19, 'csco': 2, 'dis': 10, 'meta': 23, 'msft': 19, 'nflx': 23, 'nvda': 8, 'tsla': 26, 'uber': 5}
+2024/10/16_22:07:16.017367 tick85		capital: -41552.05
+2024/10/16_22:07:16.017367 tick85	buy 1 nflx
+2024/10/16_22:07:16.017367 tick85		portfolio: {'aapl': 21, 'amzn': 19, 'csco': 2, 'dis': 10, 'meta': 23, 'msft': 19, 'nflx': 24, 'nvda': 8, 'tsla': 26, 'uber': 5}
+2024/10/16_22:07:16.017367 tick85		capital: -42107.57
+2024/10/16_22:07:16.017367 tick85	buy 1 tsla
+2024/10/16_22:07:16.017367 tick85		portfolio: {'aapl': 21, 'amzn': 19, 'csco': 2, 'dis': 10, 'meta': 23, 'msft': 19, 'nflx': 24, 'nvda': 8, 'tsla': 27, 'uber': 5}
+2024/10/16_22:07:16.017367 tick85		capital: -42296.7
+2024/10/16_22:07:16.017367 tick86	buy 1 amzn
+2024/10/16_22:07:16.017367 tick86		portfolio: {'aapl': 21, 'amzn': 20, 'csco': 2, 'dis': 10, 'meta': 23, 'msft': 19, 'nflx': 24, 'nvda': 8, 'tsla': 27, 'uber': 5}
+2024/10/16_22:07:16.017367 tick86		capital: -42466.34
+2024/10/16_22:07:16.017367 tick86	buy 1 tsla
+2024/10/16_22:07:16.017367 tick86		portfolio: {'aapl': 21, 'amzn': 20, 'csco': 2, 'dis': 10, 'meta': 23, 'msft': 19, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick86		capital: -42651.36
+2024/10/16_22:07:16.017367 tick87	buy 1 csco
+2024/10/16_22:07:16.017367 tick87		portfolio: {'aapl': 21, 'amzn': 20, 'csco': 3, 'dis': 10, 'meta': 23, 'msft': 19, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick87		capital: -42701.42
+2024/10/16_22:07:16.017367 tick87	buy 1 msft
+2024/10/16_22:07:16.017367 tick87		portfolio: {'aapl': 21, 'amzn': 20, 'csco': 3, 'dis': 10, 'meta': 23, 'msft': 20, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick87		capital: -43108.98
+2024/10/16_22:07:16.017367 tick88	buy 1 aapl
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 20, 'csco': 3, 'dis': 10, 'meta': 23, 'msft': 20, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick88		capital: -43292.29
+2024/10/16_22:07:16.017367 tick88	buy 1 amzn
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 10, 'meta': 23, 'msft': 20, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick88		capital: -43463.09
+2024/10/16_22:07:16.017367 tick88	buy 1 meta
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 10, 'meta': 24, 'msft': 20, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick88		capital: -43937.41
+2024/10/16_22:07:16.017367 tick88	buy 1 msft
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 10, 'meta': 24, 'msft': 21, 'nflx': 24, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick88		capital: -44342.47
+2024/10/16_22:07:16.017367 tick88	buy 1 nflx
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 10, 'meta': 24, 'msft': 21, 'nflx': 25, 'nvda': 8, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick88		capital: -44927.42
+2024/10/16_22:07:16.017367 tick88	buy 1 nvda
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 10, 'meta': 24, 'msft': 21, 'nflx': 25, 'nvda': 9, 'tsla': 28, 'uber': 5}
+2024/10/16_22:07:16.017367 tick88		capital: -45001.08
+2024/10/16_22:07:16.017367 tick88	buy 1 uber
+2024/10/16_22:07:16.017367 tick88		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 10, 'meta': 24, 'msft': 21, 'nflx': 25, 'nvda': 9, 'tsla': 28, 'uber': 6}
+2024/10/16_22:07:16.017367 tick88		capital: -45080.49
+2024/10/16_22:07:16.017367 tick89	buy 1 dis
+2024/10/16_22:07:16.017367 tick89		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 11, 'meta': 24, 'msft': 21, 'nflx': 25, 'nvda': 9, 'tsla': 28, 'uber': 6}
+2024/10/16_22:07:16.017367 tick89		capital: -45190.93
+2024/10/16_22:07:16.017367 tick89	buy 1 meta
+2024/10/16_22:07:16.017367 tick89		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 11, 'meta': 25, 'msft': 21, 'nflx': 25, 'nvda': 9, 'tsla': 28, 'uber': 6}
+2024/10/16_22:07:16.017367 tick89		capital: -45663.68
+2024/10/16_22:07:16.017367 tick89	buy 1 msft
+2024/10/16_22:07:16.017367 tick89		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 11, 'meta': 25, 'msft': 22, 'nflx': 25, 'nvda': 9, 'tsla': 28, 'uber': 6}
+2024/10/16_22:07:16.017367 tick89		capital: -46067.47
+2024/10/16_22:07:16.017367 tick89	buy 1 nflx
+2024/10/16_22:07:16.017367 tick89		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 11, 'meta': 25, 'msft': 22, 'nflx': 26, 'nvda': 9, 'tsla': 28, 'uber': 6}
+2024/10/16_22:07:16.017367 tick89		capital: -46643.6
+2024/10/16_22:07:16.017367 tick89	buy 1 uber
+2024/10/16_22:07:16.017367 tick89		portfolio: {'aapl': 22, 'amzn': 21, 'csco': 3, 'dis': 11, 'meta': 25, 'msft': 22, 'nflx': 26, 'nvda': 9, 'tsla': 28, 'uber': 7}
+2024/10/16_22:07:16.017367 tick89		capital: -46721.2
+2024/10/16_22:07:16.017367 tick90	buy 1 amzn
+2024/10/16_22:07:16.017367 tick90		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 11, 'meta': 25, 'msft': 22, 'nflx': 26, 'nvda': 9, 'tsla': 28, 'uber': 7}
+2024/10/16_22:07:16.017367 tick90		capital: -46889.28
+2024/10/16_22:07:16.017367 tick90	buy 1 dis
+2024/10/16_22:07:16.017367 tick90		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 25, 'msft': 22, 'nflx': 26, 'nvda': 9, 'tsla': 28, 'uber': 7}
+2024/10/16_22:07:16.017367 tick90		capital: -46997.95
+2024/10/16_22:07:16.017367 tick90	buy 1 meta
+2024/10/16_22:07:16.017367 tick90		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 26, 'msft': 22, 'nflx': 26, 'nvda': 9, 'tsla': 28, 'uber': 7}
+2024/10/16_22:07:16.017367 tick90		capital: -47466.98
+2024/10/16_22:07:16.017367 tick90	buy 1 nflx
+2024/10/16_22:07:16.017367 tick90		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 26, 'msft': 22, 'nflx': 27, 'nvda': 9, 'tsla': 28, 'uber': 7}
+2024/10/16_22:07:16.017367 tick90		capital: -48041.33
+2024/10/16_22:07:16.017367 tick90	buy 1 nvda
+2024/10/16_22:07:16.017367 tick90		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 26, 'msft': 22, 'nflx': 27, 'nvda': 10, 'tsla': 28, 'uber': 7}
+2024/10/16_22:07:16.017367 tick90		capital: -48111.78
+2024/10/16_22:07:16.017367 tick90	buy 1 tsla
+2024/10/16_22:07:16.017367 tick90		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 26, 'msft': 22, 'nflx': 27, 'nvda': 10, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick90		capital: -48306.54
+2024/10/16_22:07:16.017367 tick91	buy 1 nvda
+2024/10/16_22:07:16.017367 tick91		portfolio: {'aapl': 22, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 26, 'msft': 22, 'nflx': 27, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick91		capital: -48375.01
+2024/10/16_22:07:16.017367 tick92	buy 1 aapl
+2024/10/16_22:07:16.017367 tick92		portfolio: {'aapl': 23, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 26, 'msft': 22, 'nflx': 27, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick92		capital: -48558.53
+2024/10/16_22:07:16.017367 tick92	buy 1 meta
+2024/10/16_22:07:16.017367 tick92		portfolio: {'aapl': 23, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 27, 'msft': 22, 'nflx': 27, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick92		capital: -49043.56
+2024/10/16_22:07:16.017367 tick92	buy 1 msft
+2024/10/16_22:07:16.017367 tick92		portfolio: {'aapl': 23, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 27, 'msft': 23, 'nflx': 27, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick92		capital: -49454.9
+2024/10/16_22:07:16.017367 tick92	buy 1 nflx
+2024/10/16_22:07:16.017367 tick92		portfolio: {'aapl': 23, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 27, 'msft': 23, 'nflx': 28, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick92		capital: -50039.46
+2024/10/16_22:07:16.017367 tick93	buy 1 aapl
+2024/10/16_22:07:16.017367 tick93		portfolio: {'aapl': 24, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 27, 'msft': 23, 'nflx': 28, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick93		capital: -50221.62
+2024/10/16_22:07:16.017367 tick93	buy 1 meta
+2024/10/16_22:07:16.017367 tick93		portfolio: {'aapl': 24, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 28, 'msft': 23, 'nflx': 28, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick93		capital: -50704.36
+2024/10/16_22:07:16.017367 tick93	buy 1 msft
+2024/10/16_22:07:16.017367 tick93		portfolio: {'aapl': 24, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 28, 'msft': 24, 'nflx': 28, 'nvda': 11, 'tsla': 29, 'uber': 7}
+2024/10/16_22:07:16.017367 tick93		capital: -51112.9
+2024/10/16_22:07:16.017367 tick93	buy 1 tsla
+2024/10/16_22:07:16.017367 tick93		portfolio: {'aapl': 24, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 28, 'msft': 24, 'nflx': 28, 'nvda': 11, 'tsla': 30, 'uber': 7}
+2024/10/16_22:07:16.017367 tick93		capital: -51305.87
+2024/10/16_22:07:16.017367 tick95	buy 1 aapl
+2024/10/16_22:07:16.017367 tick95		portfolio: {'aapl': 25, 'amzn': 22, 'csco': 3, 'dis': 12, 'meta': 28, 'msft': 24, 'nflx': 28, 'nvda': 11, 'tsla': 30, 'uber': 7}
+2024/10/16_22:07:16.017367 tick95		capital: -51488.29
+2024/10/16_22:07:16.017367 tick95	buy 1 amzn
+2024/10/16_22:07:16.017367 tick95		portfolio: {'aapl': 25, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 28, 'msft': 24, 'nflx': 28, 'nvda': 11, 'tsla': 30, 'uber': 7}
+2024/10/16_22:07:16.017367 tick95		capital: -51662.83
+2024/10/16_22:07:16.017367 tick95	buy 1 meta
+2024/10/16_22:07:16.017367 tick95		portfolio: {'aapl': 25, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 29, 'msft': 24, 'nflx': 28, 'nvda': 11, 'tsla': 30, 'uber': 7}
+2024/10/16_22:07:16.017367 tick95		capital: -52147.85
+2024/10/16_22:07:16.017367 tick95	buy 1 nflx
+2024/10/16_22:07:16.017367 tick95		portfolio: {'aapl': 25, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 29, 'msft': 24, 'nflx': 29, 'nvda': 11, 'tsla': 30, 'uber': 7}
+2024/10/16_22:07:16.018366 tick95		capital: -52745.33
+2024/10/16_22:07:16.018366 tick95	buy 1 uber
+2024/10/16_22:07:16.018366 tick95		portfolio: {'aapl': 25, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 29, 'msft': 24, 'nflx': 29, 'nvda': 11, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick95		capital: -52824.06
+2024/10/16_22:07:16.018366 tick96	buy 1 nvda
+2024/10/16_22:07:16.018366 tick96		portfolio: {'aapl': 25, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 29, 'msft': 24, 'nflx': 29, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick96		capital: -52902.72
+2024/10/16_22:07:16.018366 tick97	buy 1 aapl
+2024/10/16_22:07:16.018366 tick97		portfolio: {'aapl': 26, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 29, 'msft': 24, 'nflx': 29, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick97		capital: -53083.38
+2024/10/16_22:07:16.018366 tick98	buy 1 aapl
+2024/10/16_22:07:16.018366 tick98		portfolio: {'aapl': 27, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 29, 'msft': 24, 'nflx': 29, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick98		capital: -53259.48
+2024/10/16_22:07:16.018366 tick98	buy 1 meta
+2024/10/16_22:07:16.018366 tick98		portfolio: {'aapl': 27, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 30, 'msft': 24, 'nflx': 29, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick98		capital: -53758.67
+2024/10/16_22:07:16.018366 tick98	buy 1 nflx
+2024/10/16_22:07:16.018366 tick98		portfolio: {'aapl': 27, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 30, 'msft': 24, 'nflx': 30, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick98		capital: -54375.5
+2024/10/16_22:07:16.018366 tick99	buy 1 aapl
+2024/10/16_22:07:16.018366 tick99		portfolio: {'aapl': 28, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 30, 'msft': 24, 'nflx': 30, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick99		capital: -54546.62
+2024/10/16_22:07:16.018366 tick99	buy 1 meta
+2024/10/16_22:07:16.018366 tick99		portfolio: {'aapl': 28, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 31, 'msft': 24, 'nflx': 30, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick99		capital: -55037.84
+2024/10/16_22:07:16.018366 tick99	buy 1 msft
+2024/10/16_22:07:16.018366 tick99		portfolio: {'aapl': 28, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 31, 'msft': 25, 'nflx': 30, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick99		capital: -55441.49
+2024/10/16_22:07:16.018366 tick99	buy 1 nflx
+2024/10/16_22:07:16.018366 tick99		portfolio: {'aapl': 28, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 12, 'tsla': 30, 'uber': 8}
+2024/10/16_22:07:16.018366 tick99		capital: -56040.99
+2024/10/16_22:07:16.018366 tick99	buy 1 tsla
+2024/10/16_22:07:16.018366 tick99		portfolio: {'aapl': 28, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 12, 'tsla': 31, 'uber': 8}
+2024/10/16_22:07:16.018366 tick99		capital: -56230.13
+2024/10/16_22:07:16.018366 tick99	buy 1 uber
+2024/10/16_22:07:16.018366 tick99		portfolio: {'aapl': 28, 'amzn': 23, 'csco': 3, 'dis': 12, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 12, 'tsla': 31, 'uber': 9}
+2024/10/16_22:07:16.018366 tick99		capital: -56310.22
+2024/10/16_22:07:16.018366 tick100	buy 1 amzn
+2024/10/16_22:07:16.018366 tick100		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 12, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 12, 'tsla': 31, 'uber': 9}
+2024/10/16_22:07:16.018366 tick100		capital: -56485.34
+2024/10/16_22:07:16.018366 tick100	buy 1 dis
+2024/10/16_22:07:16.018366 tick100		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 12, 'tsla': 31, 'uber': 9}
+2024/10/16_22:07:16.018366 tick100		capital: -56596.4
+2024/10/16_22:07:16.018366 tick100	buy 1 tsla
+2024/10/16_22:07:16.018366 tick100		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 12, 'tsla': 32, 'uber': 9}
+2024/10/16_22:07:16.018366 tick100		capital: -56778.14
+2024/10/16_22:07:16.018366 tick101	sell 12 nvda
+2024/10/16_22:07:16.018366 tick101		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 0, 'tsla': 32, 'uber': 9}
+2024/10/16_22:07:16.018366 tick101		capital: -55714.74
+2024/10/16_22:07:16.018366 tick101	buy 1 tsla
+2024/10/16_22:07:16.018366 tick101		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 31, 'msft': 25, 'nflx': 31, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick101		capital: -55892.28
+2024/10/16_22:07:16.018366 tick102	buy 1 meta
+2024/10/16_22:07:16.018366 tick102		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 32, 'msft': 25, 'nflx': 31, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick102		capital: -56399.23
+2024/10/16_22:07:16.018366 tick102	buy 1 msft
+2024/10/16_22:07:16.018366 tick102		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 32, 'msft': 26, 'nflx': 31, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick102		capital: -56806.45
+2024/10/16_22:07:16.018366 tick102	buy 1 nflx
+2024/10/16_22:07:16.018366 tick102		portfolio: {'aapl': 28, 'amzn': 24, 'csco': 3, 'dis': 13, 'meta': 32, 'msft': 26, 'nflx': 32, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick102		capital: -57412.27
+2024/10/16_22:07:16.018366 tick103	buy 1 amzn
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 32, 'msft': 26, 'nflx': 32, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick103		capital: -57588.62
+2024/10/16_22:07:16.018366 tick103	buy 1 meta
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 26, 'nflx': 32, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick103		capital: -58073.21
+2024/10/16_22:07:16.018366 tick103	buy 1 msft
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 32, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick103		capital: -58478.73
+2024/10/16_22:07:16.018366 tick103	buy 1 nflx
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 0, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick103		capital: -59080.66
+2024/10/16_22:07:16.018366 tick103	buy 1 nvda
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 1, 'tsla': 33, 'uber': 9}
+2024/10/16_22:07:16.018366 tick103		capital: -59169.19
+2024/10/16_22:07:16.018366 tick103	buy 1 tsla
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 1, 'tsla': 34, 'uber': 9}
+2024/10/16_22:07:16.018366 tick103		capital: -59345.53
+2024/10/16_22:07:16.018366 tick103	buy 1 uber
+2024/10/16_22:07:16.018366 tick103		portfolio: {'aapl': 28, 'amzn': 25, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 1, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick103		capital: -59424.0
+2024/10/16_22:07:16.018366 tick104	buy 1 amzn
+2024/10/16_22:07:16.018366 tick104		portfolio: {'aapl': 28, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 1, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick104		capital: -59596.96
+2024/10/16_22:07:16.018366 tick104	buy 1 nvda
+2024/10/16_22:07:16.018366 tick104		portfolio: {'aapl': 28, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 2, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick104		capital: -59683.73
+2024/10/16_22:07:16.018366 tick105	buy 1 aapl
+2024/10/16_22:07:16.018366 tick105		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 33, 'msft': 27, 'nflx': 33, 'nvda': 2, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick105		capital: -59855.86
+2024/10/16_22:07:16.018366 tick105	buy 1 meta
+2024/10/16_22:07:16.018366 tick105		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 34, 'msft': 27, 'nflx': 33, 'nvda': 2, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick105		capital: -60352.43
+2024/10/16_22:07:16.018366 tick105	buy 1 nflx
+2024/10/16_22:07:16.018366 tick105		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 34, 'msft': 27, 'nflx': 34, 'nvda': 2, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick105		capital: -60962.88
+2024/10/16_22:07:16.018366 tick106	buy 1 meta
+2024/10/16_22:07:16.018366 tick106		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 35, 'msft': 27, 'nflx': 34, 'nvda': 2, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick106		capital: -61455.71
+2024/10/16_22:07:16.018366 tick106	buy 1 nvda
+2024/10/16_22:07:16.018366 tick106		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 35, 'msft': 27, 'nflx': 34, 'nvda': 3, 'tsla': 34, 'uber': 10}
+2024/10/16_22:07:16.018366 tick106		capital: -61547.6
+2024/10/16_22:07:16.018366 tick106	buy 1 tsla
+2024/10/16_22:07:16.018366 tick106		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 35, 'msft': 27, 'nflx': 34, 'nvda': 3, 'tsla': 35, 'uber': 10}
+2024/10/16_22:07:16.018366 tick106		capital: -61718.08
+2024/10/16_22:07:16.018366 tick107	buy 1 meta
+2024/10/16_22:07:16.018366 tick107		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 27, 'nflx': 34, 'nvda': 3, 'tsla': 35, 'uber': 10}
+2024/10/16_22:07:16.018366 tick107		capital: -62203.18
+2024/10/16_22:07:16.018366 tick107	buy 1 msft
+2024/10/16_22:07:16.018366 tick107		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 34, 'nvda': 3, 'tsla': 35, 'uber': 10}
+2024/10/16_22:07:16.018366 tick107		capital: -62620.6
+2024/10/16_22:07:16.018366 tick107	buy 1 nflx
+2024/10/16_22:07:16.018366 tick107		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 3, 'tsla': 35, 'uber': 10}
+2024/10/16_22:07:16.018366 tick107		capital: -63227.48
+2024/10/16_22:07:16.018366 tick107	buy 1 nvda
+2024/10/16_22:07:16.018366 tick107		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 4, 'tsla': 35, 'uber': 10}
+2024/10/16_22:07:16.018366 tick107		capital: -63316.42
+2024/10/16_22:07:16.018366 tick107	buy 1 tsla
+2024/10/16_22:07:16.018366 tick107		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 4, 'tsla': 36, 'uber': 10}
+2024/10/16_22:07:16.018366 tick107		capital: -63479.92
+2024/10/16_22:07:16.018366 tick107	buy 1 uber
+2024/10/16_22:07:16.018366 tick107		portfolio: {'aapl': 29, 'amzn': 26, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 4, 'tsla': 36, 'uber': 11}
+2024/10/16_22:07:16.018366 tick107		capital: -63556.99
+2024/10/16_22:07:16.018366 tick108	buy 1 amzn
+2024/10/16_22:07:16.018366 tick108		portfolio: {'aapl': 29, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 4, 'tsla': 36, 'uber': 11}
+2024/10/16_22:07:16.018366 tick108		capital: -63732.41
+2024/10/16_22:07:16.018366 tick110	buy 1 tsla
+2024/10/16_22:07:16.018366 tick110		portfolio: {'aapl': 29, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 4, 'tsla': 37, 'uber': 11}
+2024/10/16_22:07:16.018366 tick110		capital: -63904.73
+2024/10/16_22:07:16.018366 tick111	buy 1 aapl
+2024/10/16_22:07:16.019366 tick111		portfolio: {'aapl': 30, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 35, 'nvda': 4, 'tsla': 37, 'uber': 11}
+2024/10/16_22:07:16.019366 tick111		capital: -64077.1
+2024/10/16_22:07:16.019366 tick111	buy 1 nflx
+2024/10/16_22:07:16.019366 tick111		portfolio: {'aapl': 30, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 36, 'nvda': 4, 'tsla': 37, 'uber': 11}
+2024/10/16_22:07:16.019366 tick111		capital: -64700.81
+2024/10/16_22:07:16.019366 tick112	buy 1 tsla
+2024/10/16_22:07:16.019366 tick112		portfolio: {'aapl': 30, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 36, 'nvda': 4, 'tsla': 38, 'uber': 11}
+2024/10/16_22:07:16.019366 tick112		capital: -64874.63
+2024/10/16_22:07:16.019366 tick113	buy 1 aapl
+2024/10/16_22:07:16.019366 tick113		portfolio: {'aapl': 31, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 36, 'msft': 28, 'nflx': 36, 'nvda': 4, 'tsla': 38, 'uber': 11}
+2024/10/16_22:07:16.019366 tick113		capital: -65046.48
+2024/10/16_22:07:16.019366 tick113	buy 1 meta
+2024/10/16_22:07:16.019366 tick113		portfolio: {'aapl': 31, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 37, 'msft': 28, 'nflx': 36, 'nvda': 4, 'tsla': 38, 'uber': 11}
+2024/10/16_22:07:16.019366 tick113		capital: -65550.5
+2024/10/16_22:07:16.019366 tick113	buy 1 msft
+2024/10/16_22:07:16.019366 tick113		portfolio: {'aapl': 31, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 37, 'msft': 29, 'nflx': 36, 'nvda': 4, 'tsla': 38, 'uber': 11}
+2024/10/16_22:07:16.019366 tick113		capital: -65974.36
+2024/10/16_22:07:16.019366 tick113	buy 1 tsla
+2024/10/16_22:07:16.019366 tick113		portfolio: {'aapl': 31, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 37, 'msft': 29, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 11}
+2024/10/16_22:07:16.019366 tick113		capital: -66146.19
+2024/10/16_22:07:16.019366 tick114	buy 1 aapl
+2024/10/16_22:07:16.019366 tick114		portfolio: {'aapl': 32, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 37, 'msft': 29, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 11}
+2024/10/16_22:07:16.019366 tick114		capital: -66316.9
+2024/10/16_22:07:16.019366 tick114	buy 1 meta
+2024/10/16_22:07:16.019366 tick114		portfolio: {'aapl': 32, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 38, 'msft': 29, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 11}
+2024/10/16_22:07:16.019366 tick114		capital: -66813.79
+2024/10/16_22:07:16.019366 tick114	buy 1 msft
+2024/10/16_22:07:16.019366 tick114		portfolio: {'aapl': 32, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 38, 'msft': 30, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 11}
+2024/10/16_22:07:16.019366 tick114		capital: -67236.44
+2024/10/16_22:07:16.019366 tick114	buy 1 uber
+2024/10/16_22:07:16.019366 tick114		portfolio: {'aapl': 32, 'amzn': 27, 'csco': 3, 'dis': 13, 'meta': 38, 'msft': 30, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick114		capital: -67315.35
+2024/10/16_22:07:16.019366 tick115	buy 1 amzn
+2024/10/16_22:07:16.019366 tick115		portfolio: {'aapl': 32, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 38, 'msft': 30, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick115		capital: -67494.65
+2024/10/16_22:07:16.019366 tick115	buy 1 meta
+2024/10/16_22:07:16.019366 tick115		portfolio: {'aapl': 32, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 39, 'msft': 30, 'nflx': 36, 'nvda': 4, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick115		capital: -67989.51
+2024/10/16_22:07:16.019366 tick115	buy 1 nflx
+2024/10/16_22:07:16.019366 tick115		portfolio: {'aapl': 32, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 39, 'msft': 30, 'nflx': 37, 'nvda': 4, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick115		capital: -68604.04
+2024/10/16_22:07:16.019366 tick115	buy 1 nvda
+2024/10/16_22:07:16.019366 tick115		portfolio: {'aapl': 32, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 39, 'msft': 30, 'nflx': 37, 'nvda': 5, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick115		capital: -68697.6
+2024/10/16_22:07:16.019366 tick116	buy 1 aapl
+2024/10/16_22:07:16.019366 tick116		portfolio: {'aapl': 33, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 39, 'msft': 30, 'nflx': 37, 'nvda': 5, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick116		capital: -68870.08
+2024/10/16_22:07:16.019366 tick116	buy 1 meta
+2024/10/16_22:07:16.019366 tick116		portfolio: {'aapl': 33, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 37, 'nvda': 5, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick116		capital: -69356.66
+2024/10/16_22:07:16.019366 tick116	buy 1 nflx
+2024/10/16_22:07:16.019366 tick116		portfolio: {'aapl': 33, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 38, 'nvda': 5, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick116		capital: -69964.99
+2024/10/16_22:07:16.019366 tick116	buy 1 nvda
+2024/10/16_22:07:16.019366 tick116		portfolio: {'aapl': 33, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 38, 'nvda': 6, 'tsla': 39, 'uber': 12}
+2024/10/16_22:07:16.019366 tick116		capital: -70056.24
+2024/10/16_22:07:16.019366 tick116	buy 1 uber
+2024/10/16_22:07:16.019366 tick116		portfolio: {'aapl': 33, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 38, 'nvda': 6, 'tsla': 39, 'uber': 13}
+2024/10/16_22:07:16.019366 tick116		capital: -70134.23
+2024/10/16_22:07:16.019366 tick117	buy 1 aapl
+2024/10/16_22:07:16.019366 tick117		portfolio: {'aapl': 34, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 38, 'nvda': 6, 'tsla': 39, 'uber': 13}
+2024/10/16_22:07:16.019366 tick117		capital: -70305.26
+2024/10/16_22:07:16.019366 tick117	buy 1 tsla
+2024/10/16_22:07:16.019366 tick117		portfolio: {'aapl': 34, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 38, 'nvda': 6, 'tsla': 40, 'uber': 13}
+2024/10/16_22:07:16.019366 tick117		capital: -70482.05
+2024/10/16_22:07:16.019366 tick118	buy 1 aapl
+2024/10/16_22:07:16.019366 tick118		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 30, 'nflx': 38, 'nvda': 6, 'tsla': 40, 'uber': 13}
+2024/10/16_22:07:16.019366 tick118		capital: -70651.89
+2024/10/16_22:07:16.019366 tick118	buy 1 msft
+2024/10/16_22:07:16.019366 tick118		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 13, 'meta': 40, 'msft': 31, 'nflx': 38, 'nvda': 6, 'tsla': 40, 'uber': 13}
+2024/10/16_22:07:16.019366 tick118		capital: -71074.33
+2024/10/16_22:07:16.019366 tick119	buy 1 dis
+2024/10/16_22:07:16.019366 tick119		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 14, 'meta': 40, 'msft': 31, 'nflx': 38, 'nvda': 6, 'tsla': 40, 'uber': 13}
+2024/10/16_22:07:16.019366 tick119		capital: -71194.31
+2024/10/16_22:07:16.019366 tick119	buy 1 tsla
+2024/10/16_22:07:16.019366 tick119		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 14, 'meta': 40, 'msft': 31, 'nflx': 38, 'nvda': 6, 'tsla': 41, 'uber': 13}
+2024/10/16_22:07:16.019366 tick119		capital: -71361.94
+2024/10/16_22:07:16.019366 tick120	buy 1 dis
+2024/10/16_22:07:16.019366 tick120		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 31, 'nflx': 38, 'nvda': 6, 'tsla': 41, 'uber': 13}
+2024/10/16_22:07:16.019366 tick120		capital: -71480.03
+2024/10/16_22:07:16.019366 tick120	buy 1 msft
+2024/10/16_22:07:16.019366 tick120		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 32, 'nflx': 38, 'nvda': 6, 'tsla': 41, 'uber': 13}
+2024/10/16_22:07:16.019366 tick120		capital: -71898.91
+2024/10/16_22:07:16.019366 tick120	buy 1 nflx
+2024/10/16_22:07:16.019366 tick120		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 32, 'nflx': 39, 'nvda': 6, 'tsla': 41, 'uber': 13}
+2024/10/16_22:07:16.019366 tick120		capital: -72517.05
+2024/10/16_22:07:16.019366 tick120	buy 1 uber
+2024/10/16_22:07:16.019366 tick120		portfolio: {'aapl': 35, 'amzn': 28, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 32, 'nflx': 39, 'nvda': 6, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick120		capital: -72592.97
+2024/10/16_22:07:16.019366 tick121	buy 1 amzn
+2024/10/16_22:07:16.019366 tick121		portfolio: {'aapl': 35, 'amzn': 29, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 32, 'nflx': 39, 'nvda': 6, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick121		capital: -72773.97
+2024/10/16_22:07:16.019366 tick121	buy 1 nvda
+2024/10/16_22:07:16.019366 tick121		portfolio: {'aapl': 35, 'amzn': 29, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 32, 'nflx': 39, 'nvda': 7, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick121		capital: -72860.88
+2024/10/16_22:07:16.019366 tick122	buy 1 aapl
+2024/10/16_22:07:16.019366 tick122		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 15, 'meta': 40, 'msft': 32, 'nflx': 39, 'nvda': 7, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick122		capital: -73030.33
+2024/10/16_22:07:16.019366 tick122	buy 1 dis
+2024/10/16_22:07:16.019366 tick122		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 40, 'msft': 32, 'nflx': 39, 'nvda': 7, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick122		capital: -73148.68
+2024/10/16_22:07:16.019366 tick122	buy 1 meta
+2024/10/16_22:07:16.019366 tick122		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 41, 'msft': 32, 'nflx': 39, 'nvda': 7, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick122		capital: -73668.93
+2024/10/16_22:07:16.019366 tick122	buy 1 nflx
+2024/10/16_22:07:16.019366 tick122		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 41, 'msft': 32, 'nflx': 40, 'nvda': 7, 'tsla': 41, 'uber': 14}
+2024/10/16_22:07:16.019366 tick122		capital: -74298.34
+2024/10/16_22:07:16.019366 tick122	buy 1 tsla
+2024/10/16_22:07:16.019366 tick122		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 41, 'msft': 32, 'nflx': 40, 'nvda': 7, 'tsla': 42, 'uber': 14}
+2024/10/16_22:07:16.019366 tick122		capital: -74464.24
+2024/10/16_22:07:16.019366 tick122	buy 1 uber
+2024/10/16_22:07:16.019366 tick122		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 41, 'msft': 32, 'nflx': 40, 'nvda': 7, 'tsla': 42, 'uber': 15}
+2024/10/16_22:07:16.019366 tick122		capital: -74540.27
+2024/10/16_22:07:16.019366 tick123	buy 1 meta
+2024/10/16_22:07:16.019366 tick123		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 42, 'msft': 32, 'nflx': 40, 'nvda': 7, 'tsla': 42, 'uber': 15}
+2024/10/16_22:07:16.019366 tick123		capital: -75058.17
+2024/10/16_22:07:16.019366 tick123	buy 1 nflx
+2024/10/16_22:07:16.019366 tick123		portfolio: {'aapl': 36, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 42, 'msft': 32, 'nflx': 41, 'nvda': 7, 'tsla': 42, 'uber': 15}
+2024/10/16_22:07:16.019366 tick123		capital: -75677.37
+2024/10/16_22:07:16.019366 tick124	buy 1 aapl
+2024/10/16_22:07:16.019366 tick124		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 42, 'msft': 32, 'nflx': 41, 'nvda': 7, 'tsla': 42, 'uber': 15}
+2024/10/16_22:07:16.019366 tick124		capital: -75846.15
+2024/10/16_22:07:16.019366 tick124	buy 1 msft
+2024/10/16_22:07:16.019366 tick124		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 42, 'msft': 33, 'nflx': 41, 'nvda': 7, 'tsla': 42, 'uber': 15}
+2024/10/16_22:07:16.019366 tick124		capital: -76270.41
+2024/10/16_22:07:16.019366 tick124	buy 1 nvda
+2024/10/16_22:07:16.019366 tick124		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 42, 'msft': 33, 'nflx': 41, 'nvda': 8, 'tsla': 42, 'uber': 15}
+2024/10/16_22:07:16.019366 tick124		capital: -76356.76
+2024/10/16_22:07:16.019366 tick125	buy 1 tsla
+2024/10/16_22:07:16.019366 tick125		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 3, 'dis': 16, 'meta': 42, 'msft': 33, 'nflx': 41, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.019366 tick125		capital: -76529.52
+2024/10/16_22:07:16.019366 tick126	buy 1 csco
+2024/10/16_22:07:16.019366 tick126		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 4, 'dis': 16, 'meta': 42, 'msft': 33, 'nflx': 41, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.019366 tick126		capital: -76579.01
+2024/10/16_22:07:16.019366 tick126	buy 1 dis
+2024/10/16_22:07:16.019366 tick126		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 4, 'dis': 17, 'meta': 42, 'msft': 33, 'nflx': 41, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.019366 tick126		capital: -76694.02
+2024/10/16_22:07:16.019366 tick126	buy 1 meta
+2024/10/16_22:07:16.019366 tick126		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 4, 'dis': 17, 'meta': 43, 'msft': 33, 'nflx': 41, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick126		capital: -77206.92
+2024/10/16_22:07:16.020423 tick126	buy 1 msft
+2024/10/16_22:07:16.020423 tick126		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 4, 'dis': 17, 'meta': 43, 'msft': 34, 'nflx': 41, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick126		capital: -77629.82
+2024/10/16_22:07:16.020423 tick126	buy 1 nflx
+2024/10/16_22:07:16.020423 tick126		portfolio: {'aapl': 37, 'amzn': 29, 'csco': 4, 'dis': 17, 'meta': 43, 'msft': 34, 'nflx': 42, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick126		capital: -78253.65
+2024/10/16_22:07:16.020423 tick127	buy 1 aapl
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 29, 'csco': 4, 'dis': 17, 'meta': 43, 'msft': 34, 'nflx': 42, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -78427.34
+2024/10/16_22:07:16.020423 tick127	buy 1 amzn
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 17, 'meta': 43, 'msft': 34, 'nflx': 42, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -78614.47
+2024/10/16_22:07:16.020423 tick127	buy 1 dis
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 43, 'msft': 34, 'nflx': 42, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -78728.42
+2024/10/16_22:07:16.020423 tick127	buy 1 meta
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 34, 'nflx': 42, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -79229.65
+2024/10/16_22:07:16.020423 tick127	buy 1 msft
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 42, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -79644.29
+2024/10/16_22:07:16.020423 tick127	buy 1 nflx
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 8, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -80252.44
+2024/10/16_22:07:16.020423 tick127	buy 1 nvda
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 9, 'tsla': 43, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -80341.63
+2024/10/16_22:07:16.020423 tick127	buy 1 tsla
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 9, 'tsla': 44, 'uber': 15}
+2024/10/16_22:07:16.020423 tick127		capital: -80513.68
+2024/10/16_22:07:16.020423 tick127	buy 1 uber
+2024/10/16_22:07:16.020423 tick127		portfolio: {'aapl': 38, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 9, 'tsla': 44, 'uber': 16}
+2024/10/16_22:07:16.020423 tick127		capital: -80588.08
+2024/10/16_22:07:16.020423 tick128	buy 1 aapl
+2024/10/16_22:07:16.020423 tick128		portfolio: {'aapl': 39, 'amzn': 30, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 9, 'tsla': 44, 'uber': 16}
+2024/10/16_22:07:16.020423 tick128		capital: -80758.46
+2024/10/16_22:07:16.020423 tick128	buy 1 amzn
+2024/10/16_22:07:16.020423 tick128		portfolio: {'aapl': 39, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 9, 'tsla': 44, 'uber': 16}
+2024/10/16_22:07:16.020423 tick128		capital: -80943.08
+2024/10/16_22:07:16.020423 tick128	buy 1 nvda
+2024/10/16_22:07:16.020423 tick128		portfolio: {'aapl': 39, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 10, 'tsla': 44, 'uber': 16}
+2024/10/16_22:07:16.020423 tick128		capital: -81030.08
+2024/10/16_22:07:16.020423 tick128	buy 1 tsla
+2024/10/16_22:07:16.020423 tick128		portfolio: {'aapl': 39, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 10, 'tsla': 45, 'uber': 16}
+2024/10/16_22:07:16.020423 tick128		capital: -81192.56
+2024/10/16_22:07:16.020423 tick129	buy 1 aapl
+2024/10/16_22:07:16.020423 tick129		portfolio: {'aapl': 40, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 44, 'msft': 35, 'nflx': 43, 'nvda': 10, 'tsla': 45, 'uber': 16}
+2024/10/16_22:07:16.020423 tick129		capital: -81361.56
+2024/10/16_22:07:16.020423 tick129	buy 1 meta
+2024/10/16_22:07:16.020423 tick129		portfolio: {'aapl': 40, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 35, 'nflx': 43, 'nvda': 10, 'tsla': 45, 'uber': 16}
+2024/10/16_22:07:16.020423 tick129		capital: -81856.73
+2024/10/16_22:07:16.020423 tick129	buy 1 msft
+2024/10/16_22:07:16.020423 tick129		portfolio: {'aapl': 40, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 36, 'nflx': 43, 'nvda': 10, 'tsla': 45, 'uber': 16}
+2024/10/16_22:07:16.020423 tick129		capital: -82269.57
+2024/10/16_22:07:16.020423 tick129	buy 1 nflx
+2024/10/16_22:07:16.020423 tick129		portfolio: {'aapl': 40, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 36, 'nflx': 44, 'nvda': 10, 'tsla': 45, 'uber': 16}
+2024/10/16_22:07:16.020423 tick129		capital: -82884.26
+2024/10/16_22:07:16.020423 tick129	buy 1 tsla
+2024/10/16_22:07:16.020423 tick129		portfolio: {'aapl': 40, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 36, 'nflx': 44, 'nvda': 10, 'tsla': 46, 'uber': 16}
+2024/10/16_22:07:16.020423 tick129		capital: -83042.37
+2024/10/16_22:07:16.020423 tick129	buy 1 uber
+2024/10/16_22:07:16.020423 tick129		portfolio: {'aapl': 40, 'amzn': 31, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 36, 'nflx': 44, 'nvda': 10, 'tsla': 46, 'uber': 17}
+2024/10/16_22:07:16.020423 tick129		capital: -83115.31
+2024/10/16_22:07:16.020423 tick130	buy 1 amzn
+2024/10/16_22:07:16.020423 tick130		portfolio: {'aapl': 40, 'amzn': 32, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 36, 'nflx': 44, 'nvda': 10, 'tsla': 46, 'uber': 17}
+2024/10/16_22:07:16.020423 tick130		capital: -83297.59
+2024/10/16_22:07:16.020423 tick130	buy 1 msft
+2024/10/16_22:07:16.020423 tick130		portfolio: {'aapl': 40, 'amzn': 32, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 37, 'nflx': 44, 'nvda': 10, 'tsla': 46, 'uber': 17}
+2024/10/16_22:07:16.020423 tick130		capital: -83702.86
+2024/10/16_22:07:16.020423 tick130	buy 1 nflx
+2024/10/16_22:07:16.020423 tick130		portfolio: {'aapl': 40, 'amzn': 32, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 37, 'nflx': 45, 'nvda': 10, 'tsla': 46, 'uber': 17}
+2024/10/16_22:07:16.020423 tick130		capital: -84314.42
+2024/10/16_22:07:16.020423 tick130	buy 1 nvda
+2024/10/16_22:07:16.020423 tick130		portfolio: {'aapl': 40, 'amzn': 32, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 37, 'nflx': 45, 'nvda': 11, 'tsla': 46, 'uber': 17}
+2024/10/16_22:07:16.020423 tick130		capital: -84399.46
+2024/10/16_22:07:16.020423 tick130	buy 1 tsla
+2024/10/16_22:07:16.020423 tick130		portfolio: {'aapl': 40, 'amzn': 32, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 37, 'nflx': 45, 'nvda': 11, 'tsla': 47, 'uber': 17}
+2024/10/16_22:07:16.020423 tick130		capital: -84555.91
+2024/10/16_22:07:16.020423 tick131	buy 1 aapl
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 32, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 37, 'nflx': 45, 'nvda': 11, 'tsla': 47, 'uber': 17}
+2024/10/16_22:07:16.020423 tick131		capital: -84721.91
+2024/10/16_22:07:16.020423 tick131	buy 1 amzn
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 33, 'csco': 4, 'dis': 18, 'meta': 45, 'msft': 37, 'nflx': 45, 'nvda': 11, 'tsla': 47, 'uber': 17}
+2024/10/16_22:07:16.020423 tick131		capital: -84902.13
+2024/10/16_22:07:16.020423 tick131	buy 1 meta
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 33, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 37, 'nflx': 45, 'nvda': 11, 'tsla': 47, 'uber': 17}
+2024/10/16_22:07:16.020423 tick131		capital: -85384.2
+2024/10/16_22:07:16.020423 tick131	buy 1 msft
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 33, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 45, 'nvda': 11, 'tsla': 47, 'uber': 17}
+2024/10/16_22:07:16.020423 tick131		capital: -85784.32
+2024/10/16_22:07:16.020423 tick131	buy 1 nflx
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 33, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 11, 'tsla': 47, 'uber': 17}
+2024/10/16_22:07:16.020423 tick131		capital: -86340.36
+2024/10/16_22:07:16.020423 tick131	buy 1 tsla
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 33, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 11, 'tsla': 48, 'uber': 17}
+2024/10/16_22:07:16.020423 tick131		capital: -86491.29
+2024/10/16_22:07:16.020423 tick131	buy 1 uber
+2024/10/16_22:07:16.020423 tick131		portfolio: {'aapl': 41, 'amzn': 33, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 11, 'tsla': 48, 'uber': 18}
+2024/10/16_22:07:16.020423 tick131		capital: -86561.49
+2024/10/16_22:07:16.020423 tick132	buy 1 amzn
+2024/10/16_22:07:16.020423 tick132		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 11, 'tsla': 48, 'uber': 18}
+2024/10/16_22:07:16.020423 tick132		capital: -86737.12
+2024/10/16_22:07:16.020423 tick132	buy 1 nvda
+2024/10/16_22:07:16.020423 tick132		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 12, 'tsla': 48, 'uber': 18}
+2024/10/16_22:07:16.020423 tick132		capital: -86814.32
+2024/10/16_22:07:16.020423 tick132	buy 1 tsla
+2024/10/16_22:07:16.020423 tick132		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 12, 'tsla': 49, 'uber': 18}
+2024/10/16_22:07:16.020423 tick132		capital: -86962.37
+2024/10/16_22:07:16.020423 tick133	buy 1 tsla
+2024/10/16_22:07:16.020423 tick133		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 46, 'msft': 38, 'nflx': 46, 'nvda': 12, 'tsla': 50, 'uber': 18}
+2024/10/16_22:07:16.020423 tick133		capital: -87105.42
+2024/10/16_22:07:16.020423 tick134	buy 1 meta
+2024/10/16_22:07:16.020423 tick134		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 47, 'msft': 38, 'nflx': 46, 'nvda': 12, 'tsla': 50, 'uber': 18}
+2024/10/16_22:07:16.020423 tick134		capital: -87599.92
+2024/10/16_22:07:16.020423 tick134	buy 1 nflx
+2024/10/16_22:07:16.020423 tick134		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 47, 'msft': 38, 'nflx': 47, 'nvda': 12, 'tsla': 50, 'uber': 18}
+2024/10/16_22:07:16.020423 tick134		capital: -88156.04
+2024/10/16_22:07:16.020423 tick134	buy 1 uber
+2024/10/16_22:07:16.020423 tick134		portfolio: {'aapl': 41, 'amzn': 34, 'csco': 4, 'dis': 18, 'meta': 47, 'msft': 38, 'nflx': 47, 'nvda': 12, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.020423 tick134		capital: -88226.4
+2024/10/16_22:07:16.020423 tick135	buy 1 amzn
+2024/10/16_22:07:16.020423 tick135		portfolio: {'aapl': 41, 'amzn': 35, 'csco': 4, 'dis': 18, 'meta': 47, 'msft': 38, 'nflx': 47, 'nvda': 12, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.020423 tick135		capital: -88403.99
+2024/10/16_22:07:16.020423 tick135	buy 1 dis
+2024/10/16_22:07:16.020423 tick135		portfolio: {'aapl': 41, 'amzn': 35, 'csco': 4, 'dis': 19, 'meta': 47, 'msft': 38, 'nflx': 47, 'nvda': 12, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.020423 tick135		capital: -88517.76
+2024/10/16_22:07:16.020423 tick135	buy 1 meta
+2024/10/16_22:07:16.020423 tick135		portfolio: {'aapl': 41, 'amzn': 35, 'csco': 4, 'dis': 19, 'meta': 48, 'msft': 38, 'nflx': 47, 'nvda': 12, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.020423 tick135		capital: -88960.14
+2024/10/16_22:07:16.020423 tick135	buy 1 msft
+2024/10/16_22:07:16.020423 tick135		portfolio: {'aapl': 41, 'amzn': 35, 'csco': 4, 'dis': 19, 'meta': 48, 'msft': 39, 'nflx': 47, 'nvda': 12, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.020423 tick135		capital: -89360.18
+2024/10/16_22:07:16.020423 tick135	buy 1 nvda
+2024/10/16_22:07:16.020423 tick135		portfolio: {'aapl': 41, 'amzn': 35, 'csco': 4, 'dis': 19, 'meta': 48, 'msft': 39, 'nflx': 47, 'nvda': 13, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.020423 tick135		capital: -89440.86
+2024/10/16_22:07:16.021426 tick136	buy 1 amzn
+2024/10/16_22:07:16.021426 tick136		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 48, 'msft': 39, 'nflx': 47, 'nvda': 13, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.021426 tick136		capital: -89615.53
+2024/10/16_22:07:16.021426 tick136	buy 1 nflx
+2024/10/16_22:07:16.021426 tick136		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 48, 'msft': 39, 'nflx': 48, 'nvda': 13, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.021426 tick136		capital: -90177.76
+2024/10/16_22:07:16.021426 tick137	buy 1 meta
+2024/10/16_22:07:16.021426 tick137		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 49, 'msft': 39, 'nflx': 48, 'nvda': 13, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.021426 tick137		capital: -90611.38
+2024/10/16_22:07:16.021426 tick137	buy 1 msft
+2024/10/16_22:07:16.021426 tick137		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 49, 'msft': 40, 'nflx': 48, 'nvda': 13, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.021426 tick137		capital: -91014.63
+2024/10/16_22:07:16.021426 tick137	buy 1 nflx
+2024/10/16_22:07:16.021426 tick137		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 49, 'msft': 40, 'nflx': 49, 'nvda': 13, 'tsla': 50, 'uber': 19}
+2024/10/16_22:07:16.021426 tick137		capital: -91575.12
+2024/10/16_22:07:16.021426 tick137	buy 1 tsla
+2024/10/16_22:07:16.021426 tick137		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 49, 'msft': 40, 'nflx': 49, 'nvda': 13, 'tsla': 51, 'uber': 19}
+2024/10/16_22:07:16.021426 tick137		capital: -91744.41
+2024/10/16_22:07:16.021426 tick137	buy 1 uber
+2024/10/16_22:07:16.021426 tick137		portfolio: {'aapl': 41, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 49, 'msft': 40, 'nflx': 49, 'nvda': 13, 'tsla': 51, 'uber': 20}
+2024/10/16_22:07:16.021426 tick137		capital: -91812.81
+2024/10/16_22:07:16.021426 tick138	buy 1 aapl
+2024/10/16_22:07:16.021426 tick138		portfolio: {'aapl': 42, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 49, 'msft': 40, 'nflx': 49, 'nvda': 13, 'tsla': 51, 'uber': 20}
+2024/10/16_22:07:16.021426 tick138		capital: -91984.14
+2024/10/16_22:07:16.021426 tick138	buy 1 meta
+2024/10/16_22:07:16.021426 tick138		portfolio: {'aapl': 42, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 40, 'nflx': 49, 'nvda': 13, 'tsla': 51, 'uber': 20}
+2024/10/16_22:07:16.021426 tick138		capital: -92415.31
+2024/10/16_22:07:16.021426 tick138	buy 1 msft
+2024/10/16_22:07:16.021426 tick138		portfolio: {'aapl': 42, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 49, 'nvda': 13, 'tsla': 51, 'uber': 20}
+2024/10/16_22:07:16.021426 tick138		capital: -92805.64
+2024/10/16_22:07:16.021426 tick138	buy 1 nflx
+2024/10/16_22:07:16.021426 tick138		portfolio: {'aapl': 42, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 13, 'tsla': 51, 'uber': 20}
+2024/10/16_22:07:16.021426 tick138		capital: -93357.28
+2024/10/16_22:07:16.021426 tick138	buy 1 uber
+2024/10/16_22:07:16.021426 tick138		portfolio: {'aapl': 42, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 13, 'tsla': 51, 'uber': 21}
+2024/10/16_22:07:16.021426 tick138		capital: -93424.55
+2024/10/16_22:07:16.021426 tick139	buy 1 aapl
+2024/10/16_22:07:16.021426 tick139		portfolio: {'aapl': 43, 'amzn': 36, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 13, 'tsla': 51, 'uber': 21}
+2024/10/16_22:07:16.021426 tick139		capital: -93594.85
+2024/10/16_22:07:16.021426 tick139	buy 1 amzn
+2024/10/16_22:07:16.021426 tick139		portfolio: {'aapl': 43, 'amzn': 37, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 13, 'tsla': 51, 'uber': 21}
+2024/10/16_22:07:16.021426 tick139		capital: -93770.85
+2024/10/16_22:07:16.021426 tick139	buy 1 nvda
+2024/10/16_22:07:16.021426 tick139		portfolio: {'aapl': 43, 'amzn': 37, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 14, 'tsla': 51, 'uber': 21}
+2024/10/16_22:07:16.021426 tick139		capital: -93858.25
+2024/10/16_22:07:16.021426 tick139	buy 1 tsla
+2024/10/16_22:07:16.021426 tick139		portfolio: {'aapl': 43, 'amzn': 37, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 14, 'tsla': 52, 'uber': 21}
+2024/10/16_22:07:16.021426 tick139		capital: -94042.53
+2024/10/16_22:07:16.021426 tick140	buy 1 nvda
+2024/10/16_22:07:16.021426 tick140		portfolio: {'aapl': 43, 'amzn': 37, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 15, 'tsla': 52, 'uber': 21}
+2024/10/16_22:07:16.021426 tick140		capital: -94126.57
+2024/10/16_22:07:16.021426 tick140	buy 1 tsla
+2024/10/16_22:07:16.021426 tick140		portfolio: {'aapl': 43, 'amzn': 37, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 15, 'tsla': 53, 'uber': 21}
+2024/10/16_22:07:16.021426 tick140		capital: -94307.56
+2024/10/16_22:07:16.021426 tick142	buy 1 aapl
+2024/10/16_22:07:16.021426 tick142		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 19, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 15, 'tsla': 53, 'uber': 21}
+2024/10/16_22:07:16.021426 tick142		capital: -94490.27
+2024/10/16_22:07:16.021426 tick143	buy 1 dis
+2024/10/16_22:07:16.021426 tick143		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 41, 'nflx': 50, 'nvda': 15, 'tsla': 53, 'uber': 21}
+2024/10/16_22:07:16.021426 tick143		capital: -94596.66
+2024/10/16_22:07:16.021426 tick143	buy 1 msft
+2024/10/16_22:07:16.021426 tick143		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 15, 'tsla': 53, 'uber': 21}
+2024/10/16_22:07:16.021426 tick143		capital: -95007.0
+2024/10/16_22:07:16.021426 tick143	buy 1 uber
+2024/10/16_22:07:16.021426 tick143		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 15, 'tsla': 53, 'uber': 22}
+2024/10/16_22:07:16.021426 tick143		capital: -95078.43
+2024/10/16_22:07:16.021426 tick144	buy 1 nvda
+2024/10/16_22:07:16.021426 tick144		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 16, 'tsla': 53, 'uber': 22}
+2024/10/16_22:07:16.021426 tick144		capital: -95169.98
+2024/10/16_22:07:16.021426 tick144	buy 1 tsla
+2024/10/16_22:07:16.021426 tick144		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 16, 'tsla': 54, 'uber': 22}
+2024/10/16_22:07:16.021426 tick144		capital: -95348.79
+2024/10/16_22:07:16.021426 tick144	buy 1 uber
+2024/10/16_22:07:16.021426 tick144		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 16, 'tsla': 54, 'uber': 23}
+2024/10/16_22:07:16.021426 tick144		capital: -95416.19
+2024/10/16_22:07:16.021426 tick145	buy 1 tsla
+2024/10/16_22:07:16.021426 tick145		portfolio: {'aapl': 44, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 16, 'tsla': 55, 'uber': 23}
+2024/10/16_22:07:16.021426 tick145		capital: -95591.91
+2024/10/16_22:07:16.021426 tick146	buy 1 aapl
+2024/10/16_22:07:16.021426 tick146		portfolio: {'aapl': 45, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 50, 'nvda': 16, 'tsla': 55, 'uber': 23}
+2024/10/16_22:07:16.021426 tick146		capital: -95775.96
+2024/10/16_22:07:16.021426 tick146	buy 1 nflx
+2024/10/16_22:07:16.021426 tick146		portfolio: {'aapl': 45, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 51, 'nvda': 16, 'tsla': 55, 'uber': 23}
+2024/10/16_22:07:16.021426 tick146		capital: -96387.83
+2024/10/16_22:07:16.021426 tick146	buy 1 nvda
+2024/10/16_22:07:16.021426 tick146		portfolio: {'aapl': 45, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 51, 'nvda': 17, 'tsla': 55, 'uber': 23}
+2024/10/16_22:07:16.021426 tick146		capital: -96477.58
+2024/10/16_22:07:16.021426 tick146	buy 1 tsla
+2024/10/16_22:07:16.021426 tick146		portfolio: {'aapl': 45, 'amzn': 37, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 51, 'nvda': 17, 'tsla': 56, 'uber': 23}
+2024/10/16_22:07:16.021426 tick146		capital: -96650.55
+2024/10/16_22:07:16.021426 tick147	buy 1 amzn
+2024/10/16_22:07:16.021426 tick147		portfolio: {'aapl': 45, 'amzn': 38, 'csco': 4, 'dis': 20, 'meta': 50, 'msft': 42, 'nflx': 51, 'nvda': 17, 'tsla': 56, 'uber': 23}
+2024/10/16_22:07:16.021426 tick147		capital: -96839.03
+2024/10/16_22:07:16.021426 tick147	buy 1 meta
+2024/10/16_22:07:16.021426 tick147		portfolio: {'aapl': 45, 'amzn': 38, 'csco': 4, 'dis': 20, 'meta': 51, 'msft': 42, 'nflx': 51, 'nvda': 17, 'tsla': 56, 'uber': 23}
+2024/10/16_22:07:16.021426 tick147		capital: -97308.04
+2024/10/16_22:07:16.021426 tick147	buy 1 msft
+2024/10/16_22:07:16.021426 tick147		portfolio: {'aapl': 45, 'amzn': 38, 'csco': 4, 'dis': 20, 'meta': 51, 'msft': 43, 'nflx': 51, 'nvda': 17, 'tsla': 56, 'uber': 23}
+2024/10/16_22:07:16.021426 tick147		capital: -97722.76
+2024/10/16_22:07:16.021426 tick147	buy 1 tsla
+2024/10/16_22:07:16.021426 tick147		portfolio: {'aapl': 45, 'amzn': 38, 'csco': 4, 'dis': 20, 'meta': 51, 'msft': 43, 'nflx': 51, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.021426 tick147		capital: -97892.23
+2024/10/16_22:07:16.022426 tick148	buy 1 nflx
+2024/10/16_22:07:16.022426 tick148		portfolio: {'aapl': 45, 'amzn': 38, 'csco': 4, 'dis': 20, 'meta': 51, 'msft': 43, 'nflx': 52, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick148		capital: -98506.89
+2024/10/16_22:07:16.022426 tick149	buy 1 dis
+2024/10/16_22:07:16.022426 tick149		portfolio: {'aapl': 45, 'amzn': 38, 'csco': 4, 'dis': 21, 'meta': 51, 'msft': 43, 'nflx': 52, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick149		capital: -98610.66
+2024/10/16_22:07:16.022426 tick150	buy 1 amzn
+2024/10/16_22:07:16.022426 tick150		portfolio: {'aapl': 45, 'amzn': 39, 'csco': 4, 'dis': 21, 'meta': 51, 'msft': 43, 'nflx': 52, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick150		capital: -98797.65
+2024/10/16_22:07:16.022426 tick150	buy 1 csco
+2024/10/16_22:07:16.022426 tick150		portfolio: {'aapl': 45, 'amzn': 39, 'csco': 5, 'dis': 21, 'meta': 51, 'msft': 43, 'nflx': 52, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick150		capital: -98846.99
+2024/10/16_22:07:16.022426 tick150	buy 1 meta
+2024/10/16_22:07:16.022426 tick150		portfolio: {'aapl': 45, 'amzn': 39, 'csco': 5, 'dis': 21, 'meta': 52, 'msft': 43, 'nflx': 52, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick150		capital: -99321.22
+2024/10/16_22:07:16.022426 tick150	buy 1 msft
+2024/10/16_22:07:16.022426 tick150		portfolio: {'aapl': 45, 'amzn': 39, 'csco': 5, 'dis': 21, 'meta': 52, 'msft': 44, 'nflx': 52, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick150		capital: -99743.21
+2024/10/16_22:07:16.022426 tick150	buy 1 nflx
+2024/10/16_22:07:16.022426 tick150		portfolio: {'aapl': 45, 'amzn': 39, 'csco': 5, 'dis': 21, 'meta': 52, 'msft': 44, 'nflx': 53, 'nvda': 17, 'tsla': 57, 'uber': 23}
+2024/10/16_22:07:16.022426 tick150		capital: -100354.73
+2024/10/16_22:07:16.022426 tick150	buy 1 tsla
+2024/10/16_22:07:16.022426 tick150		portfolio: {'aapl': 45, 'amzn': 39, 'csco': 5, 'dis': 21, 'meta': 52, 'msft': 44, 'nflx': 53, 'nvda': 17, 'tsla': 58, 'uber': 23}
+2024/10/16_22:07:16.022426 tick150		capital: -100529.72
+2024/10/16_22:07:16.022426 tick151	buy 1 amzn
+2024/10/16_22:07:16.022426 tick151		portfolio: {'aapl': 45, 'amzn': 40, 'csco': 5, 'dis': 21, 'meta': 52, 'msft': 44, 'nflx': 53, 'nvda': 17, 'tsla': 58, 'uber': 23}
+2024/10/16_22:07:16.022426 tick151		capital: -100714.35
+2024/10/16_22:07:16.022426 tick151	buy 1 meta
+2024/10/16_22:07:16.022426 tick151		portfolio: {'aapl': 45, 'amzn': 40, 'csco': 5, 'dis': 21, 'meta': 53, 'msft': 44, 'nflx': 53, 'nvda': 17, 'tsla': 58, 'uber': 23}
+2024/10/16_22:07:16.022426 tick151		capital: -101187.26
+2024/10/16_22:07:16.022426 tick152	buy 1 csco
+2024/10/16_22:07:16.022426 tick152		portfolio: {'aapl': 45, 'amzn': 40, 'csco': 6, 'dis': 21, 'meta': 53, 'msft': 44, 'nflx': 53, 'nvda': 17, 'tsla': 58, 'uber': 23}
+2024/10/16_22:07:16.022426 tick152		capital: -101235.39
+2024/10/16_22:07:16.022426 tick152	buy 1 meta
+2024/10/16_22:07:16.022426 tick152		portfolio: {'aapl': 45, 'amzn': 40, 'csco': 6, 'dis': 21, 'meta': 54, 'msft': 44, 'nflx': 53, 'nvda': 17, 'tsla': 58, 'uber': 23}
+2024/10/16_22:07:16.022426 tick152		capital: -101705.23
+2024/10/16_22:07:16.022426 tick152	buy 1 nvda
+2024/10/16_22:07:16.022426 tick152		portfolio: {'aapl': 45, 'amzn': 40, 'csco': 6, 'dis': 21, 'meta': 54, 'msft': 44, 'nflx': 53, 'nvda': 18, 'tsla': 58, 'uber': 23}
+2024/10/16_22:07:16.022426 tick152		capital: -101798.71
+2024/10/16_22:07:16.022426 tick152	buy 1 uber
+2024/10/16_22:07:16.022426 tick152		portfolio: {'aapl': 45, 'amzn': 40, 'csco': 6, 'dis': 21, 'meta': 54, 'msft': 44, 'nflx': 53, 'nvda': 18, 'tsla': 58, 'uber': 24}
+2024/10/16_22:07:16.022426 tick152		capital: -101864.36
+2024/10/16_22:07:16.022426 tick153	buy 1 amzn
+2024/10/16_22:07:16.022426 tick153		portfolio: {'aapl': 45, 'amzn': 41, 'csco': 6, 'dis': 21, 'meta': 54, 'msft': 44, 'nflx': 53, 'nvda': 18, 'tsla': 58, 'uber': 24}
+2024/10/16_22:07:16.022426 tick153		capital: -102048.9
+2024/10/16_22:07:16.022426 tick153	buy 1 meta
+2024/10/16_22:07:16.022426 tick153		portfolio: {'aapl': 45, 'amzn': 41, 'csco': 6, 'dis': 21, 'meta': 55, 'msft': 44, 'nflx': 53, 'nvda': 18, 'tsla': 58, 'uber': 24}
+2024/10/16_22:07:16.022426 tick153		capital: -102514.53
+2024/10/16_22:07:16.022426 tick153	buy 1 tsla
+2024/10/16_22:07:16.022426 tick153		portfolio: {'aapl': 45, 'amzn': 41, 'csco': 6, 'dis': 21, 'meta': 55, 'msft': 44, 'nflx': 53, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick153		capital: -102690.48
+2024/10/16_22:07:16.022426 tick154	buy 1 aapl
+2024/10/16_22:07:16.022426 tick154		portfolio: {'aapl': 46, 'amzn': 41, 'csco': 6, 'dis': 21, 'meta': 55, 'msft': 44, 'nflx': 53, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick154		capital: -102882.38
+2024/10/16_22:07:16.022426 tick154	buy 1 nflx
+2024/10/16_22:07:16.022426 tick154		portfolio: {'aapl': 46, 'amzn': 41, 'csco': 6, 'dis': 21, 'meta': 55, 'msft': 44, 'nflx': 54, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick154		capital: -103523.85
+2024/10/16_22:07:16.022426 tick155	buy 1 aapl
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 21, 'meta': 55, 'msft': 44, 'nflx': 54, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick155		capital: -103711.73
+2024/10/16_22:07:16.022426 tick155	buy 1 dis
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 22, 'meta': 55, 'msft': 44, 'nflx': 54, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick155		capital: -103813.39
+2024/10/16_22:07:16.022426 tick155	buy 1 meta
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 44, 'nflx': 54, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick155		capital: -104280.17
+2024/10/16_22:07:16.022426 tick155	buy 1 msft
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 45, 'nflx': 54, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick155		capital: -104708.17
+2024/10/16_22:07:16.022426 tick155	buy 1 nflx
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 59, 'uber': 24}
+2024/10/16_22:07:16.022426 tick155		capital: -105344.84
+2024/10/16_22:07:16.022426 tick155	buy 1 tsla
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 60, 'uber': 24}
+2024/10/16_22:07:16.022426 tick155		capital: -105525.95
+2024/10/16_22:07:16.022426 tick155	buy 1 uber
+2024/10/16_22:07:16.022426 tick155		portfolio: {'aapl': 47, 'amzn': 41, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 60, 'uber': 25}
+2024/10/16_22:07:16.022426 tick155		capital: -105590.55
+2024/10/16_22:07:16.022426 tick156	buy 1 amzn
+2024/10/16_22:07:16.022426 tick156		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 60, 'uber': 25}
+2024/10/16_22:07:16.022426 tick156		capital: -105772.6
+2024/10/16_22:07:16.022426 tick156	buy 1 tsla
+2024/10/16_22:07:16.022426 tick156		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 22, 'meta': 56, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 61, 'uber': 25}
+2024/10/16_22:07:16.022426 tick156		capital: -105947.34
+2024/10/16_22:07:16.022426 tick158	buy 1 dis
+2024/10/16_22:07:16.022426 tick158		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 56, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 61, 'uber': 25}
+2024/10/16_22:07:16.022426 tick158		capital: -106049.22
+2024/10/16_22:07:16.022426 tick158	buy 1 meta
+2024/10/16_22:07:16.022426 tick158		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 57, 'msft': 45, 'nflx': 55, 'nvda': 18, 'tsla': 61, 'uber': 25}
+2024/10/16_22:07:16.022426 tick158		capital: -106524.58
+2024/10/16_22:07:16.022426 tick158	buy 1 msft
+2024/10/16_22:07:16.022426 tick158		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 57, 'msft': 46, 'nflx': 55, 'nvda': 18, 'tsla': 61, 'uber': 25}
+2024/10/16_22:07:16.022426 tick158		capital: -106954.75
+2024/10/16_22:07:16.022426 tick158	buy 1 tsla
+2024/10/16_22:07:16.022426 tick158		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 57, 'msft': 46, 'nflx': 55, 'nvda': 18, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick158		capital: -107132.5
+2024/10/16_22:07:16.022426 tick159	buy 1 meta
+2024/10/16_22:07:16.022426 tick159		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 46, 'nflx': 55, 'nvda': 18, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick159		capital: -107600.55
+2024/10/16_22:07:16.022426 tick159	buy 1 msft
+2024/10/16_22:07:16.022426 tick159		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 47, 'nflx': 55, 'nvda': 18, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick159		capital: -108016.22
+2024/10/16_22:07:16.022426 tick159	buy 1 nflx
+2024/10/16_22:07:16.022426 tick159		portfolio: {'aapl': 47, 'amzn': 42, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 47, 'nflx': 56, 'nvda': 18, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick159		capital: -108664.88
+2024/10/16_22:07:16.022426 tick160	buy 1 amzn
+2024/10/16_22:07:16.022426 tick160		portfolio: {'aapl': 47, 'amzn': 43, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 47, 'nflx': 56, 'nvda': 18, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick160		capital: -108845.2
+2024/10/16_22:07:16.022426 tick160	buy 1 nflx
+2024/10/16_22:07:16.022426 tick160		portfolio: {'aapl': 47, 'amzn': 43, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 47, 'nflx': 57, 'nvda': 18, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick160		capital: -109487.82
+2024/10/16_22:07:16.022426 tick160	buy 1 nvda
+2024/10/16_22:07:16.022426 tick160		portfolio: {'aapl': 47, 'amzn': 43, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 47, 'nflx': 57, 'nvda': 19, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick160		capital: -109599.32
+2024/10/16_22:07:16.022426 tick161	buy 1 amzn
+2024/10/16_22:07:16.022426 tick161		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 6, 'dis': 23, 'meta': 58, 'msft': 47, 'nflx': 57, 'nvda': 19, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick161		capital: -109776.76
+2024/10/16_22:07:16.022426 tick161	buy 1 dis
+2024/10/16_22:07:16.022426 tick161		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 6, 'dis': 24, 'meta': 58, 'msft': 47, 'nflx': 57, 'nvda': 19, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick161		capital: -109880.53
+2024/10/16_22:07:16.022426 tick161	buy 1 msft
+2024/10/16_22:07:16.022426 tick161		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 6, 'dis': 24, 'meta': 58, 'msft': 48, 'nflx': 57, 'nvda': 19, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick161		capital: -110295.05
+2024/10/16_22:07:16.022426 tick161	buy 1 nflx
+2024/10/16_22:07:16.022426 tick161		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 6, 'dis': 24, 'meta': 58, 'msft': 48, 'nflx': 58, 'nvda': 19, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick161		capital: -110929.84
+2024/10/16_22:07:16.022426 tick162	buy 1 nflx
+2024/10/16_22:07:16.022426 tick162		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 6, 'dis': 24, 'meta': 58, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 62, 'uber': 25}
+2024/10/16_22:07:16.022426 tick162		capital: -111562.46
+2024/10/16_22:07:16.022426 tick162	buy 1 tsla
+2024/10/16_22:07:16.022426 tick162		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 6, 'dis': 24, 'meta': 58, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 63, 'uber': 25}
+2024/10/16_22:07:16.023426 tick162		capital: -111739.75
+2024/10/16_22:07:16.023426 tick163	buy 1 csco
+2024/10/16_22:07:16.023426 tick163		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 7, 'dis': 24, 'meta': 58, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 63, 'uber': 25}
+2024/10/16_22:07:16.023426 tick163		capital: -111786.77
+2024/10/16_22:07:16.023426 tick163	buy 1 dis
+2024/10/16_22:07:16.023426 tick163		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 58, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 63, 'uber': 25}
+2024/10/16_22:07:16.023426 tick163		capital: -111889.27
+2024/10/16_22:07:16.023426 tick163	buy 1 tsla
+2024/10/16_22:07:16.023426 tick163		portfolio: {'aapl': 47, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 58, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick163		capital: -112065.04
+2024/10/16_22:07:16.023426 tick164	buy 1 aapl
+2024/10/16_22:07:16.023426 tick164		portfolio: {'aapl': 48, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 58, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick164		capital: -112260.52
+2024/10/16_22:07:16.023426 tick164	buy 1 meta
+2024/10/16_22:07:16.023426 tick164		portfolio: {'aapl': 48, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 59, 'msft': 48, 'nflx': 59, 'nvda': 19, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick164		capital: -112755.28
+2024/10/16_22:07:16.023426 tick164	buy 1 nflx
+2024/10/16_22:07:16.023426 tick164		portfolio: {'aapl': 48, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 59, 'msft': 48, 'nflx': 60, 'nvda': 19, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick164		capital: -113404.8
+2024/10/16_22:07:16.023426 tick165	buy 1 nflx
+2024/10/16_22:07:16.023426 tick165		portfolio: {'aapl': 48, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 59, 'msft': 48, 'nflx': 61, 'nvda': 19, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick165		capital: -114047.27
+2024/10/16_22:07:16.023426 tick165	buy 1 nvda
+2024/10/16_22:07:16.023426 tick165		portfolio: {'aapl': 48, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 59, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick165		capital: -114169.27
+2024/10/16_22:07:16.023426 tick166	buy 1 aapl
+2024/10/16_22:07:16.023426 tick166		portfolio: {'aapl': 49, 'amzn': 44, 'csco': 7, 'dis': 25, 'meta': 59, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick166		capital: -114363.39
+2024/10/16_22:07:16.023426 tick167	buy 1 dis
+2024/10/16_22:07:16.023426 tick167		portfolio: {'aapl': 49, 'amzn': 44, 'csco': 7, 'dis': 26, 'meta': 59, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 64, 'uber': 25}
+2024/10/16_22:07:16.023426 tick167		capital: -114465.26
+2024/10/16_22:07:16.023426 tick167	buy 1 tsla
+2024/10/16_22:07:16.023426 tick167		portfolio: {'aapl': 49, 'amzn': 44, 'csco': 7, 'dis': 26, 'meta': 59, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 65, 'uber': 25}
+2024/10/16_22:07:16.023426 tick167		capital: -114640.05
+2024/10/16_22:07:16.023426 tick168	buy 1 tsla
+2024/10/16_22:07:16.023426 tick168		portfolio: {'aapl': 49, 'amzn': 44, 'csco': 7, 'dis': 26, 'meta': 59, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 66, 'uber': 25}
+2024/10/16_22:07:16.023426 tick168		capital: -114811.71
+2024/10/16_22:07:16.023426 tick169	buy 1 meta
+2024/10/16_22:07:16.023426 tick169		portfolio: {'aapl': 49, 'amzn': 44, 'csco': 7, 'dis': 26, 'meta': 60, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 66, 'uber': 25}
+2024/10/16_22:07:16.023426 tick169		capital: -115316.81
+2024/10/16_22:07:16.023426 tick169	buy 1 uber
+2024/10/16_22:07:16.023426 tick169		portfolio: {'aapl': 49, 'amzn': 44, 'csco': 7, 'dis': 26, 'meta': 60, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 66, 'uber': 26}
+2024/10/16_22:07:16.023426 tick169		capital: -115388.67
+2024/10/16_22:07:16.023426 tick170	buy 1 aapl
+2024/10/16_22:07:16.023426 tick170		portfolio: {'aapl': 50, 'amzn': 44, 'csco': 7, 'dis': 26, 'meta': 60, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 66, 'uber': 26}
+2024/10/16_22:07:16.023426 tick170		capital: -115602.16
+2024/10/16_22:07:16.023426 tick170	buy 1 amzn
+2024/10/16_22:07:16.023426 tick170		portfolio: {'aapl': 50, 'amzn': 45, 'csco': 7, 'dis': 26, 'meta': 60, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 66, 'uber': 26}
+2024/10/16_22:07:16.023426 tick170		capital: -115786.99
+2024/10/16_22:07:16.023426 tick171	buy 1 tsla
+2024/10/16_22:07:16.023426 tick171		portfolio: {'aapl': 50, 'amzn': 45, 'csco': 7, 'dis': 26, 'meta': 60, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick171		capital: -115966.0
+2024/10/16_22:07:16.023426 tick172	buy 1 aapl
+2024/10/16_22:07:16.023426 tick172		portfolio: {'aapl': 51, 'amzn': 45, 'csco': 7, 'dis': 26, 'meta': 60, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick172		capital: -116181.29
+2024/10/16_22:07:16.023426 tick172	buy 1 meta
+2024/10/16_22:07:16.023426 tick172		portfolio: {'aapl': 51, 'amzn': 45, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 48, 'nflx': 61, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick172		capital: -116681.78
+2024/10/16_22:07:16.023426 tick172	buy 1 msft
+2024/10/16_22:07:16.023426 tick172		portfolio: {'aapl': 51, 'amzn': 45, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 61, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick172		capital: -117129.12
+2024/10/16_22:07:16.023426 tick173	buy 1 aapl
+2024/10/16_22:07:16.023426 tick173		portfolio: {'aapl': 52, 'amzn': 45, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 61, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick173		capital: -117339.8
+2024/10/16_22:07:16.023426 tick173	buy 1 amzn
+2024/10/16_22:07:16.023426 tick173		portfolio: {'aapl': 52, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 61, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick173		capital: -117523.61
+2024/10/16_22:07:16.023426 tick173	buy 1 nflx
+2024/10/16_22:07:16.023426 tick173		portfolio: {'aapl': 52, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 62, 'nvda': 20, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick173		capital: -118203.64
+2024/10/16_22:07:16.023426 tick173	sell 20 nvda
+2024/10/16_22:07:16.023426 tick173		portfolio: {'aapl': 52, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 62, 'nvda': 0, 'tsla': 67, 'uber': 26}
+2024/10/16_22:07:16.023426 tick173		capital: -115493.04
+2024/10/16_22:07:16.023426 tick173	buy 1 tsla
+2024/10/16_22:07:16.023426 tick173		portfolio: {'aapl': 52, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 62, 'nvda': 0, 'tsla': 68, 'uber': 26}
+2024/10/16_22:07:16.023426 tick173		capital: -115678.9
+2024/10/16_22:07:16.023426 tick174	buy 1 aapl
+2024/10/16_22:07:16.023426 tick174		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 61, 'msft': 49, 'nflx': 62, 'nvda': 0, 'tsla': 68, 'uber': 26}
+2024/10/16_22:07:16.023426 tick174		capital: -115887.39
+2024/10/16_22:07:16.023426 tick174	buy 1 meta
+2024/10/16_22:07:16.023426 tick174		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 49, 'nflx': 62, 'nvda': 0, 'tsla': 68, 'uber': 26}
+2024/10/16_22:07:16.023426 tick174		capital: -116383.17
+2024/10/16_22:07:16.023426 tick174	buy 1 nvda
+2024/10/16_22:07:16.023426 tick174		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 49, 'nflx': 62, 'nvda': 1, 'tsla': 68, 'uber': 26}
+2024/10/16_22:07:16.023426 tick174		capital: -116514.95
+2024/10/16_22:07:16.023426 tick174	buy 1 tsla
+2024/10/16_22:07:16.023426 tick174		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 49, 'nflx': 62, 'nvda': 1, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick174		capital: -116697.52
+2024/10/16_22:07:16.023426 tick175	buy 1 msft
+2024/10/16_22:07:16.023426 tick175		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 50, 'nflx': 62, 'nvda': 1, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick175		capital: -117146.19
+2024/10/16_22:07:16.023426 tick175	buy 1 nflx
+2024/10/16_22:07:16.023426 tick175		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 50, 'nflx': 63, 'nvda': 1, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick175		capital: -117816.21
+2024/10/16_22:07:16.023426 tick175	buy 1 nvda
+2024/10/16_22:07:16.023426 tick175		portfolio: {'aapl': 53, 'amzn': 46, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 50, 'nflx': 63, 'nvda': 2, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick175		capital: -117943.78
+2024/10/16_22:07:16.023426 tick176	buy 1 amzn
+2024/10/16_22:07:16.023426 tick176		portfolio: {'aapl': 53, 'amzn': 47, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 50, 'nflx': 63, 'nvda': 2, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick176		capital: -118130.35
+2024/10/16_22:07:16.023426 tick176	buy 1 nvda
+2024/10/16_22:07:16.023426 tick176		portfolio: {'aapl': 53, 'amzn': 47, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 50, 'nflx': 63, 'nvda': 3, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick176		capital: -118249.46
+2024/10/16_22:07:16.023426 tick179	buy 1 aapl
+2024/10/16_22:07:16.023426 tick179		portfolio: {'aapl': 54, 'amzn': 47, 'csco': 7, 'dis': 26, 'meta': 62, 'msft': 50, 'nflx': 63, 'nvda': 3, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick179		capital: -118461.08
+2024/10/16_22:07:16.023426 tick179	buy 1 dis
+2024/10/16_22:07:16.023426 tick179		portfolio: {'aapl': 54, 'amzn': 47, 'csco': 7, 'dis': 27, 'meta': 62, 'msft': 50, 'nflx': 63, 'nvda': 3, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick179		capital: -118561.37
+2024/10/16_22:07:16.023426 tick179	buy 1 meta
+2024/10/16_22:07:16.023426 tick179		portfolio: {'aapl': 54, 'amzn': 47, 'csco': 7, 'dis': 27, 'meta': 63, 'msft': 50, 'nflx': 63, 'nvda': 3, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick179		capital: -119066.59
+2024/10/16_22:07:16.023426 tick179	buy 1 msft
+2024/10/16_22:07:16.023426 tick179		portfolio: {'aapl': 54, 'amzn': 47, 'csco': 7, 'dis': 27, 'meta': 63, 'msft': 51, 'nflx': 63, 'nvda': 3, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick179		capital: -119514.54
+2024/10/16_22:07:16.023426 tick179	buy 1 nflx
+2024/10/16_22:07:16.023426 tick179		portfolio: {'aapl': 54, 'amzn': 47, 'csco': 7, 'dis': 27, 'meta': 63, 'msft': 51, 'nflx': 64, 'nvda': 3, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick179		capital: -120190.42
+2024/10/16_22:07:16.023426 tick179	buy 1 nvda
+2024/10/16_22:07:16.023426 tick179		portfolio: {'aapl': 54, 'amzn': 47, 'csco': 7, 'dis': 27, 'meta': 63, 'msft': 51, 'nflx': 64, 'nvda': 4, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick179		capital: -120315.41
+2024/10/16_22:07:16.023426 tick180	buy 1 amzn
+2024/10/16_22:07:16.023426 tick180		portfolio: {'aapl': 54, 'amzn': 48, 'csco': 7, 'dis': 27, 'meta': 63, 'msft': 51, 'nflx': 64, 'nvda': 4, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.023426 tick180		capital: -120509.66
+2024/10/16_22:07:16.023426 tick180	buy 1 dis
+2024/10/16_22:07:16.024426 tick180		portfolio: {'aapl': 54, 'amzn': 48, 'csco': 7, 'dis': 28, 'meta': 63, 'msft': 51, 'nflx': 64, 'nvda': 4, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.024426 tick180		capital: -120608.7
+2024/10/16_22:07:16.024426 tick180	buy 1 nflx
+2024/10/16_22:07:16.024426 tick180		portfolio: {'aapl': 54, 'amzn': 48, 'csco': 7, 'dis': 28, 'meta': 63, 'msft': 51, 'nflx': 65, 'nvda': 4, 'tsla': 69, 'uber': 26}
+2024/10/16_22:07:16.024426 tick180		capital: -121283.31
+2024/10/16_22:07:16.024426 tick180	buy 1 uber
+2024/10/16_22:07:16.024426 tick180		portfolio: {'aapl': 54, 'amzn': 48, 'csco': 7, 'dis': 28, 'meta': 63, 'msft': 51, 'nflx': 65, 'nvda': 4, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick180		capital: -121355.41
+2024/10/16_22:07:16.024426 tick182	buy 1 nvda
+2024/10/16_22:07:16.024426 tick182		portfolio: {'aapl': 54, 'amzn': 48, 'csco': 7, 'dis': 28, 'meta': 63, 'msft': 51, 'nflx': 65, 'nvda': 5, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick182		capital: -121479.08
+2024/10/16_22:07:16.024426 tick183	buy 1 amzn
+2024/10/16_22:07:16.024426 tick183		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 63, 'msft': 51, 'nflx': 65, 'nvda': 5, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick183		capital: -121677.67
+2024/10/16_22:07:16.024426 tick184	buy 1 meta
+2024/10/16_22:07:16.024426 tick184		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 51, 'nflx': 65, 'nvda': 5, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick184		capital: -122207.99
+2024/10/16_22:07:16.024426 tick184	buy 1 msft
+2024/10/16_22:07:16.024426 tick184		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 52, 'nflx': 65, 'nvda': 5, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick184		capital: -122675.23
+2024/10/16_22:07:16.024426 tick184	buy 1 nflx
+2024/10/16_22:07:16.024426 tick184		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 52, 'nflx': 66, 'nvda': 5, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick184		capital: -123361.97
+2024/10/16_22:07:16.024426 tick184	buy 1 nvda
+2024/10/16_22:07:16.024426 tick184		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 52, 'nflx': 66, 'nvda': 6, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick184		capital: -123488.8
+2024/10/16_22:07:16.024426 tick185	buy 1 msft
+2024/10/16_22:07:16.024426 tick185		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 53, 'nflx': 66, 'nvda': 6, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick185		capital: -123949.34
+2024/10/16_22:07:16.024426 tick186	buy 1 nflx
+2024/10/16_22:07:16.024426 tick186		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 53, 'nflx': 67, 'nvda': 6, 'tsla': 69, 'uber': 27}
+2024/10/16_22:07:16.024426 tick186		capital: -124627.99
+2024/10/16_22:07:16.024426 tick186	buy 1 uber
+2024/10/16_22:07:16.024426 tick186		portfolio: {'aapl': 54, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 53, 'nflx': 67, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick186		capital: -124698.26
+2024/10/16_22:07:16.024426 tick187	buy 1 aapl
+2024/10/16_22:07:16.024426 tick187		portfolio: {'aapl': 55, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 64, 'msft': 53, 'nflx': 67, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick187		capital: -124926.83
+2024/10/16_22:07:16.024426 tick187	buy 1 meta
+2024/10/16_22:07:16.024426 tick187		portfolio: {'aapl': 55, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 65, 'msft': 53, 'nflx': 67, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick187		capital: -125440.53
+2024/10/16_22:07:16.024426 tick187	buy 1 msft
+2024/10/16_22:07:16.024426 tick187		portfolio: {'aapl': 55, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 65, 'msft': 54, 'nflx': 67, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick187		capital: -125896.23
+2024/10/16_22:07:16.024426 tick187	buy 1 nflx
+2024/10/16_22:07:16.024426 tick187		portfolio: {'aapl': 55, 'amzn': 49, 'csco': 7, 'dis': 28, 'meta': 65, 'msft': 54, 'nflx': 68, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick187		capital: -126549.98
+2024/10/16_22:07:16.024426 tick188	buy 1 amzn
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 65, 'msft': 54, 'nflx': 68, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick188		capital: -126746.03
+2024/10/16_22:07:16.024426 tick188	buy 1 meta
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 66, 'msft': 54, 'nflx': 68, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick188		capital: -127245.9
+2024/10/16_22:07:16.024426 tick188	buy 1 msft
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 66, 'msft': 55, 'nflx': 68, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick188		capital: -127700.45
+2024/10/16_22:07:16.024426 tick188	buy 1 nflx
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 66, 'msft': 55, 'nflx': 69, 'nvda': 6, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick188		capital: -128349.05
+2024/10/16_22:07:16.024426 tick188	buy 1 nvda
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 66, 'msft': 55, 'nflx': 69, 'nvda': 7, 'tsla': 69, 'uber': 28}
+2024/10/16_22:07:16.024426 tick188		capital: -128477.45
+2024/10/16_22:07:16.024426 tick188	buy 1 tsla
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 66, 'msft': 55, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 28}
+2024/10/16_22:07:16.024426 tick188		capital: -128719.48
+2024/10/16_22:07:16.024426 tick188	buy 1 uber
+2024/10/16_22:07:16.024426 tick188		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 66, 'msft': 55, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick188		capital: -128792.91
+2024/10/16_22:07:16.024426 tick189	buy 1 meta
+2024/10/16_22:07:16.024426 tick189		portfolio: {'aapl': 55, 'amzn': 50, 'csco': 7, 'dis': 28, 'meta': 67, 'msft': 55, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick189		capital: -129290.07
+2024/10/16_22:07:16.024426 tick190	buy 1 amzn
+2024/10/16_22:07:16.024426 tick190		portfolio: {'aapl': 55, 'amzn': 51, 'csco': 7, 'dis': 28, 'meta': 67, 'msft': 55, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick190		capital: -129483.79
+2024/10/16_22:07:16.024426 tick190	buy 1 meta
+2024/10/16_22:07:16.024426 tick190		portfolio: {'aapl': 55, 'amzn': 51, 'csco': 7, 'dis': 28, 'meta': 68, 'msft': 55, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick190		capital: -129974.58
+2024/10/16_22:07:16.024426 tick190	buy 1 msft
+2024/10/16_22:07:16.024426 tick190		portfolio: {'aapl': 55, 'amzn': 51, 'csco': 7, 'dis': 28, 'meta': 68, 'msft': 56, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick190		capital: -130425.1
+2024/10/16_22:07:16.024426 tick191	buy 1 aapl
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 28, 'meta': 68, 'msft': 56, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick191		capital: -130654.98
+2024/10/16_22:07:16.024426 tick191	buy 1 dis
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 68, 'msft': 56, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick191		capital: -130753.29
+2024/10/16_22:07:16.024426 tick191	buy 1 meta
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 56, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick191		capital: -131216.28
+2024/10/16_22:07:16.024426 tick191	buy 1 msft
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 57, 'nflx': 69, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick191		capital: -131660.8
+2024/10/16_22:07:16.024426 tick191	buy 1 nflx
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 57, 'nflx': 70, 'nvda': 7, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick191		capital: -132309.26
+2024/10/16_22:07:16.024426 tick191	buy 1 nvda
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 57, 'nflx': 70, 'nvda': 8, 'tsla': 70, 'uber': 29}
+2024/10/16_22:07:16.024426 tick191		capital: -132436.62
+2024/10/16_22:07:16.024426 tick191	buy 1 uber
+2024/10/16_22:07:16.024426 tick191		portfolio: {'aapl': 56, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 57, 'nflx': 70, 'nvda': 8, 'tsla': 70, 'uber': 30}
+2024/10/16_22:07:16.024426 tick191		capital: -132506.24
+2024/10/16_22:07:16.024426 tick192	buy 1 aapl
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 51, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 57, 'nflx': 70, 'nvda': 8, 'tsla': 70, 'uber': 30}
+2024/10/16_22:07:16.024426 tick192		capital: -132731.42
+2024/10/16_22:07:16.024426 tick192	buy 1 amzn
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 52, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 57, 'nflx': 70, 'nvda': 8, 'tsla': 70, 'uber': 30}
+2024/10/16_22:07:16.024426 tick192		capital: -132920.35
+2024/10/16_22:07:16.024426 tick192	buy 1 msft
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 52, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 58, 'nflx': 70, 'nvda': 8, 'tsla': 70, 'uber': 30}
+2024/10/16_22:07:16.024426 tick192		capital: -133361.72
+2024/10/16_22:07:16.024426 tick192	buy 1 nflx
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 52, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 58, 'nflx': 71, 'nvda': 8, 'tsla': 70, 'uber': 30}
+2024/10/16_22:07:16.024426 tick192		capital: -134005.76
+2024/10/16_22:07:16.024426 tick192	buy 1 nvda
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 52, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 58, 'nflx': 71, 'nvda': 9, 'tsla': 70, 'uber': 30}
+2024/10/16_22:07:16.024426 tick192		capital: -134124.75
+2024/10/16_22:07:16.024426 tick192	buy 1 tsla
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 52, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 58, 'nflx': 71, 'nvda': 9, 'tsla': 71, 'uber': 30}
+2024/10/16_22:07:16.024426 tick192		capital: -134374.25
+2024/10/16_22:07:16.024426 tick192	buy 1 uber
+2024/10/16_22:07:16.024426 tick192		portfolio: {'aapl': 57, 'amzn': 52, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 58, 'nflx': 71, 'nvda': 9, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.024426 tick192		capital: -134441.51
+2024/10/16_22:07:16.024426 tick193	buy 1 amzn
+2024/10/16_22:07:16.024426 tick193		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 29, 'meta': 69, 'msft': 58, 'nflx': 71, 'nvda': 9, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.024426 tick193		capital: -134626.26
+2024/10/16_22:07:16.024426 tick193	buy 1 dis
+2024/10/16_22:07:16.024426 tick193		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 30, 'meta': 69, 'msft': 58, 'nflx': 71, 'nvda': 9, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.024426 tick193		capital: -134723.0
+2024/10/16_22:07:16.024426 tick193	buy 1 msft
+2024/10/16_22:07:16.024426 tick193		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 30, 'meta': 69, 'msft': 59, 'nflx': 71, 'nvda': 9, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.024426 tick193		capital: -135161.11
+2024/10/16_22:07:16.024426 tick193	buy 1 nflx
+2024/10/16_22:07:16.024426 tick193		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 30, 'meta': 69, 'msft': 59, 'nflx': 72, 'nvda': 9, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.024426 tick193		capital: -135795.45
+2024/10/16_22:07:16.024426 tick194	buy 1 dis
+2024/10/16_22:07:16.024426 tick194		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 31, 'meta': 69, 'msft': 59, 'nflx': 72, 'nvda': 9, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.024426 tick194		capital: -135890.58
+2024/10/16_22:07:16.024426 tick194	buy 1 nvda
+2024/10/16_22:07:16.024426 tick194		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 31, 'meta': 69, 'msft': 59, 'nflx': 72, 'nvda': 10, 'tsla': 71, 'uber': 31}
+2024/10/16_22:07:16.025426 tick194		capital: -136009.51
+2024/10/16_22:07:16.025426 tick194	buy 1 tsla
+2024/10/16_22:07:16.025426 tick194		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 31, 'meta': 69, 'msft': 59, 'nflx': 72, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick194		capital: -136249.71
+2024/10/16_22:07:16.025426 tick195	buy 1 dis
+2024/10/16_22:07:16.025426 tick195		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 32, 'meta': 69, 'msft': 59, 'nflx': 72, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick195		capital: -136341.65
+2024/10/16_22:07:16.025426 tick195	buy 1 nflx
+2024/10/16_22:07:16.025426 tick195		portfolio: {'aapl': 57, 'amzn': 53, 'csco': 7, 'dis': 32, 'meta': 69, 'msft': 59, 'nflx': 73, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick195		capital: -136985.41
+2024/10/16_22:07:16.025426 tick196	buy 1 aapl
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 32, 'meta': 69, 'msft': 59, 'nflx': 73, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick196		capital: -137204.95
+2024/10/16_22:07:16.025426 tick196	buy 1 dis
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 69, 'msft': 59, 'nflx': 73, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick196		capital: -137295.75
+2024/10/16_22:07:16.025426 tick196	buy 1 meta
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 59, 'nflx': 73, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick196		capital: -137758.02
+2024/10/16_22:07:16.025426 tick196	buy 1 msft
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 60, 'nflx': 73, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick196		capital: -138187.92
+2024/10/16_22:07:16.025426 tick196	buy 1 nflx
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 60, 'nflx': 74, 'nvda': 10, 'tsla': 72, 'uber': 31}
+2024/10/16_22:07:16.025426 tick196		capital: -138824.91
+2024/10/16_22:07:16.025426 tick196	buy 1 tsla
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 60, 'nflx': 74, 'nvda': 10, 'tsla': 73, 'uber': 31}
+2024/10/16_22:07:16.025426 tick196		capital: -139072.29
+2024/10/16_22:07:16.025426 tick196	buy 1 uber
+2024/10/16_22:07:16.025426 tick196		portfolio: {'aapl': 58, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 60, 'nflx': 74, 'nvda': 10, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick196		capital: -139139.43
+2024/10/16_22:07:16.025426 tick197	buy 1 aapl
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 53, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 60, 'nflx': 74, 'nvda': 10, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -139357.92
+2024/10/16_22:07:16.025426 tick197	buy 1 amzn
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 70, 'msft': 60, 'nflx': 74, 'nvda': 10, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -139539.75
+2024/10/16_22:07:16.025426 tick197	buy 1 meta
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 60, 'nflx': 74, 'nvda': 10, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -139994.16
+2024/10/16_22:07:16.025426 tick197	buy 1 msft
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 74, 'nvda': 10, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -140413.56
+2024/10/16_22:07:16.025426 tick197	buy 1 nflx
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 75, 'nvda': 10, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -141048.65
+2024/10/16_22:07:16.025426 tick197	buy 1 nvda
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 75, 'nvda': 11, 'tsla': 73, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -141163.9
+2024/10/16_22:07:16.025426 tick197	buy 1 tsla
+2024/10/16_22:07:16.025426 tick197		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 75, 'nvda': 11, 'tsla': 74, 'uber': 32}
+2024/10/16_22:07:16.025426 tick197		capital: -141380.89
+2024/10/16_22:07:16.025426 tick198	buy 1 nflx
+2024/10/16_22:07:16.025426 tick198		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 76, 'nvda': 11, 'tsla': 74, 'uber': 32}
+2024/10/16_22:07:16.025426 tick198		capital: -142013.26
+2024/10/16_22:07:16.025426 tick198	buy 1 nvda
+2024/10/16_22:07:16.025426 tick198		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 76, 'nvda': 12, 'tsla': 74, 'uber': 32}
+2024/10/16_22:07:16.025426 tick198		capital: -142126.54
+2024/10/16_22:07:16.025426 tick198	buy 1 uber
+2024/10/16_22:07:16.025426 tick198		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 76, 'nvda': 12, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick198		capital: -142191.94
+2024/10/16_22:07:16.025426 tick199	buy 1 nflx
+2024/10/16_22:07:16.025426 tick199		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 71, 'msft': 61, 'nflx': 77, 'nvda': 12, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick199		capital: -142819.9
+2024/10/16_22:07:16.025426 tick200	buy 1 meta
+2024/10/16_22:07:16.025426 tick200		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 61, 'nflx': 77, 'nvda': 12, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick200		capital: -143284.09
+2024/10/16_22:07:16.025426 tick200	buy 1 msft
+2024/10/16_22:07:16.025426 tick200		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 62, 'nflx': 77, 'nvda': 12, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick200		capital: -143708.01
+2024/10/16_22:07:16.025426 tick200	buy 1 nflx
+2024/10/16_22:07:16.025426 tick200		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 62, 'nflx': 78, 'nvda': 12, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick200		capital: -144331.59
+2024/10/16_22:07:16.025426 tick200	buy 1 nvda
+2024/10/16_22:07:16.025426 tick200		portfolio: {'aapl': 59, 'amzn': 54, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 62, 'nflx': 78, 'nvda': 13, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick200		capital: -144444.18
+2024/10/16_22:07:16.025426 tick201	buy 1 amzn
+2024/10/16_22:07:16.025426 tick201		portfolio: {'aapl': 59, 'amzn': 55, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 62, 'nflx': 78, 'nvda': 13, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick201		capital: -144626.89
+2024/10/16_22:07:16.025426 tick201	buy 1 msft
+2024/10/16_22:07:16.025426 tick201		portfolio: {'aapl': 59, 'amzn': 55, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 63, 'nflx': 78, 'nvda': 13, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick201		capital: -145046.24
+2024/10/16_22:07:16.025426 tick201	buy 1 nvda
+2024/10/16_22:07:16.025426 tick201		portfolio: {'aapl': 59, 'amzn': 55, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 63, 'nflx': 78, 'nvda': 14, 'tsla': 74, 'uber': 33}
+2024/10/16_22:07:16.025426 tick201		capital: -145150.97
+2024/10/16_22:07:16.025426 tick201	buy 1 tsla
+2024/10/16_22:07:16.025426 tick201		portfolio: {'aapl': 59, 'amzn': 55, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 63, 'nflx': 78, 'nvda': 14, 'tsla': 75, 'uber': 33}
+2024/10/16_22:07:16.025426 tick201		capital: -145374.59
+2024/10/16_22:07:16.025426 tick202	buy 1 aapl
+2024/10/16_22:07:16.025426 tick202		portfolio: {'aapl': 60, 'amzn': 55, 'csco': 7, 'dis': 33, 'meta': 72, 'msft': 63, 'nflx': 78, 'nvda': 14, 'tsla': 75, 'uber': 33}
+2024/10/16_22:07:16.025426 tick202		capital: -145593.95
+2024/10/16_22:07:16.025426 tick202	buy 1 csco
+2024/10/16_22:07:16.025426 tick202		portfolio: {'aapl': 60, 'amzn': 55, 'csco': 8, 'dis': 33, 'meta': 72, 'msft': 63, 'nflx': 78, 'nvda': 14, 'tsla': 75, 'uber': 33}
+2024/10/16_22:07:16.025426 tick202		capital: -145642.34
+2024/10/16_22:07:16.025426 tick202	buy 1 msft
+2024/10/16_22:07:16.025426 tick202		portfolio: {'aapl': 60, 'amzn': 55, 'csco': 8, 'dis': 33, 'meta': 72, 'msft': 64, 'nflx': 78, 'nvda': 14, 'tsla': 75, 'uber': 33}
+2024/10/16_22:07:16.025426 tick202		capital: -146060.45
+2024/10/16_22:07:16.025426 tick202	buy 1 nflx
+2024/10/16_22:07:16.025426 tick202		portfolio: {'aapl': 60, 'amzn': 55, 'csco': 8, 'dis': 33, 'meta': 72, 'msft': 64, 'nflx': 79, 'nvda': 14, 'tsla': 75, 'uber': 33}
+2024/10/16_22:07:16.025426 tick202		capital: -146686.3
+2024/10/16_22:07:16.025426 tick202	buy 1 uber
+2024/10/16_22:07:16.025426 tick202		portfolio: {'aapl': 60, 'amzn': 55, 'csco': 8, 'dis': 33, 'meta': 72, 'msft': 64, 'nflx': 79, 'nvda': 14, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick202		capital: -146748.32
+2024/10/16_22:07:16.025426 tick203	buy 1 amzn
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 33, 'meta': 72, 'msft': 64, 'nflx': 79, 'nvda': 14, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -146933.39
+2024/10/16_22:07:16.025426 tick203	buy 1 dis
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 72, 'msft': 64, 'nflx': 79, 'nvda': 14, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -147023.96
+2024/10/16_22:07:16.025426 tick203	buy 1 meta
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 64, 'nflx': 79, 'nvda': 14, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -147513.1
+2024/10/16_22:07:16.025426 tick203	buy 1 msft
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 79, 'nvda': 14, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -147922.59
+2024/10/16_22:07:16.025426 tick203	buy 1 nflx
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 14, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -148537.23
+2024/10/16_22:07:16.025426 tick203	buy 1 nvda
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 75, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -148647.44
+2024/10/16_22:07:16.025426 tick203	buy 1 tsla
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 34}
+2024/10/16_22:07:16.025426 tick203		capital: -148865.3
+2024/10/16_22:07:16.025426 tick203	buy 1 uber
+2024/10/16_22:07:16.025426 tick203		portfolio: {'aapl': 60, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick203		capital: -148925.29
+2024/10/16_22:07:16.025426 tick204	buy 1 aapl
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 56, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -149135.56
+2024/10/16_22:07:16.025426 tick204	buy 1 amzn
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 8, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -149304.46
+2024/10/16_22:07:16.025426 tick204	buy 1 csco
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 34, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -149350.2
+2024/10/16_22:07:16.025426 tick204	buy 1 dis
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 73, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -149438.98
+2024/10/16_22:07:16.025426 tick204	buy 1 meta
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 65, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -149915.71
+2024/10/16_22:07:16.025426 tick204	buy 1 msft
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 80, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -150311.86
+2024/10/16_22:07:16.025426 tick204	buy 1 nflx
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 15, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -150911.41
+2024/10/16_22:07:16.025426 tick204	buy 1 nvda
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 16, 'tsla': 76, 'uber': 35}
+2024/10/16_22:07:16.025426 tick204		capital: -151019.68
+2024/10/16_22:07:16.025426 tick204	buy 1 tsla
+2024/10/16_22:07:16.025426 tick204		portfolio: {'aapl': 61, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 16, 'tsla': 77, 'uber': 35}
+2024/10/16_22:07:16.026426 tick204		capital: -151228.35
+2024/10/16_22:07:16.026426 tick205	buy 1 aapl
+2024/10/16_22:07:16.026426 tick205		portfolio: {'aapl': 62, 'amzn': 57, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 16, 'tsla': 77, 'uber': 35}
+2024/10/16_22:07:16.026426 tick205		capital: -151436.58
+2024/10/16_22:07:16.026426 tick205	buy 1 amzn
+2024/10/16_22:07:16.026426 tick205		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 16, 'tsla': 77, 'uber': 35}
+2024/10/16_22:07:16.026426 tick205		capital: -151598.6
+2024/10/16_22:07:16.026426 tick205	buy 1 nvda
+2024/10/16_22:07:16.026426 tick205		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 17, 'tsla': 77, 'uber': 35}
+2024/10/16_22:07:16.026426 tick205		capital: -151700.05
+2024/10/16_22:07:16.026426 tick205	buy 1 tsla
+2024/10/16_22:07:16.026426 tick205		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 35, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 17, 'tsla': 78, 'uber': 35}
+2024/10/16_22:07:16.026426 tick205		capital: -151899.93
+2024/10/16_22:07:16.026426 tick206	buy 1 dis
+2024/10/16_22:07:16.026426 tick206		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 74, 'msft': 66, 'nflx': 81, 'nvda': 17, 'tsla': 78, 'uber': 35}
+2024/10/16_22:07:16.026426 tick206		capital: -151986.89
+2024/10/16_22:07:16.026426 tick206	buy 1 meta
+2024/10/16_22:07:16.026426 tick206		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 75, 'msft': 66, 'nflx': 81, 'nvda': 17, 'tsla': 78, 'uber': 35}
+2024/10/16_22:07:16.026426 tick206		capital: -152476.81
+2024/10/16_22:07:16.026426 tick206	buy 1 msft
+2024/10/16_22:07:16.026426 tick206		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 75, 'msft': 67, 'nflx': 81, 'nvda': 17, 'tsla': 78, 'uber': 35}
+2024/10/16_22:07:16.026426 tick206		capital: -152876.24
+2024/10/16_22:07:16.026426 tick207	buy 1 nvda
+2024/10/16_22:07:16.026426 tick207		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 75, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 78, 'uber': 35}
+2024/10/16_22:07:16.026426 tick207		capital: -152976.15
+2024/10/16_22:07:16.026426 tick207	buy 1 tsla
+2024/10/16_22:07:16.026426 tick207		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 75, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 79, 'uber': 35}
+2024/10/16_22:07:16.026426 tick207		capital: -153168.91
+2024/10/16_22:07:16.026426 tick209	buy 1 meta
+2024/10/16_22:07:16.026426 tick209		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 76, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 79, 'uber': 35}
+2024/10/16_22:07:16.026426 tick209		capital: -153685.86
+2024/10/16_22:07:16.026426 tick210	buy 1 tsla
+2024/10/16_22:07:16.026426 tick210		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 76, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 80, 'uber': 35}
+2024/10/16_22:07:16.026426 tick210		capital: -153884.35
+2024/10/16_22:07:16.026426 tick211	buy 1 meta
+2024/10/16_22:07:16.026426 tick211		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 77, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 80, 'uber': 35}
+2024/10/16_22:07:16.026426 tick211		capital: -154412.11
+2024/10/16_22:07:16.026426 tick212	buy 1 tsla
+2024/10/16_22:07:16.026426 tick212		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 77, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick212		capital: -154614.49
+2024/10/16_22:07:16.026426 tick213	buy 1 meta
+2024/10/16_22:07:16.026426 tick213		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 78, 'msft': 67, 'nflx': 81, 'nvda': 18, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick213		capital: -155142.91
+2024/10/16_22:07:16.026426 tick213	buy 1 msft
+2024/10/16_22:07:16.026426 tick213		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 36, 'meta': 78, 'msft': 68, 'nflx': 81, 'nvda': 18, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick213		capital: -155562.38
+2024/10/16_22:07:16.026426 tick215	buy 1 dis
+2024/10/16_22:07:16.026426 tick215		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 78, 'msft': 68, 'nflx': 81, 'nvda': 18, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick215		capital: -155653.12
+2024/10/16_22:07:16.026426 tick215	buy 1 meta
+2024/10/16_22:07:16.026426 tick215		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 79, 'msft': 68, 'nflx': 81, 'nvda': 18, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick215		capital: -156180.85
+2024/10/16_22:07:16.026426 tick216	buy 1 nflx
+2024/10/16_22:07:16.026426 tick216		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 79, 'msft': 68, 'nflx': 82, 'nvda': 18, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick216		capital: -156878.97
+2024/10/16_22:07:16.026426 tick216	buy 1 nvda
+2024/10/16_22:07:16.026426 tick216		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 79, 'msft': 68, 'nflx': 82, 'nvda': 19, 'tsla': 81, 'uber': 35}
+2024/10/16_22:07:16.026426 tick216		capital: -157007.22
+2024/10/16_22:07:16.026426 tick216	buy 1 tsla
+2024/10/16_22:07:16.026426 tick216		portfolio: {'aapl': 62, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 79, 'msft': 68, 'nflx': 82, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick216		capital: -157229.32
+2024/10/16_22:07:16.026426 tick217	buy 1 aapl
+2024/10/16_22:07:16.026426 tick217		portfolio: {'aapl': 63, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 79, 'msft': 68, 'nflx': 82, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick217		capital: -157454.85
+2024/10/16_22:07:16.026426 tick217	buy 1 meta
+2024/10/16_22:07:16.026426 tick217		portfolio: {'aapl': 63, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 80, 'msft': 68, 'nflx': 82, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick217		capital: -157987.78
+2024/10/16_22:07:16.026426 tick217	buy 1 msft
+2024/10/16_22:07:16.026426 tick217		portfolio: {'aapl': 63, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 80, 'msft': 69, 'nflx': 82, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick217		capital: -158404.33
+2024/10/16_22:07:16.026426 tick217	buy 1 nflx
+2024/10/16_22:07:16.026426 tick217		portfolio: {'aapl': 63, 'amzn': 58, 'csco': 9, 'dis': 37, 'meta': 80, 'msft': 69, 'nflx': 83, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick217		capital: -159094.29
+2024/10/16_22:07:16.026426 tick218	buy 1 amzn
+2024/10/16_22:07:16.026426 tick218		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 80, 'msft': 69, 'nflx': 83, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick218		capital: -159271.42
+2024/10/16_22:07:16.026426 tick218	buy 1 meta
+2024/10/16_22:07:16.026426 tick218		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 81, 'msft': 69, 'nflx': 83, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick218		capital: -159800.42
+2024/10/16_22:07:16.026426 tick218	buy 1 nflx
+2024/10/16_22:07:16.026426 tick218		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 81, 'msft': 69, 'nflx': 84, 'nvda': 19, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick218		capital: -160488.15
+2024/10/16_22:07:16.026426 tick218	buy 1 nvda
+2024/10/16_22:07:16.026426 tick218		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 81, 'msft': 69, 'nflx': 84, 'nvda': 20, 'tsla': 82, 'uber': 35}
+2024/10/16_22:07:16.026426 tick218		capital: -160612.89
+2024/10/16_22:07:16.026426 tick218	buy 1 tsla
+2024/10/16_22:07:16.026426 tick218		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 81, 'msft': 69, 'nflx': 84, 'nvda': 20, 'tsla': 83, 'uber': 35}
+2024/10/16_22:07:16.026426 tick218		capital: -160824.55
+2024/10/16_22:07:16.026426 tick219	buy 1 meta
+2024/10/16_22:07:16.026426 tick219		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 82, 'msft': 69, 'nflx': 84, 'nvda': 20, 'tsla': 83, 'uber': 35}
+2024/10/16_22:07:16.026426 tick219		capital: -161346.67
+2024/10/16_22:07:16.026426 tick219	buy 1 msft
+2024/10/16_22:07:16.026426 tick219		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 82, 'msft': 70, 'nflx': 84, 'nvda': 20, 'tsla': 83, 'uber': 35}
+2024/10/16_22:07:16.026426 tick219		capital: -161761.16
+2024/10/16_22:07:16.026426 tick219	buy 1 uber
+2024/10/16_22:07:16.026426 tick219		portfolio: {'aapl': 63, 'amzn': 59, 'csco': 9, 'dis': 37, 'meta': 82, 'msft': 70, 'nflx': 84, 'nvda': 20, 'tsla': 83, 'uber': 36}
+2024/10/16_22:07:16.026426 tick219		capital: -161834.77
+2024/10/16_22:07:16.026426 tick220	buy 1 amzn
+2024/10/16_22:07:16.026426 tick220		portfolio: {'aapl': 63, 'amzn': 60, 'csco': 9, 'dis': 37, 'meta': 82, 'msft': 70, 'nflx': 84, 'nvda': 20, 'tsla': 83, 'uber': 36}
+2024/10/16_22:07:16.026426 tick220		capital: -162011.27
+2024/10/16_22:07:16.026426 tick220	buy 1 meta
+2024/10/16_22:07:16.026426 tick220		portfolio: {'aapl': 63, 'amzn': 60, 'csco': 9, 'dis': 37, 'meta': 83, 'msft': 70, 'nflx': 84, 'nvda': 20, 'tsla': 83, 'uber': 36}
+2024/10/16_22:07:16.026426 tick220		capital: -162531.37
+2024/10/16_22:07:16.026426 tick220	buy 1 nvda
+2024/10/16_22:07:16.026426 tick220		portfolio: {'aapl': 63, 'amzn': 60, 'csco': 9, 'dis': 37, 'meta': 83, 'msft': 70, 'nflx': 84, 'nvda': 21, 'tsla': 83, 'uber': 36}
+2024/10/16_22:07:16.026426 tick220		capital: -162658.83
+2024/10/16_22:07:16.026426 tick220	buy 1 tsla
+2024/10/16_22:07:16.026426 tick220		portfolio: {'aapl': 63, 'amzn': 60, 'csco': 9, 'dis': 37, 'meta': 83, 'msft': 70, 'nflx': 84, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick220		capital: -162873.04
+2024/10/16_22:07:16.026426 tick221	buy 1 aapl
+2024/10/16_22:07:16.026426 tick221		portfolio: {'aapl': 64, 'amzn': 60, 'csco': 9, 'dis': 37, 'meta': 83, 'msft': 70, 'nflx': 84, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick221		capital: -163100.53
+2024/10/16_22:07:16.026426 tick221	buy 1 amzn
+2024/10/16_22:07:16.026426 tick221		portfolio: {'aapl': 64, 'amzn': 61, 'csco': 9, 'dis': 37, 'meta': 83, 'msft': 70, 'nflx': 84, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick221		capital: -163274.65
+2024/10/16_22:07:16.026426 tick221	buy 1 dis
+2024/10/16_22:07:16.026426 tick221		portfolio: {'aapl': 64, 'amzn': 61, 'csco': 9, 'dis': 38, 'meta': 83, 'msft': 70, 'nflx': 84, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick221		capital: -163365.14
+2024/10/16_22:07:16.026426 tick221	buy 1 meta
+2024/10/16_22:07:16.026426 tick221		portfolio: {'aapl': 64, 'amzn': 61, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 70, 'nflx': 84, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick221		capital: -163882.92
+2024/10/16_22:07:16.026426 tick221	buy 1 msft
+2024/10/16_22:07:16.026426 tick221		portfolio: {'aapl': 64, 'amzn': 61, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 84, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick221		capital: -164294.52
+2024/10/16_22:07:16.026426 tick221	buy 1 nflx
+2024/10/16_22:07:16.026426 tick221		portfolio: {'aapl': 64, 'amzn': 61, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 21, 'tsla': 84, 'uber': 36}
+2024/10/16_22:07:16.026426 tick221		capital: -164979.36
+2024/10/16_22:07:16.026426 tick221	buy 1 tsla
+2024/10/16_22:07:16.027426 tick221		portfolio: {'aapl': 64, 'amzn': 61, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 21, 'tsla': 85, 'uber': 36}
+2024/10/16_22:07:16.027426 tick221		capital: -165189.57
+2024/10/16_22:07:16.027426 tick222	buy 1 amzn
+2024/10/16_22:07:16.027426 tick222		portfolio: {'aapl': 64, 'amzn': 62, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 21, 'tsla': 85, 'uber': 36}
+2024/10/16_22:07:16.027426 tick222		capital: -165361.37
+2024/10/16_22:07:16.027426 tick222	buy 1 nvda
+2024/10/16_22:07:16.027426 tick222		portfolio: {'aapl': 64, 'amzn': 62, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 22, 'tsla': 85, 'uber': 36}
+2024/10/16_22:07:16.027426 tick222		capital: -165487.98
+2024/10/16_22:07:16.027426 tick222	buy 1 tsla
+2024/10/16_22:07:16.027426 tick222		portfolio: {'aapl': 64, 'amzn': 62, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 22, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick222		capital: -165694.73
+2024/10/16_22:07:16.027426 tick223	buy 1 nvda
+2024/10/16_22:07:16.027426 tick223		portfolio: {'aapl': 64, 'amzn': 62, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 23, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick223		capital: -165813.32
+2024/10/16_22:07:16.027426 tick224	buy 1 aapl
+2024/10/16_22:07:16.027426 tick224		portfolio: {'aapl': 65, 'amzn': 62, 'csco': 9, 'dis': 38, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 23, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick224		capital: -166037.09
+2024/10/16_22:07:16.027426 tick224	buy 1 dis
+2024/10/16_22:07:16.027426 tick224		portfolio: {'aapl': 65, 'amzn': 62, 'csco': 9, 'dis': 39, 'meta': 84, 'msft': 71, 'nflx': 85, 'nvda': 23, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick224		capital: -166127.22
+2024/10/16_22:07:16.027426 tick224	buy 1 meta
+2024/10/16_22:07:16.027426 tick224		portfolio: {'aapl': 65, 'amzn': 62, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 71, 'nflx': 85, 'nvda': 23, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick224		capital: -166639.98
+2024/10/16_22:07:16.027426 tick224	buy 1 msft
+2024/10/16_22:07:16.027426 tick224		portfolio: {'aapl': 65, 'amzn': 62, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 85, 'nvda': 23, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick224		capital: -167050.42
+2024/10/16_22:07:16.027426 tick224	buy 1 nflx
+2024/10/16_22:07:16.027426 tick224		portfolio: {'aapl': 65, 'amzn': 62, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 23, 'tsla': 86, 'uber': 36}
+2024/10/16_22:07:16.027426 tick224		capital: -167726.74
+2024/10/16_22:07:16.027426 tick224	buy 1 uber
+2024/10/16_22:07:16.027426 tick224		portfolio: {'aapl': 65, 'amzn': 62, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 23, 'tsla': 86, 'uber': 37}
+2024/10/16_22:07:16.027426 tick224		capital: -167799.63
+2024/10/16_22:07:16.027426 tick225	buy 1 aapl
+2024/10/16_22:07:16.027426 tick225		portfolio: {'aapl': 66, 'amzn': 62, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 23, 'tsla': 86, 'uber': 37}
+2024/10/16_22:07:16.027426 tick225		capital: -168021.48
+2024/10/16_22:07:16.027426 tick225	buy 1 amzn
+2024/10/16_22:07:16.027426 tick225		portfolio: {'aapl': 66, 'amzn': 63, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 23, 'tsla': 86, 'uber': 37}
+2024/10/16_22:07:16.027426 tick225		capital: -168198.73
+2024/10/16_22:07:16.027426 tick225	buy 1 nvda
+2024/10/16_22:07:16.027426 tick225		portfolio: {'aapl': 66, 'amzn': 63, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 24, 'tsla': 86, 'uber': 37}
+2024/10/16_22:07:16.027426 tick225		capital: -168307.73
+2024/10/16_22:07:16.027426 tick225	buy 1 tsla
+2024/10/16_22:07:16.027426 tick225		portfolio: {'aapl': 66, 'amzn': 63, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 24, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick225		capital: -168519.33
+2024/10/16_22:07:16.027426 tick226	buy 1 amzn
+2024/10/16_22:07:16.027426 tick226		portfolio: {'aapl': 66, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 24, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick226		capital: -168693.66
+2024/10/16_22:07:16.027426 tick226	buy 1 nvda
+2024/10/16_22:07:16.027426 tick226		portfolio: {'aapl': 66, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 25, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick226		capital: -168800.87
+2024/10/16_22:07:16.027426 tick227	buy 1 aapl
+2024/10/16_22:07:16.027426 tick227		portfolio: {'aapl': 67, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 85, 'msft': 72, 'nflx': 86, 'nvda': 25, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick227		capital: -169022.69
+2024/10/16_22:07:16.027426 tick227	buy 1 meta
+2024/10/16_22:07:16.027426 tick227		portfolio: {'aapl': 67, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 72, 'nflx': 86, 'nvda': 25, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick227		capital: -169523.96
+2024/10/16_22:07:16.027426 tick227	buy 1 msft
+2024/10/16_22:07:16.027426 tick227		portfolio: {'aapl': 67, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 86, 'nvda': 25, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick227		capital: -169926.66
+2024/10/16_22:07:16.027426 tick227	buy 1 nflx
+2024/10/16_22:07:16.027426 tick227		portfolio: {'aapl': 67, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 87, 'nvda': 25, 'tsla': 87, 'uber': 37}
+2024/10/16_22:07:16.027426 tick227		capital: -170593.43
+2024/10/16_22:07:16.027426 tick227	buy 1 uber
+2024/10/16_22:07:16.027426 tick227		portfolio: {'aapl': 67, 'amzn': 64, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 87, 'nvda': 25, 'tsla': 87, 'uber': 38}
+2024/10/16_22:07:16.027426 tick227		capital: -170664.01
+2024/10/16_22:07:16.027426 tick228	buy 1 amzn
+2024/10/16_22:07:16.027426 tick228		portfolio: {'aapl': 67, 'amzn': 65, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 87, 'nvda': 25, 'tsla': 87, 'uber': 38}
+2024/10/16_22:07:16.027426 tick228		capital: -170836.4
+2024/10/16_22:07:16.027426 tick228	buy 1 nvda
+2024/10/16_22:07:16.027426 tick228		portfolio: {'aapl': 67, 'amzn': 65, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 87, 'nvda': 26, 'tsla': 87, 'uber': 38}
+2024/10/16_22:07:16.027426 tick228		capital: -170940.23
+2024/10/16_22:07:16.027426 tick228	buy 1 tsla
+2024/10/16_22:07:16.027426 tick228		portfolio: {'aapl': 67, 'amzn': 65, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 87, 'nvda': 26, 'tsla': 88, 'uber': 38}
+2024/10/16_22:07:16.027426 tick228		capital: -171151.96
+2024/10/16_22:07:16.027426 tick229	buy 1 nflx
+2024/10/16_22:07:16.027426 tick229		portfolio: {'aapl': 67, 'amzn': 65, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 88, 'nvda': 26, 'tsla': 88, 'uber': 38}
+2024/10/16_22:07:16.027426 tick229		capital: -171826.58
+2024/10/16_22:07:16.027426 tick231	buy 1 uber
+2024/10/16_22:07:16.027426 tick231		portfolio: {'aapl': 67, 'amzn': 65, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 88, 'nvda': 26, 'tsla': 88, 'uber': 39}
+2024/10/16_22:07:16.027426 tick231		capital: -171895.67
+2024/10/16_22:07:16.027426 tick233	buy 1 aapl
+2024/10/16_22:07:16.027426 tick233		portfolio: {'aapl': 68, 'amzn': 65, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 88, 'nvda': 26, 'tsla': 88, 'uber': 39}
+2024/10/16_22:07:16.027426 tick233		capital: -172112.99
+2024/10/16_22:07:16.027426 tick234	buy 1 amzn
+2024/10/16_22:07:16.027426 tick234		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 88, 'nvda': 26, 'tsla': 88, 'uber': 39}
+2024/10/16_22:07:16.027426 tick234		capital: -172298.88
+2024/10/16_22:07:16.027426 tick234	buy 1 nvda
+2024/10/16_22:07:16.027426 tick234		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 88, 'nvda': 27, 'tsla': 88, 'uber': 39}
+2024/10/16_22:07:16.027426 tick234		capital: -172416.66
+2024/10/16_22:07:16.027426 tick234	buy 1 tsla
+2024/10/16_22:07:16.027426 tick234		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 73, 'nflx': 88, 'nvda': 27, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick234		capital: -172644.44
+2024/10/16_22:07:16.027426 tick235	buy 1 msft
+2024/10/16_22:07:16.027426 tick235		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 74, 'nflx': 88, 'nvda': 27, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick235		capital: -173076.25
+2024/10/16_22:07:16.027426 tick235	buy 1 nflx
+2024/10/16_22:07:16.027426 tick235		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 74, 'nflx': 89, 'nvda': 27, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick235		capital: -173767.72
+2024/10/16_22:07:16.027426 tick235	buy 1 nvda
+2024/10/16_22:07:16.027426 tick235		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 74, 'nflx': 89, 'nvda': 28, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick235		capital: -173884.31
+2024/10/16_22:07:16.027426 tick236	buy 1 nvda
+2024/10/16_22:07:16.027426 tick236		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 74, 'nflx': 89, 'nvda': 29, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick236		capital: -173998.68
+2024/10/16_22:07:16.027426 tick237	buy 1 msft
+2024/10/16_22:07:16.027426 tick237		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 75, 'nflx': 89, 'nvda': 29, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick237		capital: -174434.95
+2024/10/16_22:07:16.027426 tick237	buy 1 nflx
+2024/10/16_22:07:16.027426 tick237		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 75, 'nflx': 90, 'nvda': 29, 'tsla': 89, 'uber': 39}
+2024/10/16_22:07:16.027426 tick237		capital: -175136.98
+2024/10/16_22:07:16.027426 tick237	buy 1 uber
+2024/10/16_22:07:16.027426 tick237		portfolio: {'aapl': 68, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 75, 'nflx': 90, 'nvda': 29, 'tsla': 89, 'uber': 40}
+2024/10/16_22:07:16.027426 tick237		capital: -175211.92
+2024/10/16_22:07:16.027426 tick238	buy 1 aapl
+2024/10/16_22:07:16.027426 tick238		portfolio: {'aapl': 69, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 75, 'nflx': 90, 'nvda': 29, 'tsla': 89, 'uber': 40}
+2024/10/16_22:07:16.027426 tick238		capital: -175439.39
+2024/10/16_22:07:16.027426 tick238	buy 1 msft
+2024/10/16_22:07:16.027426 tick238		portfolio: {'aapl': 69, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 76, 'nflx': 90, 'nvda': 29, 'tsla': 89, 'uber': 40}
+2024/10/16_22:07:16.027426 tick238		capital: -175873.9
+2024/10/16_22:07:16.027426 tick238	buy 1 nvda
+2024/10/16_22:07:16.027426 tick238		portfolio: {'aapl': 69, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 76, 'nflx': 90, 'nvda': 30, 'tsla': 89, 'uber': 40}
+2024/10/16_22:07:16.027426 tick238		capital: -175990.9
+2024/10/16_22:07:16.027426 tick238	buy 1 tsla
+2024/10/16_22:07:16.027426 tick238		portfolio: {'aapl': 69, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 86, 'msft': 76, 'nflx': 90, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.027426 tick238		capital: -176230.15
+2024/10/16_22:07:16.028427 tick239	buy 1 meta
+2024/10/16_22:07:16.028427 tick239		portfolio: {'aapl': 69, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 76, 'nflx': 90, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick239		capital: -176794.48
+2024/10/16_22:07:16.028427 tick239	buy 1 msft
+2024/10/16_22:07:16.028427 tick239		portfolio: {'aapl': 69, 'amzn': 66, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 77, 'nflx': 90, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick239		capital: -177224.65
+2024/10/16_22:07:16.028427 tick241	buy 1 amzn
+2024/10/16_22:07:16.028427 tick241		portfolio: {'aapl': 69, 'amzn': 67, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 77, 'nflx': 90, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick241		capital: -177418.18
+2024/10/16_22:07:16.028427 tick241	buy 1 nflx
+2024/10/16_22:07:16.028427 tick241		portfolio: {'aapl': 69, 'amzn': 67, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 77, 'nflx': 91, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick241		capital: -178130.61
+2024/10/16_22:07:16.028427 tick242	buy 1 amzn
+2024/10/16_22:07:16.028427 tick242		portfolio: {'aapl': 69, 'amzn': 68, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 77, 'nflx': 91, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick242		capital: -178322.77
+2024/10/16_22:07:16.028427 tick242	buy 1 msft
+2024/10/16_22:07:16.028427 tick242		portfolio: {'aapl': 69, 'amzn': 68, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 91, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick242		capital: -178751.79
+2024/10/16_22:07:16.028427 tick242	buy 1 nflx
+2024/10/16_22:07:16.028427 tick242		portfolio: {'aapl': 69, 'amzn': 68, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 30, 'tsla': 90, 'uber': 40}
+2024/10/16_22:07:16.028427 tick242		capital: -179460.14
+2024/10/16_22:07:16.028427 tick242	buy 1 tsla
+2024/10/16_22:07:16.028427 tick242		portfolio: {'aapl': 69, 'amzn': 68, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 30, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick242		capital: -179715.36
+2024/10/16_22:07:16.028427 tick243	buy 1 amzn
+2024/10/16_22:07:16.028427 tick243		portfolio: {'aapl': 69, 'amzn': 69, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 30, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick243		capital: -179904.33
+2024/10/16_22:07:16.028427 tick243	buy 1 nvda
+2024/10/16_22:07:16.028427 tick243		portfolio: {'aapl': 69, 'amzn': 69, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick243		capital: -180026.73
+2024/10/16_22:07:16.028427 tick244	buy 1 aapl
+2024/10/16_22:07:16.028427 tick244		portfolio: {'aapl': 70, 'amzn': 69, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick244		capital: -180253.94
+2024/10/16_22:07:16.028427 tick244	buy 1 amzn
+2024/10/16_22:07:16.028427 tick244		portfolio: {'aapl': 70, 'amzn': 70, 'csco': 9, 'dis': 39, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick244		capital: -180441.27
+2024/10/16_22:07:16.028427 tick244	buy 1 dis
+2024/10/16_22:07:16.028427 tick244		portfolio: {'aapl': 70, 'amzn': 70, 'csco': 9, 'dis': 40, 'meta': 87, 'msft': 78, 'nflx': 92, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick244		capital: -180536.32
+2024/10/16_22:07:16.028427 tick244	buy 1 msft
+2024/10/16_22:07:16.028427 tick244		portfolio: {'aapl': 70, 'amzn': 70, 'csco': 9, 'dis': 40, 'meta': 87, 'msft': 79, 'nflx': 92, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick244		capital: -180958.01
+2024/10/16_22:07:16.028427 tick244	buy 1 nflx
+2024/10/16_22:07:16.028427 tick244		portfolio: {'aapl': 70, 'amzn': 70, 'csco': 9, 'dis': 40, 'meta': 87, 'msft': 79, 'nflx': 93, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick244		capital: -181665.14
+2024/10/16_22:07:16.028427 tick245	buy 1 amzn
+2024/10/16_22:07:16.028427 tick245		portfolio: {'aapl': 70, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 87, 'msft': 79, 'nflx': 93, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick245		capital: -181851.27
+2024/10/16_22:07:16.028427 tick245	buy 1 meta
+2024/10/16_22:07:16.028427 tick245		portfolio: {'aapl': 70, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 79, 'nflx': 93, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick245		capital: -182425.08
+2024/10/16_22:07:16.028427 tick245	buy 1 msft
+2024/10/16_22:07:16.028427 tick245		portfolio: {'aapl': 70, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 93, 'nvda': 31, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick245		capital: -182843.21
+2024/10/16_22:07:16.028427 tick245	buy 1 nvda
+2024/10/16_22:07:16.028427 tick245		portfolio: {'aapl': 70, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 93, 'nvda': 32, 'tsla': 91, 'uber': 40}
+2024/10/16_22:07:16.028427 tick245		capital: -182961.21
+2024/10/16_22:07:16.028427 tick245	buy 1 tsla
+2024/10/16_22:07:16.028427 tick245		portfolio: {'aapl': 70, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 93, 'nvda': 32, 'tsla': 92, 'uber': 40}
+2024/10/16_22:07:16.028427 tick245		capital: -183220.23
+2024/10/16_22:07:16.028427 tick245	buy 1 uber
+2024/10/16_22:07:16.028427 tick245		portfolio: {'aapl': 70, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 93, 'nvda': 32, 'tsla': 92, 'uber': 41}
+2024/10/16_22:07:16.028427 tick245		capital: -183294.1
+2024/10/16_22:07:16.028427 tick246	buy 1 aapl
+2024/10/16_22:07:16.028427 tick246		portfolio: {'aapl': 71, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 93, 'nvda': 32, 'tsla': 92, 'uber': 41}
+2024/10/16_22:07:16.028427 tick246		capital: -183520.77
+2024/10/16_22:07:16.028427 tick246	buy 1 nflx
+2024/10/16_22:07:16.028427 tick246		portfolio: {'aapl': 71, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 92, 'uber': 41}
+2024/10/16_22:07:16.028427 tick246		capital: -184228.57
+2024/10/16_22:07:16.028427 tick246	buy 1 tsla
+2024/10/16_22:07:16.028427 tick246		portfolio: {'aapl': 71, 'amzn': 71, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 93, 'uber': 41}
+2024/10/16_22:07:16.028427 tick246		capital: -184478.59
+2024/10/16_22:07:16.028427 tick247	buy 1 amzn
+2024/10/16_22:07:16.028427 tick247		portfolio: {'aapl': 71, 'amzn': 72, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 93, 'uber': 41}
+2024/10/16_22:07:16.028427 tick247		capital: -184661.55
+2024/10/16_22:07:16.028427 tick247	buy 1 tsla
+2024/10/16_22:07:16.028427 tick247		portfolio: {'aapl': 71, 'amzn': 72, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick247		capital: -184903.21
+2024/10/16_22:07:16.028427 tick248	buy 1 aapl
+2024/10/16_22:07:16.028427 tick248		portfolio: {'aapl': 72, 'amzn': 72, 'csco': 9, 'dis': 40, 'meta': 88, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick248		capital: -185125.9
+2024/10/16_22:07:16.028427 tick248	buy 1 dis
+2024/10/16_22:07:16.028427 tick248		portfolio: {'aapl': 72, 'amzn': 72, 'csco': 9, 'dis': 41, 'meta': 88, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick248		capital: -185219.29
+2024/10/16_22:07:16.028427 tick248	buy 1 meta
+2024/10/16_22:07:16.028427 tick248		portfolio: {'aapl': 72, 'amzn': 72, 'csco': 9, 'dis': 41, 'meta': 89, 'msft': 80, 'nflx': 94, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick248		capital: -185805.07
+2024/10/16_22:07:16.028427 tick248	buy 1 msft
+2024/10/16_22:07:16.028427 tick248		portfolio: {'aapl': 72, 'amzn': 72, 'csco': 9, 'dis': 41, 'meta': 89, 'msft': 81, 'nflx': 94, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick248		capital: -186215.61
+2024/10/16_22:07:16.028427 tick248	buy 1 nflx
+2024/10/16_22:07:16.028427 tick248		portfolio: {'aapl': 72, 'amzn': 72, 'csco': 9, 'dis': 41, 'meta': 89, 'msft': 81, 'nflx': 95, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick248		capital: -186918.53
+2024/10/16_22:07:16.028427 tick249	buy 1 amzn
+2024/10/16_22:07:16.028427 tick249		portfolio: {'aapl': 72, 'amzn': 73, 'csco': 9, 'dis': 41, 'meta': 89, 'msft': 81, 'nflx': 95, 'nvda': 32, 'tsla': 94, 'uber': 41}
+2024/10/16_22:07:16.028427 tick249		capital: -187100.33
+2024/10/16_22:07:16.028427 tick249	buy 1 tsla
+2024/10/16_22:07:16.028427 tick249		portfolio: {'aapl': 72, 'amzn': 73, 'csco': 9, 'dis': 41, 'meta': 89, 'msft': 81, 'nflx': 95, 'nvda': 32, 'tsla': 95, 'uber': 41}
+2024/10/16_22:07:16.028427 tick249		capital: -187342.16
+2024/10/16_22:07:16.028427 tick250	buy 1 meta
+2024/10/16_22:07:16.028427 tick250		portfolio: {'aapl': 72, 'amzn': 73, 'csco': 9, 'dis': 41, 'meta': 90, 'msft': 81, 'nflx': 95, 'nvda': 32, 'tsla': 95, 'uber': 41}
+2024/10/16_22:07:16.028427 tick250		capital: -187933.67
+2024/10/16_22:07:16.028427 tick251	buy 1 meta
+2024/10/16_22:07:16.028427 tick251		portfolio: {'aapl': 72, 'amzn': 73, 'csco': 9, 'dis': 41, 'meta': 91, 'msft': 81, 'nflx': 95, 'nvda': 32, 'tsla': 95, 'uber': 41}
+2024/10/16_22:07:16.028427 tick251		capital: -188518.5
+2024/10/16_22:07:16.028427 tick251	buy 1 msft
+2024/10/16_22:07:16.028427 tick251		portfolio: {'aapl': 72, 'amzn': 73, 'csco': 9, 'dis': 41, 'meta': 91, 'msft': 82, 'nflx': 95, 'nvda': 32, 'tsla': 95, 'uber': 41}
+2024/10/16_22:07:16.028427 tick251		capital: -188935.34
+2024/10/16_22:07:16.028427 tick251	buy 1 tsla
+2024/10/16_22:07:16.028427 tick251		portfolio: {'aapl': 72, 'amzn': 73, 'csco': 9, 'dis': 41, 'meta': 91, 'msft': 82, 'nflx': 95, 'nvda': 32, 'tsla': 96, 'uber': 41}
+2024/10/16_22:07:16.028427 tick251		capital: -189177.39

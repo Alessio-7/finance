@@ -1,40 +1,54 @@
+import typing
+
 import numpy as np
 
-from alg import AlgorithmStrategy, AllInAllOut
+import alg
 from alg_benchmark import MarketBenchmark
 
-benchmark: MarketBenchmark
-alg_class: AlgorithmStrategy.__class__
+all_params: list
+benchmark = MarketBenchmark()
 
 
-def alg(params: tuple) -> float:
-	return benchmark.stats_single_benchmark(alg_class, params)['tot capital']
+def recursive_params(bounds: list[tuple[float, float]], iterations: list[int], params: list, index: int = 0) -> list:
+	if len(params) == len(bounds):
+		return params
+	else:
+		for x in np.linspace(bounds[index][0], bounds[index][1], iterations[index]):
+			p = recursive_params(bounds=bounds, iterations=iterations, index=index + 1, params=params + [x])
+			if p is not None:
+				all_params.append(p)
+
+
+def best_fitting_params(alg_class: typing.ClassVar, bounds: list[tuple[float, float]], iterations: list[int], scenario: str = "current") -> tuple[list, float]:
+	global all_params
+
+	benchmark.load_scenario(scenario)
+
+	best_result = 0
+	best_params = []
+	all_params = list()
+	recursive_params(bounds=bounds, iterations=iterations, params=[])
+
+	combinations = len(all_params)
+
+	print(f"checking {combinations} combinations: ")
+
+	for params in all_params:
+		result = benchmark.stats_single_benchmark(alg_class, params)['tot capital']
+		if result > best_result:
+			best_result = result
+			best_params = params
+
+	return [round(float(a), 2) for a in best_params], best_result
 
 
 if __name__ == '__main__':
-	benchmark = MarketBenchmark()
-	alg_class = AllInAllOut
+	alg_class = alg.OneInAllOut
 
 	params = (1, 0.03, 0.1, -10)
-	bounds = [(1, 5), (0, 1.0), (0, 1.0), (-10, -2)]
+	bounds = [(1, 1), (-0.5, 0), (0, 0.5), (-15, -2)]
+	iters = [1, 15, 15, 13]
 
-	# max_val = minimize(lambda x: -alg(x), params, bounds=bounds)
-	# print(max_val)
+	bp, br = best_fitting_params(alg_class, bounds=bounds, iterations=iters)
 
-	iterations = 10
-	fits = []
-
-	best_result = 0
-	best_params = ()
-
-	for n_stock in range(bounds[0][0], bounds[0][1]+1):
-		for buy_perc in np.linspace(bounds[1][0], bounds[1][1], iterations):
-			for sell_perc in np.linspace(bounds[2][0], bounds[2][1], iterations):
-				for time_comp in range(bounds[3][0], bounds[3][1]+1):
-					params = (n_stock, buy_perc, sell_perc, time_comp)
-					result = alg(params)
-					if result > best_result:
-						best_result = result
-						best_params = params
-
-	print(f"{best_params} : {best_result}")
+	print(f"{bp} : {br}")

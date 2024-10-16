@@ -1,11 +1,15 @@
 import random
+import typing
 
 import numpy as np
 from matplotlib import pyplot as plt
 
 
 class Stock:
-	def __init__(self, name: str, past: list = []):
+	def __init__(self, name: str, past: list = None):
+		if past is None:
+			past = []
+
 		self.name: str = name
 		self.past: list = past
 
@@ -21,12 +25,12 @@ class Stock:
 	def historical_max(self, from_time: int = 0, to_time: int = -1) -> float:
 		return max(self.past[from_time:to_time])
 
-	def trend(self, from_time: int = 0, to_time=-1) -> float:
-		index1 = self.past.index(self.past[from_time])
-		index2 = self.past.index(self.past[to_time])
+	def trend(self, from_time: int = -2, to_time: int = -1) -> float:
+		index1 = from_time if from_time > 0 else len(self.past) + from_time
+		index2 = to_time if to_time > 0 else len(self.past) + to_time
 		return ((self.past[from_time] - self.past[to_time]) / (index1 - index2)) if len(self.past) > 0 and index1 != index2 else 0
 
-	def json(self, include_past: bool = True) -> object:
+	def json(self, include_past: bool = True) -> dict[str: typing.Any]:
 		js = {'name': self.name, 'price': self.past[-1]}
 		if include_past:
 			js['past'] = self.past
@@ -45,22 +49,22 @@ class Market:
 	def add_stock(self, stk: Stock) -> None:
 		self.stocks.append(stk)
 
-	def all_pasts(self) -> list:
+	def all_pasts(self) -> list[list]:
 		return [s.past for s in self.stocks]
 
 	def history_len(self) -> int:
 		return len(self.stocks[0].past)
 
-	def stock_by_name(self, name: str) -> Stock:
+	def stock_by_name(self, name: str) -> Stock | None:
 		for stock in self.stocks:
 			if stock.name == name:
 				return stock
 		return None
 
-	def gen_fig(self, names: list = [], fig_index=0) -> None:
+	def gen_fig(self, names: list[str] = None, fig_index: int = 0) -> plt.Figure:
 		stocks_to_plot = []
 
-		if len(names) == 0:
+		if len(names) == 0 or names is None:
 			stocks_to_plot = self.stocks
 		else:
 			for s in self.stocks:
@@ -76,6 +80,7 @@ class Market:
 			ax.plot(t, s.past, label=s.name)
 		fig.legend(loc="center right")
 		fig.set_figwidth(10)
+		return fig
 
 
 class SimStock(Stock):
@@ -84,7 +89,7 @@ class SimStock(Stock):
 		self.trend = random.uniform(6, -6)
 		self.stability = random.uniform(2, -2)
 
-	def json(self, include_past=False) -> object:
+	def json(self, include_past=False) -> dict[str: typing.Any]:
 		json = super(SimStock, self).json(include_past)
 		json['trend'] = self.trend
 		json['stability'] = self.stability
