@@ -7,21 +7,72 @@ import alg
 from market import Market, Stock
 
 
+class BenchmarkStock(Stock):
+
+	def __init__(self, name: str, end_index: int, past: list = None):
+		super().__init__(name, past)
+		self.end_index = end_index if end_index > 0 else len(self.past) + end_index
+
+	def price(self) -> float:
+		try:
+			return self.past[self.end_index]
+		except Exception:
+			print(self.end_index, len(self.past))
+
+	def historical_average(self, from_time: int = 0, to_time: int = -2) -> float:
+		if from_time > self.end_index or to_time > self.end_index:
+			raise IndexError(f"from_time and to_time has to be < {self.end_index}")
+		return super().historical_average(
+			from_time=from_time if from_time > 0 else self.end_index + from_time + 1,
+			to_time=to_time if to_time > 0 else self.end_index + to_time + 1
+		)
+
+	def historical_min(self, from_time: int = 0, to_time: int = -2) -> float:
+		if from_time > self.end_index or to_time > self.end_index:
+			raise IndexError(f"from_time and to_time has to be < {self.end_index}")
+
+		return super().historical_min(
+			from_time=from_time if from_time > 0 else self.end_index + from_time + 1,
+			to_time=to_time if to_time > 0 else self.end_index + to_time + 1
+		)
+
+	def historical_max(self, from_time: int = 0, to_time: int = -2) -> float:
+		if from_time > self.end_index or to_time > self.end_index:
+			raise IndexError(f"from_time and to_time has to be < {self.end_index}")
+
+		return super().historical_max(
+			from_time=from_time if from_time > 0 else self.end_index + from_time + 1,
+			to_time=to_time if to_time > 0 else self.end_index + to_time + 1
+		)
+
+	def trend(self, from_time: int = -2, to_time: int = -2) -> float:
+		if from_time > self.end_index or to_time > self.end_index:
+			raise IndexError(f"from_time and to_time has to be < {self.end_index}")
+
+		return super().trend(
+			from_time=from_time if from_time > 0 else self.end_index + from_time + 1,
+			to_time=to_time if to_time > 0 else self.end_index + to_time + 1
+		)
+
+	def next(self):
+		self.end_index += 1
+
+
 class MarketBenchmark(Market):
-	def __init__(self, scenario: str = "current", stocks_scenario: list[str] = None):
+	def __init__(self, scenario: str = None, stocks_scenario: list[str] = None):
 		super(MarketBenchmark, self).__init__()
 		if stocks_scenario is None:
 			stocks_scenario = []
 
-		self.stocks_full_history: dict = {}
 		self.n_benchmarks = 0
 		self.loaded_scenario: str = ""
-		self.load_scenario(scenario, stocks_scenario)
+		if scenario is not None:
+			self.load_scenario(scenario, stocks_scenario)
 
 	def load_scenario(self, scenario: str = "current", stocks_scenario: list[str] = None):
 		if self.loaded_scenario == scenario:
 			return
-
+		self.loaded_scenario = scenario
 		if stocks_scenario is None:
 			stocks_scenario = []
 
@@ -32,17 +83,21 @@ class MarketBenchmark(Market):
 			if file in stocks_scenario:
 				with open(f"{stock_dir}/{file}", "r") as f:
 					past = [float(line.rstrip()) for line in f.readlines() if len(line.rstrip()) > 0]
-				self.stocks_full_history[file] = past
+				self.stocks.append(BenchmarkStock(file, past=past, end_index=-1))
 
-	def startFrom(self, time: int = -1) -> None:
-		self.stocks = [Stock(name, past[:time]) for name, past in self.stocks_full_history.items()]
-
-	def next(self, time: int = 1) -> None:
+	def startFrom(self, time: int) -> None:
 		for stock in self.stocks:
-			stock.past.extend(self.stocks_full_history[stock.name][len(stock.past):len(stock.past) + time])
+			stock.end_index = time
+
+	def next(self) -> None:
+		for stock in self.stocks:
+			stock.next()
+
+	def history_len(self) -> int:
+		return self.stocks[0].end_index + 1
 
 	def time_left(self) -> int:
-		return len(self.stocks_full_history[self.stocks[0].name]) - self.history_len()
+		return len(self.stocks[0].past) - self.history_len()
 
 	def cycle(self, tick_fun: typing.Callable) -> None:
 		while self.time_left() > 0:
@@ -80,10 +135,9 @@ class MarketBenchmark(Market):
 
 
 if __name__ == '__main__':
-	# TODO numero di azioni comprate in base alla liquidità FOURIER ANALISI
-	m = MarketBenchmark(scenario="current")
+	m = MarketBenchmark(scenario="daily/2024-10-18")
 	m.start_bench_mark(
 		alg_class=alg.OneInAllOut,
-		params=[1, 0.0, 0.5, -2.0]
+		params=[1.0, -0.005, 0.01, -20.0]
 	)
 	plt.show()

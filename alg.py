@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 from market import Market, Stock
 
 # transaction_cost = lambda price: price*0.1
-transaction_cost = lambda price: 1
+transaction_cost = lambda price: 0
 
 
 class AlgorithmStrategy:
@@ -45,7 +45,7 @@ class AlgorithmStrategy:
 				if to_buy > 0:
 					self.portfolio[stock.name] += to_buy
 					self.capital -= (stock.price() * to_buy) + transaction_cost(stock.price())
-					self.log(f"buy {to_buy} {stock.name}")
+					self.log(f"buy {to_buy} {stock.name} @ {stock.price()}")
 
 				if self.portfolio[stock.name] < to_buy:
 					raise Exception("not enough stocks in portfolio")
@@ -53,7 +53,7 @@ class AlgorithmStrategy:
 				if to_sell > 0:
 					self.portfolio[stock.name] -= to_sell
 					self.capital += (stock.price() * to_sell) - transaction_cost(stock.price())
-					self.log(f"sell {to_sell} {stock.name}")
+					self.log(f"sell {to_sell} {stock.name} @ {stock.price()}")
 
 				self.capital = round(self.capital, 2)
 
@@ -118,7 +118,6 @@ class AlgorithmStrategy:
 		fig.suptitle(self.name)
 		axs = fig.subplots(2)
 		for s in self.market.stocks:
-			# print(len(s.past), s.name)
 			axs[0].plot(t, s.past, label=s.name)
 		axs[1].plot(self.capital_history[0], self.capital_history[1], 'o-', label="capital")
 		axs[1].plot(self.capital_history[0], self.capital_history[2], 'o-', label="tot capital")
@@ -161,7 +160,8 @@ class OneInAllOut(AlgorithmStrategy):
 		super().__init__(market, "OneInAllOut", start_capital)
 
 		if len(params) != 4 or params is None:
-			params = [1.0, 0.0, 0.5, -2.0]
+			raise Exception
+			#params = [1.0, 0.0, 0.5, -2.0]
 
 		self.n_stock_mov = int(params[0])
 		self.buy_perc = params[1]
@@ -177,11 +177,16 @@ class OneInAllOut(AlgorithmStrategy):
 		# if self.tick_count % (-self.time_comp) == 0 and self.portfolio[stock.name] > 0:
 		#	return 0, self.portfolio[stock.name]
 
-		if stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) < stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc):
+		if stock.price() == 415.84:
+			print(stock.historical_average(from_time=self.time_comp), self.buy_perc)
+			print(stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) , stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc))
+			print(stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) <= stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc))
+
+		if stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) <= stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc):
 			self.buyed_price[stock.name].append(stock.price())
 			return self.n_stock_mov, 0
 
-		if self.portfolio[stock.name] > 0 and stock.price() - (transaction_cost(stock.price()) / self.portfolio[stock.name]) > self.avg_stock_price(stock.name) * (
+		if self.portfolio[stock.name] > 0 and stock.price() - (transaction_cost(stock.price()) / self.portfolio[stock.name]) >= self.avg_stock_price(stock.name) * (
 				1 + self.sell_perc):
 			self.buyed_price[stock.name].clear()
 			return 0, self.portfolio[stock.name]
