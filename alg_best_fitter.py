@@ -43,9 +43,9 @@ def best_fitting_params(alg_class: typing.ClassVar, bounds: list[tuple[float, fl
 	i = 0
 	for params in all_params:
 		i += 1
-		#if in_error(combinations / i, [0.25, 0.5, 0.75, 1], 0.01):
+		# if in_error(combinations / i, [0.25, 0.5, 0.75, 1], 0.01):
 		#	print("-", end="")
-		if combinations/2 == i or combinations/2 +1 == i:
+		if combinations / 2 == i or combinations / 2 + 1 == i:
 			print("-", end="")
 		stats = benchmark.stats_single_benchmark(alg_class, params)
 
@@ -68,7 +68,45 @@ def best_fitting_params(alg_class: typing.ClassVar, bounds: list[tuple[float, fl
 	return [round(float(a), 2) for a in best_params], best_result
 
 
-if __name__ == '__main__':
+def best_fitting_daily_params(alg_class: typing.ClassVar, bounds: list[tuple[float, float]], iterations: list[int], day: str = "2024-10-18", result_type: int = 0) -> \
+		tuple[list, float]:
+	global all_params
+
+	best_result = None
+	best_params = []
+	all_params = list()
+	recursive_params(bounds=bounds, iterations=iterations, params=[])
+
+	combinations = len(all_params)
+
+	print(f"checking {combinations} combinations: ", end="")
+	i = 0
+	for params in all_params:
+		i += 1
+		if combinations / 2 == i or combinations / 2 + 1 == i:
+			print("-", end="")
+		stats = benchmark.daily_norm_reproduce(alg_class, params, day=day, show=False)
+
+		if result_type == 0:
+			result = stats['tot capital']
+		elif result_type == 1:
+			result = stats['tot capital'] / (abs(stats['liquid']) + 1)
+		else:
+			result = stats['tot capital']
+
+		if best_result is None:
+			best_result = result
+			best_params = params
+
+		if result > best_result:
+			best_result = result
+			best_params = params
+	print()
+
+	return [round(float(a), 2) for a in best_params], best_result
+
+
+"""if __name__ == '__main__':
 	alg_class = alg.OneInAllOut
 
 	params = (1, 0.03, 0.1, -10)
@@ -77,4 +115,4 @@ if __name__ == '__main__':
 
 	bp, br = best_fitting_params(alg_class, bounds=bounds, iterations=iters, scenario="daily/2024-10-18")
 
-	print(f"{bp} : {br}")
+	print(f"{bp} : {br}")"""

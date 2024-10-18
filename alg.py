@@ -22,6 +22,7 @@ class AlgorithmStrategy:
 		self.log_disabled = False
 		self.log_file = None
 		self.n_tran = 0
+		self.moves: dict[str: dict[int: tuple[int, int]]] = {stock.name: dict() for stock in self.market.stocks}
 
 		if not self.log_disabled:
 			self.open_log()
@@ -40,6 +41,7 @@ class AlgorithmStrategy:
 		for stock in self.market.stocks:
 			to_buy, to_sell = self.buy_sell(stock)
 			if to_buy + to_sell > 0:
+				self.moves[stock.name][self.tick_count] = to_buy, to_sell
 				self.n_tran += to_buy + to_sell
 				capital_changed = True
 				if to_buy > 0:
@@ -81,7 +83,7 @@ class AlgorithmStrategy:
 		t = datetime.datetime.now().strftime("%Y/%m/%d_%H:%M:%S.%f") + f" tick{self.tick_count}\t"
 		self.log_file.write(t + log + "\n")
 
-	def clean_log(self) -> None:
+	def clear_log(self) -> None:
 		open(f"./logs/{self.name}.log", "w").close()
 
 	def tot_stock_value(self) -> float:
@@ -100,6 +102,7 @@ class AlgorithmStrategy:
 			'liquid': self.capital,
 			'tot stock value': self.tot_stock_value(),
 			'tot capital': self.tot_capital(),
+			'moves': self.moves
 			# 'profit %': round((self.tot_capital() / (-self.capital if self.capital < 0 else 1)), 2)
 			# 'profit %': round(tot_spent / tot_earned, 2)
 		}
@@ -107,6 +110,7 @@ class AlgorithmStrategy:
 	def print_stats(self) -> None:
 		stats = self.stats()
 		stats.pop('name')
+		stats.pop('moves')
 		print(f"""-----{self.name}-----""")
 		for k, v in stats.items():
 			print(f"{k}: {v}")
@@ -161,7 +165,7 @@ class OneInAllOut(AlgorithmStrategy):
 
 		if len(params) != 4 or params is None:
 			raise Exception
-			#params = [1.0, 0.0, 0.5, -2.0]
+		# params = [1.0, 0.0, 0.5, -2.0]
 
 		self.n_stock_mov = int(params[0])
 		self.buy_perc = params[1]
@@ -176,11 +180,6 @@ class OneInAllOut(AlgorithmStrategy):
 
 		# if self.tick_count % (-self.time_comp) == 0 and self.portfolio[stock.name] > 0:
 		#	return 0, self.portfolio[stock.name]
-
-		if stock.price() == 415.84:
-			print(stock.historical_average(from_time=self.time_comp), self.buy_perc)
-			print(stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) , stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc))
-			print(stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) <= stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc))
 
 		if stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) <= stock.historical_average(from_time=self.time_comp) * (1 + self.buy_perc):
 			self.buyed_price[stock.name].append(stock.price())

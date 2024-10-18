@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 
 import alg
 from alg_benchmark import MarketBenchmark
-from alg_best_fitter import best_fitting_params
+from alg_best_fitter import best_fitting_params, best_fitting_daily_params
 
 
 class TestAlg:
@@ -24,6 +24,14 @@ class TestAlg:
 			scenario=scenario
 		)
 
+	def gen_best_daily_params(self, day: str):
+		self.best_params_scenario[f"daily/{day.removeprefix('daily/')}"] = best_fitting_daily_params(
+			alg_class=self.alg_class,
+			bounds=self.bounds,
+			iterations=self.iterations,
+			day=day
+		)
+
 	def print_best_params(self):
 		with open(f"./logs/{self.alg_class.__name__}_params", "w+") as log_file:
 			print(f"name:\t{self.alg_class.__name__}")
@@ -35,8 +43,11 @@ class TestAlg:
 		print("\n")
 		benchmark = MarketBenchmark()
 		for scenario, (params, result) in self.best_params_scenario.items():
-			benchmark.load_scenario(scenario=scenario)
-			benchmark.start_bench_mark(alg_class=self.alg_class, params=params)
+			if scenario.startswith("daily/"):
+				benchmark.daily_norm_reproduce(alg_class=self.alg_class, params=params, show=True)
+			else:
+				benchmark.load_scenario(scenario=scenario)
+				benchmark.start_bench_mark(alg_class=self.alg_class, params=params)
 
 
 transaction_costs = np.linspace(0.01, 0.1, 3)
@@ -44,16 +55,16 @@ transaction_costs = np.linspace(0.01, 0.1, 3)
 algs = [
 	TestAlg(
 		alg_class=alg.OneInAllOut,
-		bounds=[(1, 1), (-0.1, 0.1), (-0.1, 0.1), (-15, -2)],
-		iterations=[1, 20, 20, 13]
+		bounds=[(1, 1), (-0.5, 0), (0, 0.1), (-10, -2)],
+		iterations=[1, 5, 10, 8]
 	)
 ]
 
-scen = "daily/2024-10-18"
+scen = "2024-10-18"
 
 for scenario in [scen]:
 	for a in algs:
-		a.gen_best_params(scenario)
+		a.gen_best_daily_params(scenario)
 for a in algs:
 	a.print_best_params()
 

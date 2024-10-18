@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 
 import requests as requests
 
@@ -19,7 +20,9 @@ def clean():
 		print(f"\tcleaned {file}")
 
 
-def scrape(dir_to_save: str, quote: str):
+# time_samples: np.ndarray = np.arange(4 * 60, 16 * 60, 10)
+
+def scrape(dir_to_save: str, quote: str, sample_every_minute:int= 5):
 	headers = {
 		'accept': 'application/json, text/plain, */*',
 		'accept-encoding': 'gzip, deflate, br, zstd',
@@ -39,23 +42,37 @@ def scrape(dir_to_save: str, quote: str):
 	resp = requests.get(f"https://api.nasdaq.com/api/quote/{quote.upper()}/chart?assetclass=stocks", headers=headers)
 	chart = resp.json()['data']['chart']
 
-	x: list = []
+	t_samples: list = []
 	y: list = []
 	for d in chart:
-		x.append(d['x'])
-		y.append(d['y'])
+		dateTime = d['z']['dateTime'].split(" ")
+		time = [int(hm) for hm in dateTime[0].split(":")]
+
+		if dateTime[1] == "PM":
+			time[0] = time[0] + 12
+
+		time_sample = time[0] * 60 + time[1]
+		time_sample -= time_sample % sample_every_minute
+
+		if time_sample not in t_samples:
+			t_samples.append(time_sample)
+			y.append(d['z']['value'])
 
 	# dir_to_save = "./scenarios/daily/2024-10-18/"
 
 	if not os.path.exists(dir_to_save):
 		os.makedirs(dir_to_save)
 
-	with open(f"{dir_to_save}{quote}", "w+") as file:
+	with open(f"{dir_to_save}/{quote}", "w+") as file:
 		file.writelines([f"{v}\n" for v in y])
+	with open(f"{dir_to_save}_norm/{quote}", "w+") as file:
+		file.writelines([f"{round(float(v) - float(y[0]), 4)}\n" for v in y])
 
 	print(f"wrote {len(y)} values")
 
 
 if __name__ == '__main__':
-	#clean()
-	scrape("./scenarios/daily/2024-10-18/", "msft")
+	# clean()
+	t = datetime.now().strftime("%Y-%m-%d")
+	for quote in ["msft", "nflx", "tsla", "aapl", "nvda"]:
+		scrape(f"./scenarios/daily/{t}", quote=quote)
