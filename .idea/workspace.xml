@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7264546c-6255-4b72-976b-23cc34cfba6e" name="Changes" comment="mueheheheh">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/Reproducing.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18/aapl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18/nvda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18/tsla" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18_norm/aapl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18_norm/msft" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18_norm/nvda" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18_norm/tsla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alg.py" beforeDir="false" afterPath="$PROJECT_DIR$/alg.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alg_benchmark.py" beforeDir="false" afterPath="$PROJECT_DIR$/alg_benchmark.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alg_best_fitter.py" beforeDir="false" afterPath="$PROJECT_DIR$/alg_best_fitter.py" afterDir="false" />
@@ -21,7 +14,8 @@
       <change beforePath="$PROJECT_DIR$/data_cleaner.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_cleaner.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/OneInAllOut.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/OneInAllOut.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/OneInAllOut_params" beforeDir="false" afterPath="$PROJECT_DIR$/logs/OneInAllOut_params" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scenarios/daily/2024-10-18/msft" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/daily/2024-10-18/msft" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/Reproducing.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/Reproducing.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/market.py" beforeDir="false" afterPath="$PROJECT_DIR$/market.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +44,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2nOBfzPBl0Awtb7LQiFO79SHGnn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -64,14 +58,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/to_clean" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.grazie" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Computer\Documenti\python-workspace\finance\to_clean" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.data_cleaner">
+  <component name="RunManager" selected="Python.alg_benchmark">
     <configuration name="alg_benchmark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="finance" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.alg_full_test" />
         <item itemvalue="Python.alg_benchmark" />
-        <item itemvalue="Python.data_cleaner" />
+        <item itemvalue="Python.alg_full_test" />
         <item itemvalue="Python.prova" />
         <item itemvalue="Python.alg_best_fitter" />
+        <item itemvalue="Python.data_cleaner" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1729267789660</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="mueheheheh">
+      <created>1729284276787</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729284276787</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">

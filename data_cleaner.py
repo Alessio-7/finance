@@ -19,10 +19,10 @@ def clean():
 			f.writelines(past)
 		print(f"\tcleaned {file}")
 
-
 # time_samples: np.ndarray = np.arange(4 * 60, 16 * 60, 10)
 
-def scrape(dir_to_save: str, quote: str, sample_every_minute:int= 5):
+
+def scrape(dir_to_save: str, quote: str, sample_every_minute: int = 5):
 	headers = {
 		'accept': 'application/json, text/plain, */*',
 		'accept-encoding': 'gzip, deflate, br, zstd',
@@ -37,7 +37,7 @@ def scrape(dir_to_save: str, quote: str, sample_every_minute:int= 5):
 		'sec-fetch-mode': 'cors',
 		'sec-fetch-site': 'same-site',
 		'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0'
-	}
+		}
 
 	resp = requests.get(f"https://api.nasdaq.com/api/quote/{quote.upper()}/chart?assetclass=stocks", headers=headers)
 	chart = resp.json()['data']['chart']
@@ -74,5 +74,5 @@ def scrape(dir_to_save: str, quote: str, sample_every_minute:int= 5):
 if __name__ == '__main__':
 	# clean()
 	t = datetime.now().strftime("%Y-%m-%d")
-	for quote in ["msft", "nflx", "tsla", "aapl", "nvda"]:
-		scrape(f"./scenarios/daily/{t}", quote=quote)
+	for q in ["msft", "nflx", "tsla", "aapl", "nvda", "amzn"]:
+		scrape(f"./scenarios/daily/{t}", quote=q)

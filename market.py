@@ -42,7 +42,6 @@ class Stock:
 
 
 class Market:
-
 	def __init__(self):
 		self.stocks: list = []
 

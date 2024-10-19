@@ -6,8 +6,10 @@ from matplotlib import pyplot as plt
 
 from market import Market, Stock
 
+
 # transaction_cost = lambda price: price*0.1
-transaction_cost = lambda price: 0
+def transaction_cost(price):
+	return 1
 
 
 class AlgorithmStrategy:
@@ -105,7 +107,7 @@ class AlgorithmStrategy:
 			'moves': self.moves
 			# 'profit %': round((self.tot_capital() / (-self.capital if self.capital < 0 else 1)), 2)
 			# 'profit %': round(tot_spent / tot_earned, 2)
-		}
+			}
 
 	def print_stats(self) -> None:
 		stats = self.stats()
@@ -131,7 +133,8 @@ class AlgorithmStrategy:
 		axs[1].grid()
 		axs[1].set_xlim(axs[0].get_xlim())
 		fig.legend(loc="center right")
-		fig.set_size_inches(13.5, 8.5)
+		# fig.set_size_inches(13.5, 8.5)
+		# fig.set_size_inches(13.5, 8.5)
 		return fig
 
 
@@ -149,11 +152,13 @@ class AllInAllOut(AlgorithmStrategy):
 
 	def buy_sell(self, stock: Stock) -> tuple[int, int]:
 		if self.portfolio[stock.name] == 0 and stock.price() + (transaction_cost(stock.price()) / self.n_stock_mov) < stock.historical_average(
-				from_time=self.time_comp) * (
+				from_time=self.time_comp
+				) * (
 				1 + self.buy_perc):
 			return self.n_stock_mov, 0
 		if self.portfolio[stock.name] > 0 and stock.price() - (transaction_cost(stock.price()) / self.n_stock_mov) > stock.historical_average(
-				from_time=self.time_comp) * (
+				from_time=self.time_comp
+				) * (
 				1 + self.sell_perc):
 			return 0, self.portfolio[stock.name]
 		return 0, 0
