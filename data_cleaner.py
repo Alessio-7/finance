@@ -58,10 +58,10 @@ def scrape(dir_to_save: str, quote: str, sample_every_minute: int = 5):
 			t_samples.append(time_sample)
 			y.append(d['z']['value'])
 
-	# dir_to_save = "./scenarios/daily/2024-10-18/"
-
 	if not os.path.exists(dir_to_save):
 		os.makedirs(dir_to_save)
+	if not os.path.exists(f"{dir_to_save}_norm"):
+		os.makedirs(f"{dir_to_save}_norm")
 
 	with open(f"{dir_to_save}/{quote}", "w+") as file:
 		file.writelines([f"{v}\n" for v in y])
@@ -74,5 +74,6 @@ def scrape(dir_to_save: str, quote: str, sample_every_minute: int = 5):
 if __name__ == '__main__':
 	# clean()
 	t = datetime.now().strftime("%Y-%m-%d")
+	#t="2025-04-20"
 	for q in ["msft", "nflx", "tsla", "aapl", "nvda", "amzn"]:
 		scrape(f"./scenarios/daily/{t}", quote=q)

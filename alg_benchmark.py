@@ -1,6 +1,6 @@
 import os
 import typing
-
+from datetime import datetime
 from matplotlib import pyplot as plt
 
 import alg
@@ -204,12 +204,15 @@ class MarketBenchmark(Market):
 			params: list = None,
 			start: int = 20,
 			print_stats: bool = False,
-			show: bool = False
+			show: bool = False,
+			show_only_norm: bool = False
 			) -> tuple[plt.Figure, dict[str, typing.Any]]:
 
 		if params is None:
 			params = []
-
+		
+		if day is None:
+			day = datetime.now().strftime("%Y-%m-%d")
 		scenario = f"daily/{day.removeprefix('daily/')}_norm"
 		s: dict
 		if show:
@@ -223,7 +226,7 @@ class MarketBenchmark(Market):
 				)
 		else:
 			s = self.stats_of_benchmark(
-				alg_class=alg.OneInAllOut,
+				alg_class=alg_class,
 				scenario=scenario,
 				stocks_scenario=stocks_scenario,
 				params=params,
@@ -237,19 +240,35 @@ class MarketBenchmark(Market):
 			stocks_scenario=stocks_scenario,
 			start=start,
 			print_stats=print_stats,
-			show=show
+			show=(show and not show_only_norm)
 			)
 
 
 if __name__ == '__main__':
 	m = MarketBenchmark()
+
+	m.start_benchmark(
+		alg.Badger,
+		scenario="daily/2024-10-18_norm",
+		stocks_scenario=["msft"],
+		params=[0.38, 0.55, 2, 6],
+		print_stats=True,
+	)
+
+	"""
 	m.daily_norm_reproduce(
-		alg_class=alg.OneInAllOut,
-		params=[1.0, -4.797979797979798, -1.7676767676767677, -4.166666666666668],
+		alg_class=alg.Badger,
+		#params=[1.0, -4.797979797979798, -1.7676767676767677, -4.166666666666668],
 		#params=[1.0, -3.080808080808081, -2.676767676767677, -4.0],
+		params = [0.1, 1, 1, 2],
 		day="2024-10-18",
 		stocks_scenario=["msft"],
 		show=True,
+		show_only_norm=True,
 		print_stats=True
 		)
+	"""
+	print()
+	print()
+	print()	
 	plt.show()

@@ -17,12 +17,18 @@ class Stock:
 		return self.past[-1]
 
 	def historical_average(self, from_time: int = 0, to_time: int = -1) -> float:
+		if from_time==to_time:
+			return self.past[from_time]
 		return sum(self.past[from_time:to_time]) / len(self.past[from_time:to_time])
 
 	def historical_min(self, from_time: int = 0, to_time: int = -1) -> float:
+		if from_time==to_time:
+			return self.past[from_time]
 		return min(self.past[from_time:to_time])
 
 	def historical_max(self, from_time: int = 0, to_time: int = -1) -> float:
+		if from_time==to_time:
+			return self.past[from_time]
 		return max(self.past[from_time:to_time])
 
 	def trend(self, from_time: int = -2, to_time: int = -1) -> float:

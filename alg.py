@@ -195,3 +195,37 @@ class OneInAllOut(AlgorithmStrategy):
 			self.buyed_price[stock.name].clear()
 			return 0, self.portfolio[stock.name]
 		return 0, 0
+
+
+class Badger(AlgorithmStrategy):
+	def __init__(self, market: Market, start_capital: float = 10000, params: list = None):
+		super().__init__(market, "Badger", start_capital)
+
+		if len(params) != 4 or params is None:
+			params = (0.1, 1, 1, 2)
+
+		self.low_perc = params[0]
+		self.min_gain = params[1]
+		self.see_past = int(params[2])
+		self.max_movements = params[3]
+		self.movements = 0
+		self.buyed_price: dict = {stock.name: 0 for stock in self.market.stocks}
+	
+	def buy_sell(self, stock: Stock) -> tuple[int, int]:
+
+		if self.movements == self.max_movements:
+			return 0,0
+
+		if self.portfolio[stock.name] == 0:
+			average = stock.historical_average(-(2+self.see_past),-2)
+
+			if stock.price() <= average*(1-self.low_perc):
+				self.buyed_price[stock.name] = stock.price()
+				self.movements+=1
+				return 1, 0
+		else:
+			if stock.price() - self.buyed_price[stock.name] >= self.min_gain:
+				self.movements+=1
+				return 0, 1
+
+		return 0, 0

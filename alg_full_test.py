@@ -69,21 +69,21 @@ class TestAlg:
 if __name__ == '__main__':
 	algs = [
 		TestAlg(
-			alg_class=alg.OneInAllOut,
-			bounds=[(1, 1), (-5, 5), (-5, 5), (-15, -2)],
-			iterations=[1, 100, 100, 13],
-			# iterations=[1, 5, 4, 4],
-			threading_scale=10
+			alg_class=alg.Badger,
+			bounds=[(0.01, 0.5), (0.1, 1), (1, 2), (2, 8)],
+			iterations=[50, 89, 2, 4],
 			)
 		]
 
-	scen = "2024-10-18"
+	scen = "2024-10-18_norm"
 	stcks = ['msft']
 	for s in [scen]:
 		for a in algs:
 			a.gen_best_daily_params(day=s, stocks_scenario=stcks)
 	for a in algs:
 		a.print_best_params()
-
+	
 	algs[0].launch_benchmark(stocks_scenario=stcks)
+	print()
+	print()
 	plt.show()

@@ -113,7 +113,6 @@ def best_fitting_params_fun(
 
 	for t in threads:
 		t.join()
-	print()
 	# print(threads_results)
 	br = threads_results[0][1]
 	bp: list = threads_results[0][0]
@@ -124,7 +123,6 @@ def best_fitting_params_fun(
 			bp = par
 
 	print(bp, br)
-	exit()
 	return [round(float(a), 2) for a in bp], br
 
 
@@ -166,7 +164,6 @@ def best_fitting_daily_params(
 		result_type: int = 0,
 		threading_scale: int = 4
 		) -> tuple[list[float], float]:
-	print()
 
 	return best_fitting_params_fun(
 		fun=stats_output_daily_reproduce,
